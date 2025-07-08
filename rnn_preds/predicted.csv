@@ -1,0 +1,10001 @@
+Id,label
+0,mexican
+1,asian fusion
+2,asian fusion
+3,asian fusion
+4,mexican
+5,mexican
+6,asian fusion
+7,asian fusion
+8,american (traditional)
+9,american (traditional)
+10,asian fusion
+11,canadian (new)
+12,american (traditional)
+13,mexican
+14,canadian (new)
+15,mediterranean
+16,american (traditional)
+17,asian fusion
+18,asian fusion
+19,asian fusion
+20,american (new)
+21,asian fusion
+22,mexican
+23,mexican
+24,american (new)
+25,asian fusion
+26,american (traditional)
+27,american (traditional)
+28,asian fusion
+29,asian fusion
+30,mexican
+31,asian fusion
+32,asian fusion
+33,asian fusion
+34,chinese
+35,american (new)
+36,asian fusion
+37,chinese
+38,american (new)
+39,mexican
+40,american (traditional)
+41,asian fusion
+42,american (new)
+43,american (traditional)
+44,canadian (new)
+45,american (new)
+46,american (new)
+47,mexican
+48,asian fusion
+49,american (traditional)
+50,american (new)
+51,american (traditional)
+52,mexican
+53,asian fusion
+54,asian fusion
+55,asian fusion
+56,american (traditional)
+57,mediterranean
+58,canadian (new)
+59,american (new)
+60,mexican
+61,american (traditional)
+62,asian fusion
+63,american (traditional)
+64,american (traditional)
+65,thai
+66,american (new)
+67,american (traditional)
+68,asian fusion
+69,mexican
+70,american (traditional)
+71,canadian (new)
+72,american (new)
+73,mexican
+74,american (new)
+75,canadian (new)
+76,american (new)
+77,asian fusion
+78,asian fusion
+79,mexican
+80,american (traditional)
+81,italian
+82,american (new)
+83,american (new)
+84,american (traditional)
+85,japanese
+86,asian fusion
+87,chinese
+88,asian fusion
+89,asian fusion
+90,mexican
+91,american (new)
+92,american (new)
+93,italian
+94,mexican
+95,mexican
+96,asian fusion
+97,chinese
+98,mexican
+99,american (new)
+100,canadian (new)
+101,asian fusion
+102,asian fusion
+103,american (new)
+104,asian fusion
+105,asian fusion
+106,mediterranean
+107,american (traditional)
+108,asian fusion
+109,italian
+110,mexican
+111,asian fusion
+112,asian fusion
+113,asian fusion
+114,american (new)
+115,american (new)
+116,asian fusion
+117,canadian (new)
+118,american (traditional)
+119,american (new)
+120,asian fusion
+121,chinese
+122,mexican
+123,asian fusion
+124,asian fusion
+125,american (new)
+126,mexican
+127,asian fusion
+128,mexican
+129,japanese
+130,asian fusion
+131,asian fusion
+132,mexican
+133,italian
+134,american (traditional)
+135,canadian (new)
+136,asian fusion
+137,asian fusion
+138,asian fusion
+139,japanese
+140,american (traditional)
+141,american (new)
+142,american (new)
+143,asian fusion
+144,american (new)
+145,mexican
+146,american (traditional)
+147,asian fusion
+148,american (new)
+149,american (traditional)
+150,asian fusion
+151,canadian (new)
+152,american (new)
+153,mediterranean
+154,italian
+155,asian fusion
+156,asian fusion
+157,canadian (new)
+158,asian fusion
+159,mexican
+160,asian fusion
+161,mexican
+162,american (new)
+163,american (new)
+164,asian fusion
+165,asian fusion
+166,asian fusion
+167,american (new)
+168,american (new)
+169,asian fusion
+170,american (new)
+171,american (new)
+172,asian fusion
+173,asian fusion
+174,asian fusion
+175,mexican
+176,asian fusion
+177,american (new)
+178,american (new)
+179,american (new)
+180,canadian (new)
+181,asian fusion
+182,asian fusion
+183,american (new)
+184,mexican
+185,asian fusion
+186,asian fusion
+187,asian fusion
+188,asian fusion
+189,asian fusion
+190,american (new)
+191,american (traditional)
+192,asian fusion
+193,american (traditional)
+194,asian fusion
+195,asian fusion
+196,asian fusion
+197,mexican
+198,american (new)
+199,asian fusion
+200,canadian (new)
+201,canadian (new)
+202,asian fusion
+203,canadian (new)
+204,canadian (new)
+205,asian fusion
+206,mexican
+207,american (traditional)
+208,american (new)
+209,american (new)
+210,american (new)
+211,chinese
+212,american (traditional)
+213,japanese
+214,american (new)
+215,asian fusion
+216,mexican
+217,mexican
+218,mediterranean
+219,american (new)
+220,mediterranean
+221,american (new)
+222,mexican
+223,asian fusion
+224,american (new)
+225,thai
+226,canadian (new)
+227,asian fusion
+228,japanese
+229,canadian (new)
+230,mexican
+231,asian fusion
+232,asian fusion
+233,asian fusion
+234,canadian (new)
+235,canadian (new)
+236,american (traditional)
+237,american (traditional)
+238,asian fusion
+239,canadian (new)
+240,asian fusion
+241,asian fusion
+242,mexican
+243,asian fusion
+244,canadian (new)
+245,american (new)
+246,canadian (new)
+247,mexican
+248,asian fusion
+249,american (new)
+250,chinese
+251,asian fusion
+252,american (new)
+253,japanese
+254,japanese
+255,american (new)
+256,american (new)
+257,canadian (new)
+258,mexican
+259,asian fusion
+260,asian fusion
+261,american (traditional)
+262,asian fusion
+263,asian fusion
+264,chinese
+265,american (new)
+266,japanese
+267,asian fusion
+268,mexican
+269,mexican
+270,asian fusion
+271,mexican
+272,asian fusion
+273,asian fusion
+274,mexican
+275,asian fusion
+276,mexican
+277,american (new)
+278,mediterranean
+279,chinese
+280,mexican
+281,american (traditional)
+282,asian fusion
+283,mexican
+284,american (new)
+285,asian fusion
+286,asian fusion
+287,american (new)
+288,asian fusion
+289,canadian (new)
+290,italian
+291,mexican
+292,chinese
+293,asian fusion
+294,canadian (new)
+295,american (new)
+296,american (traditional)
+297,asian fusion
+298,mexican
+299,american (traditional)
+300,mexican
+301,asian fusion
+302,mexican
+303,asian fusion
+304,asian fusion
+305,asian fusion
+306,american (traditional)
+307,mexican
+308,asian fusion
+309,asian fusion
+310,asian fusion
+311,american (new)
+312,canadian (new)
+313,american (new)
+314,asian fusion
+315,asian fusion
+316,asian fusion
+317,asian fusion
+318,asian fusion
+319,asian fusion
+320,mexican
+321,mexican
+322,asian fusion
+323,mexican
+324,american (traditional)
+325,asian fusion
+326,mexican
+327,mexican
+328,american (new)
+329,canadian (new)
+330,american (new)
+331,asian fusion
+332,american (new)
+333,mexican
+334,canadian (new)
+335,american (traditional)
+336,asian fusion
+337,american (new)
+338,asian fusion
+339,asian fusion
+340,mediterranean
+341,chinese
+342,asian fusion
+343,mexican
+344,asian fusion
+345,american (new)
+346,mexican
+347,asian fusion
+348,american (traditional)
+349,american (new)
+350,american (new)
+351,asian fusion
+352,american (traditional)
+353,asian fusion
+354,mediterranean
+355,asian fusion
+356,american (traditional)
+357,chinese
+358,asian fusion
+359,american (new)
+360,asian fusion
+361,asian fusion
+362,american (new)
+363,american (traditional)
+364,american (traditional)
+365,asian fusion
+366,american (new)
+367,asian fusion
+368,asian fusion
+369,asian fusion
+370,italian
+371,american (traditional)
+372,asian fusion
+373,mexican
+374,asian fusion
+375,asian fusion
+376,asian fusion
+377,asian fusion
+378,asian fusion
+379,asian fusion
+380,canadian (new)
+381,japanese
+382,mexican
+383,asian fusion
+384,asian fusion
+385,mexican
+386,asian fusion
+387,chinese
+388,american (new)
+389,american (new)
+390,american (new)
+391,american (new)
+392,american (new)
+393,asian fusion
+394,asian fusion
+395,asian fusion
+396,american (new)
+397,american (new)
+398,mexican
+399,american (new)
+400,mexican
+401,american (new)
+402,italian
+403,asian fusion
+404,mexican
+405,asian fusion
+406,mexican
+407,american (new)
+408,american (new)
+409,mexican
+410,asian fusion
+411,asian fusion
+412,american (new)
+413,asian fusion
+414,american (new)
+415,asian fusion
+416,asian fusion
+417,american (new)
+418,asian fusion
+419,asian fusion
+420,asian fusion
+421,asian fusion
+422,asian fusion
+423,american (traditional)
+424,american (new)
+425,asian fusion
+426,japanese
+427,asian fusion
+428,mexican
+429,asian fusion
+430,asian fusion
+431,chinese
+432,american (traditional)
+433,chinese
+434,chinese
+435,asian fusion
+436,american (new)
+437,american (new)
+438,chinese
+439,mexican
+440,canadian (new)
+441,asian fusion
+442,american (traditional)
+443,chinese
+444,mexican
+445,mexican
+446,asian fusion
+447,mexican
+448,canadian (new)
+449,mexican
+450,asian fusion
+451,american (traditional)
+452,american (new)
+453,american (new)
+454,asian fusion
+455,chinese
+456,american (new)
+457,canadian (new)
+458,asian fusion
+459,asian fusion
+460,asian fusion
+461,asian fusion
+462,american (traditional)
+463,mexican
+464,asian fusion
+465,canadian (new)
+466,asian fusion
+467,mexican
+468,american (traditional)
+469,american (traditional)
+470,asian fusion
+471,mexican
+472,asian fusion
+473,mexican
+474,asian fusion
+475,asian fusion
+476,asian fusion
+477,asian fusion
+478,asian fusion
+479,canadian (new)
+480,american (new)
+481,mexican
+482,italian
+483,asian fusion
+484,asian fusion
+485,mexican
+486,asian fusion
+487,asian fusion
+488,mexican
+489,asian fusion
+490,asian fusion
+491,american (traditional)
+492,american (new)
+493,asian fusion
+494,japanese
+495,asian fusion
+496,asian fusion
+497,asian fusion
+498,mexican
+499,mexican
+500,asian fusion
+501,asian fusion
+502,canadian (new)
+503,asian fusion
+504,asian fusion
+505,asian fusion
+506,asian fusion
+507,american (traditional)
+508,american (traditional)
+509,japanese
+510,canadian (new)
+511,asian fusion
+512,american (new)
+513,thai
+514,american (new)
+515,american (new)
+516,canadian (new)
+517,mexican
+518,asian fusion
+519,japanese
+520,mediterranean
+521,asian fusion
+522,american (new)
+523,asian fusion
+524,american (traditional)
+525,asian fusion
+526,american (new)
+527,asian fusion
+528,canadian (new)
+529,asian fusion
+530,mexican
+531,asian fusion
+532,asian fusion
+533,asian fusion
+534,canadian (new)
+535,mexican
+536,mediterranean
+537,asian fusion
+538,american (traditional)
+539,asian fusion
+540,american (new)
+541,mediterranean
+542,asian fusion
+543,american (traditional)
+544,japanese
+545,american (traditional)
+546,american (new)
+547,american (traditional)
+548,american (new)
+549,american (new)
+550,mexican
+551,mexican
+552,american (traditional)
+553,mediterranean
+554,italian
+555,mexican
+556,american (new)
+557,american (new)
+558,mexican
+559,mexican
+560,american (new)
+561,american (traditional)
+562,american (new)
+563,asian fusion
+564,canadian (new)
+565,american (traditional)
+566,american (new)
+567,mexican
+568,asian fusion
+569,canadian (new)
+570,canadian (new)
+571,asian fusion
+572,asian fusion
+573,asian fusion
+574,asian fusion
+575,italian
+576,american (new)
+577,asian fusion
+578,american (new)
+579,asian fusion
+580,asian fusion
+581,asian fusion
+582,mexican
+583,asian fusion
+584,asian fusion
+585,american (traditional)
+586,japanese
+587,american (new)
+588,japanese
+589,american (new)
+590,asian fusion
+591,american (new)
+592,american (traditional)
+593,asian fusion
+594,asian fusion
+595,asian fusion
+596,mexican
+597,canadian (new)
+598,asian fusion
+599,asian fusion
+600,mexican
+601,asian fusion
+602,mexican
+603,asian fusion
+604,mexican
+605,american (new)
+606,mexican
+607,chinese
+608,asian fusion
+609,asian fusion
+610,italian
+611,american (new)
+612,american (new)
+613,asian fusion
+614,american (traditional)
+615,asian fusion
+616,mexican
+617,canadian (new)
+618,asian fusion
+619,mexican
+620,asian fusion
+621,mexican
+622,asian fusion
+623,asian fusion
+624,mexican
+625,mexican
+626,asian fusion
+627,asian fusion
+628,asian fusion
+629,american (new)
+630,mexican
+631,asian fusion
+632,japanese
+633,asian fusion
+634,asian fusion
+635,asian fusion
+636,mexican
+637,chinese
+638,canadian (new)
+639,american (traditional)
+640,asian fusion
+641,asian fusion
+642,asian fusion
+643,asian fusion
+644,asian fusion
+645,canadian (new)
+646,asian fusion
+647,asian fusion
+648,american (new)
+649,asian fusion
+650,american (new)
+651,mexican
+652,asian fusion
+653,asian fusion
+654,asian fusion
+655,mexican
+656,american (traditional)
+657,american (new)
+658,japanese
+659,american (traditional)
+660,mexican
+661,american (traditional)
+662,asian fusion
+663,mexican
+664,asian fusion
+665,asian fusion
+666,mexican
+667,chinese
+668,asian fusion
+669,american (new)
+670,mediterranean
+671,canadian (new)
+672,asian fusion
+673,american (new)
+674,american (traditional)
+675,mexican
+676,asian fusion
+677,asian fusion
+678,japanese
+679,mexican
+680,asian fusion
+681,asian fusion
+682,american (traditional)
+683,american (new)
+684,asian fusion
+685,canadian (new)
+686,japanese
+687,mexican
+688,mexican
+689,mexican
+690,american (new)
+691,canadian (new)
+692,japanese
+693,american (new)
+694,american (new)
+695,american (traditional)
+696,asian fusion
+697,canadian (new)
+698,canadian (new)
+699,american (traditional)
+700,american (new)
+701,canadian (new)
+702,asian fusion
+703,japanese
+704,american (traditional)
+705,asian fusion
+706,canadian (new)
+707,mediterranean
+708,japanese
+709,mexican
+710,mexican
+711,asian fusion
+712,asian fusion
+713,american (new)
+714,american (new)
+715,japanese
+716,asian fusion
+717,mexican
+718,american (new)
+719,asian fusion
+720,asian fusion
+721,american (new)
+722,asian fusion
+723,american (new)
+724,asian fusion
+725,asian fusion
+726,asian fusion
+727,japanese
+728,american (new)
+729,asian fusion
+730,asian fusion
+731,asian fusion
+732,american (traditional)
+733,asian fusion
+734,japanese
+735,japanese
+736,mediterranean
+737,mediterranean
+738,italian
+739,american (new)
+740,asian fusion
+741,canadian (new)
+742,american (traditional)
+743,asian fusion
+744,asian fusion
+745,mediterranean
+746,american (new)
+747,asian fusion
+748,asian fusion
+749,american (new)
+750,mediterranean
+751,asian fusion
+752,american (new)
+753,american (new)
+754,asian fusion
+755,japanese
+756,canadian (new)
+757,japanese
+758,mexican
+759,asian fusion
+760,american (new)
+761,asian fusion
+762,american (traditional)
+763,american (new)
+764,asian fusion
+765,asian fusion
+766,american (new)
+767,asian fusion
+768,thai
+769,asian fusion
+770,mexican
+771,asian fusion
+772,american (new)
+773,asian fusion
+774,asian fusion
+775,american (traditional)
+776,american (new)
+777,mexican
+778,asian fusion
+779,american (new)
+780,asian fusion
+781,canadian (new)
+782,american (new)
+783,american (new)
+784,mexican
+785,american (traditional)
+786,asian fusion
+787,american (new)
+788,american (new)
+789,american (new)
+790,asian fusion
+791,american (new)
+792,asian fusion
+793,canadian (new)
+794,asian fusion
+795,american (new)
+796,canadian (new)
+797,asian fusion
+798,american (traditional)
+799,asian fusion
+800,mediterranean
+801,asian fusion
+802,mediterranean
+803,asian fusion
+804,asian fusion
+805,asian fusion
+806,american (new)
+807,mexican
+808,chinese
+809,asian fusion
+810,canadian (new)
+811,asian fusion
+812,canadian (new)
+813,canadian (new)
+814,american (new)
+815,american (new)
+816,asian fusion
+817,asian fusion
+818,asian fusion
+819,american (traditional)
+820,asian fusion
+821,american (traditional)
+822,mexican
+823,american (traditional)
+824,american (new)
+825,asian fusion
+826,asian fusion
+827,american (new)
+828,american (new)
+829,american (new)
+830,mexican
+831,thai
+832,american (new)
+833,mediterranean
+834,japanese
+835,mexican
+836,canadian (new)
+837,mexican
+838,mexican
+839,mexican
+840,american (traditional)
+841,canadian (new)
+842,asian fusion
+843,american (new)
+844,american (new)
+845,asian fusion
+846,american (new)
+847,canadian (new)
+848,asian fusion
+849,mexican
+850,american (new)
+851,asian fusion
+852,american (new)
+853,thai
+854,japanese
+855,american (new)
+856,asian fusion
+857,chinese
+858,american (new)
+859,american (traditional)
+860,american (traditional)
+861,american (new)
+862,american (new)
+863,asian fusion
+864,asian fusion
+865,mexican
+866,mexican
+867,asian fusion
+868,mexican
+869,italian
+870,asian fusion
+871,italian
+872,american (traditional)
+873,american (new)
+874,american (new)
+875,asian fusion
+876,mexican
+877,asian fusion
+878,asian fusion
+879,asian fusion
+880,mediterranean
+881,asian fusion
+882,asian fusion
+883,asian fusion
+884,mexican
+885,canadian (new)
+886,american (new)
+887,asian fusion
+888,mediterranean
+889,canadian (new)
+890,asian fusion
+891,asian fusion
+892,american (new)
+893,american (new)
+894,american (traditional)
+895,asian fusion
+896,mexican
+897,thai
+898,asian fusion
+899,asian fusion
+900,mexican
+901,asian fusion
+902,mexican
+903,mexican
+904,italian
+905,mexican
+906,asian fusion
+907,asian fusion
+908,asian fusion
+909,canadian (new)
+910,american (new)
+911,mexican
+912,american (traditional)
+913,american (new)
+914,japanese
+915,asian fusion
+916,mexican
+917,american (traditional)
+918,asian fusion
+919,canadian (new)
+920,canadian (new)
+921,canadian (new)
+922,american (traditional)
+923,american (new)
+924,asian fusion
+925,asian fusion
+926,asian fusion
+927,american (new)
+928,canadian (new)
+929,american (new)
+930,asian fusion
+931,mexican
+932,american (traditional)
+933,canadian (new)
+934,american (new)
+935,asian fusion
+936,american (traditional)
+937,american (new)
+938,american (new)
+939,mexican
+940,american (traditional)
+941,asian fusion
+942,asian fusion
+943,asian fusion
+944,asian fusion
+945,asian fusion
+946,american (traditional)
+947,asian fusion
+948,asian fusion
+949,mexican
+950,japanese
+951,canadian (new)
+952,asian fusion
+953,american (new)
+954,american (new)
+955,asian fusion
+956,asian fusion
+957,asian fusion
+958,asian fusion
+959,mexican
+960,american (new)
+961,american (traditional)
+962,mexican
+963,mexican
+964,american (new)
+965,asian fusion
+966,canadian (new)
+967,mexican
+968,asian fusion
+969,asian fusion
+970,canadian (new)
+971,asian fusion
+972,canadian (new)
+973,asian fusion
+974,asian fusion
+975,american (new)
+976,american (new)
+977,american (new)
+978,american (new)
+979,american (traditional)
+980,american (traditional)
+981,mexican
+982,mexican
+983,mexican
+984,american (new)
+985,asian fusion
+986,mexican
+987,canadian (new)
+988,japanese
+989,american (new)
+990,asian fusion
+991,american (traditional)
+992,asian fusion
+993,asian fusion
+994,mexican
+995,canadian (new)
+996,mediterranean
+997,mediterranean
+998,mexican
+999,asian fusion
+1000,canadian (new)
+1001,asian fusion
+1002,mediterranean
+1003,american (new)
+1004,mexican
+1005,asian fusion
+1006,american (new)
+1007,canadian (new)
+1008,asian fusion
+1009,japanese
+1010,mexican
+1011,american (new)
+1012,asian fusion
+1013,asian fusion
+1014,american (traditional)
+1015,asian fusion
+1016,american (new)
+1017,american (new)
+1018,american (traditional)
+1019,canadian (new)
+1020,asian fusion
+1021,asian fusion
+1022,asian fusion
+1023,american (traditional)
+1024,asian fusion
+1025,asian fusion
+1026,asian fusion
+1027,asian fusion
+1028,american (traditional)
+1029,asian fusion
+1030,asian fusion
+1031,american (new)
+1032,american (new)
+1033,chinese
+1034,asian fusion
+1035,asian fusion
+1036,asian fusion
+1037,asian fusion
+1038,mexican
+1039,mexican
+1040,mexican
+1041,mexican
+1042,japanese
+1043,asian fusion
+1044,mediterranean
+1045,japanese
+1046,asian fusion
+1047,asian fusion
+1048,asian fusion
+1049,asian fusion
+1050,asian fusion
+1051,mexican
+1052,mexican
+1053,american (new)
+1054,asian fusion
+1055,asian fusion
+1056,american (traditional)
+1057,mexican
+1058,asian fusion
+1059,mexican
+1060,american (new)
+1061,japanese
+1062,italian
+1063,asian fusion
+1064,asian fusion
+1065,mexican
+1066,asian fusion
+1067,mediterranean
+1068,american (traditional)
+1069,asian fusion
+1070,asian fusion
+1071,american (new)
+1072,asian fusion
+1073,american (new)
+1074,american (new)
+1075,american (new)
+1076,asian fusion
+1077,american (new)
+1078,japanese
+1079,mexican
+1080,asian fusion
+1081,american (traditional)
+1082,canadian (new)
+1083,mexican
+1084,asian fusion
+1085,american (traditional)
+1086,japanese
+1087,asian fusion
+1088,asian fusion
+1089,asian fusion
+1090,asian fusion
+1091,asian fusion
+1092,asian fusion
+1093,american (new)
+1094,asian fusion
+1095,mexican
+1096,american (traditional)
+1097,mexican
+1098,american (new)
+1099,american (new)
+1100,chinese
+1101,american (new)
+1102,asian fusion
+1103,asian fusion
+1104,mexican
+1105,asian fusion
+1106,asian fusion
+1107,asian fusion
+1108,mexican
+1109,asian fusion
+1110,asian fusion
+1111,asian fusion
+1112,american (traditional)
+1113,mexican
+1114,asian fusion
+1115,asian fusion
+1116,mexican
+1117,mexican
+1118,mexican
+1119,canadian (new)
+1120,mediterranean
+1121,american (new)
+1122,thai
+1123,asian fusion
+1124,japanese
+1125,asian fusion
+1126,italian
+1127,american (new)
+1128,asian fusion
+1129,japanese
+1130,asian fusion
+1131,mexican
+1132,american (new)
+1133,japanese
+1134,asian fusion
+1135,american (traditional)
+1136,asian fusion
+1137,mexican
+1138,canadian (new)
+1139,american (new)
+1140,asian fusion
+1141,american (traditional)
+1142,american (traditional)
+1143,american (new)
+1144,american (new)
+1145,asian fusion
+1146,asian fusion
+1147,asian fusion
+1148,canadian (new)
+1149,chinese
+1150,asian fusion
+1151,chinese
+1152,american (new)
+1153,american (new)
+1154,canadian (new)
+1155,asian fusion
+1156,chinese
+1157,american (traditional)
+1158,american (new)
+1159,asian fusion
+1160,american (new)
+1161,american (new)
+1162,asian fusion
+1163,american (traditional)
+1164,mediterranean
+1165,mexican
+1166,american (new)
+1167,asian fusion
+1168,asian fusion
+1169,asian fusion
+1170,american (new)
+1171,mediterranean
+1172,canadian (new)
+1173,mediterranean
+1174,asian fusion
+1175,asian fusion
+1176,american (new)
+1177,american (new)
+1178,chinese
+1179,asian fusion
+1180,asian fusion
+1181,asian fusion
+1182,mexican
+1183,mexican
+1184,asian fusion
+1185,canadian (new)
+1186,asian fusion
+1187,asian fusion
+1188,asian fusion
+1189,canadian (new)
+1190,mexican
+1191,mexican
+1192,asian fusion
+1193,mexican
+1194,asian fusion
+1195,american (new)
+1196,japanese
+1197,italian
+1198,asian fusion
+1199,asian fusion
+1200,asian fusion
+1201,chinese
+1202,mexican
+1203,american (new)
+1204,asian fusion
+1205,canadian (new)
+1206,american (new)
+1207,asian fusion
+1208,asian fusion
+1209,american (traditional)
+1210,chinese
+1211,american (new)
+1212,asian fusion
+1213,asian fusion
+1214,asian fusion
+1215,asian fusion
+1216,asian fusion
+1217,canadian (new)
+1218,canadian (new)
+1219,american (new)
+1220,asian fusion
+1221,mexican
+1222,asian fusion
+1223,american (new)
+1224,american (new)
+1225,american (traditional)
+1226,american (traditional)
+1227,asian fusion
+1228,asian fusion
+1229,mexican
+1230,american (traditional)
+1231,american (new)
+1232,asian fusion
+1233,american (new)
+1234,japanese
+1235,american (new)
+1236,asian fusion
+1237,canadian (new)
+1238,mexican
+1239,asian fusion
+1240,mexican
+1241,american (new)
+1242,asian fusion
+1243,american (new)
+1244,canadian (new)
+1245,canadian (new)
+1246,asian fusion
+1247,asian fusion
+1248,canadian (new)
+1249,american (new)
+1250,mexican
+1251,american (new)
+1252,asian fusion
+1253,mexican
+1254,asian fusion
+1255,mexican
+1256,asian fusion
+1257,asian fusion
+1258,japanese
+1259,mexican
+1260,mexican
+1261,american (new)
+1262,mexican
+1263,american (traditional)
+1264,japanese
+1265,mexican
+1266,asian fusion
+1267,american (new)
+1268,american (new)
+1269,asian fusion
+1270,asian fusion
+1271,mediterranean
+1272,american (new)
+1273,asian fusion
+1274,italian
+1275,american (new)
+1276,thai
+1277,american (traditional)
+1278,italian
+1279,american (new)
+1280,asian fusion
+1281,american (new)
+1282,american (traditional)
+1283,american (new)
+1284,american (traditional)
+1285,asian fusion
+1286,american (traditional)
+1287,mexican
+1288,asian fusion
+1289,thai
+1290,american (traditional)
+1291,asian fusion
+1292,mexican
+1293,american (new)
+1294,american (new)
+1295,american (new)
+1296,japanese
+1297,asian fusion
+1298,asian fusion
+1299,asian fusion
+1300,american (new)
+1301,asian fusion
+1302,italian
+1303,asian fusion
+1304,asian fusion
+1305,canadian (new)
+1306,asian fusion
+1307,mexican
+1308,asian fusion
+1309,american (new)
+1310,american (new)
+1311,mexican
+1312,asian fusion
+1313,chinese
+1314,thai
+1315,mexican
+1316,canadian (new)
+1317,asian fusion
+1318,asian fusion
+1319,american (new)
+1320,american (traditional)
+1321,asian fusion
+1322,asian fusion
+1323,asian fusion
+1324,italian
+1325,mexican
+1326,american (new)
+1327,american (new)
+1328,american (new)
+1329,american (new)
+1330,mexican
+1331,mexican
+1332,asian fusion
+1333,american (new)
+1334,mediterranean
+1335,mexican
+1336,mediterranean
+1337,asian fusion
+1338,mexican
+1339,japanese
+1340,asian fusion
+1341,japanese
+1342,american (traditional)
+1343,asian fusion
+1344,american (new)
+1345,american (new)
+1346,asian fusion
+1347,mexican
+1348,asian fusion
+1349,american (traditional)
+1350,american (traditional)
+1351,american (traditional)
+1352,asian fusion
+1353,american (traditional)
+1354,japanese
+1355,asian fusion
+1356,american (new)
+1357,canadian (new)
+1358,american (new)
+1359,japanese
+1360,american (new)
+1361,italian
+1362,american (new)
+1363,american (new)
+1364,asian fusion
+1365,asian fusion
+1366,asian fusion
+1367,mexican
+1368,asian fusion
+1369,asian fusion
+1370,asian fusion
+1371,asian fusion
+1372,asian fusion
+1373,asian fusion
+1374,asian fusion
+1375,japanese
+1376,american (new)
+1377,asian fusion
+1378,american (new)
+1379,mexican
+1380,asian fusion
+1381,american (new)
+1382,asian fusion
+1383,asian fusion
+1384,canadian (new)
+1385,american (new)
+1386,canadian (new)
+1387,mexican
+1388,asian fusion
+1389,asian fusion
+1390,asian fusion
+1391,asian fusion
+1392,mediterranean
+1393,asian fusion
+1394,mexican
+1395,american (new)
+1396,american (traditional)
+1397,asian fusion
+1398,mexican
+1399,asian fusion
+1400,american (new)
+1401,asian fusion
+1402,mexican
+1403,american (new)
+1404,asian fusion
+1405,mexican
+1406,american (traditional)
+1407,american (new)
+1408,asian fusion
+1409,american (new)
+1410,canadian (new)
+1411,asian fusion
+1412,canadian (new)
+1413,mexican
+1414,american (new)
+1415,canadian (new)
+1416,american (new)
+1417,mexican
+1418,mexican
+1419,american (new)
+1420,asian fusion
+1421,american (new)
+1422,asian fusion
+1423,asian fusion
+1424,asian fusion
+1425,asian fusion
+1426,american (traditional)
+1427,asian fusion
+1428,chinese
+1429,mexican
+1430,chinese
+1431,asian fusion
+1432,mexican
+1433,japanese
+1434,asian fusion
+1435,canadian (new)
+1436,american (new)
+1437,asian fusion
+1438,asian fusion
+1439,asian fusion
+1440,italian
+1441,asian fusion
+1442,american (new)
+1443,canadian (new)
+1444,asian fusion
+1445,canadian (new)
+1446,asian fusion
+1447,mexican
+1448,mexican
+1449,american (new)
+1450,mexican
+1451,american (new)
+1452,mediterranean
+1453,asian fusion
+1454,american (new)
+1455,american (new)
+1456,asian fusion
+1457,mexican
+1458,asian fusion
+1459,mexican
+1460,asian fusion
+1461,asian fusion
+1462,asian fusion
+1463,italian
+1464,italian
+1465,japanese
+1466,italian
+1467,mexican
+1468,american (new)
+1469,canadian (new)
+1470,asian fusion
+1471,asian fusion
+1472,asian fusion
+1473,american (new)
+1474,mexican
+1475,mexican
+1476,mexican
+1477,mediterranean
+1478,mexican
+1479,american (new)
+1480,asian fusion
+1481,american (traditional)
+1482,asian fusion
+1483,american (new)
+1484,american (traditional)
+1485,american (new)
+1486,mexican
+1487,chinese
+1488,asian fusion
+1489,asian fusion
+1490,american (new)
+1491,asian fusion
+1492,american (traditional)
+1493,american (new)
+1494,canadian (new)
+1495,american (traditional)
+1496,american (new)
+1497,mexican
+1498,asian fusion
+1499,asian fusion
+1500,american (new)
+1501,asian fusion
+1502,asian fusion
+1503,mediterranean
+1504,mexican
+1505,mexican
+1506,american (new)
+1507,american (traditional)
+1508,american (traditional)
+1509,asian fusion
+1510,american (new)
+1511,asian fusion
+1512,asian fusion
+1513,asian fusion
+1514,asian fusion
+1515,asian fusion
+1516,mexican
+1517,mexican
+1518,american (traditional)
+1519,asian fusion
+1520,american (new)
+1521,asian fusion
+1522,american (new)
+1523,american (new)
+1524,asian fusion
+1525,canadian (new)
+1526,asian fusion
+1527,american (new)
+1528,american (new)
+1529,mexican
+1530,asian fusion
+1531,thai
+1532,american (new)
+1533,american (new)
+1534,american (new)
+1535,asian fusion
+1536,thai
+1537,chinese
+1538,american (new)
+1539,mexican
+1540,canadian (new)
+1541,asian fusion
+1542,american (new)
+1543,american (new)
+1544,american (new)
+1545,canadian (new)
+1546,japanese
+1547,japanese
+1548,asian fusion
+1549,asian fusion
+1550,canadian (new)
+1551,canadian (new)
+1552,thai
+1553,american (new)
+1554,american (new)
+1555,american (new)
+1556,chinese
+1557,mexican
+1558,mexican
+1559,american (new)
+1560,american (new)
+1561,mexican
+1562,canadian (new)
+1563,american (traditional)
+1564,canadian (new)
+1565,mexican
+1566,american (new)
+1567,american (traditional)
+1568,asian fusion
+1569,asian fusion
+1570,american (new)
+1571,canadian (new)
+1572,american (traditional)
+1573,american (new)
+1574,canadian (new)
+1575,american (new)
+1576,mexican
+1577,asian fusion
+1578,chinese
+1579,asian fusion
+1580,asian fusion
+1581,american (new)
+1582,japanese
+1583,asian fusion
+1584,asian fusion
+1585,mexican
+1586,mexican
+1587,mediterranean
+1588,american (traditional)
+1589,asian fusion
+1590,asian fusion
+1591,asian fusion
+1592,asian fusion
+1593,asian fusion
+1594,asian fusion
+1595,american (traditional)
+1596,asian fusion
+1597,asian fusion
+1598,mediterranean
+1599,italian
+1600,canadian (new)
+1601,mexican
+1602,asian fusion
+1603,asian fusion
+1604,asian fusion
+1605,american (traditional)
+1606,american (new)
+1607,asian fusion
+1608,american (new)
+1609,asian fusion
+1610,asian fusion
+1611,american (new)
+1612,asian fusion
+1613,american (new)
+1614,american (traditional)
+1615,asian fusion
+1616,american (new)
+1617,american (new)
+1618,asian fusion
+1619,asian fusion
+1620,mexican
+1621,canadian (new)
+1622,canadian (new)
+1623,asian fusion
+1624,mexican
+1625,mexican
+1626,asian fusion
+1627,mexican
+1628,mexican
+1629,american (traditional)
+1630,american (new)
+1631,asian fusion
+1632,chinese
+1633,mexican
+1634,asian fusion
+1635,italian
+1636,mediterranean
+1637,japanese
+1638,american (new)
+1639,asian fusion
+1640,asian fusion
+1641,mexican
+1642,canadian (new)
+1643,mexican
+1644,american (new)
+1645,asian fusion
+1646,mexican
+1647,japanese
+1648,american (traditional)
+1649,american (traditional)
+1650,american (new)
+1651,mexican
+1652,american (new)
+1653,canadian (new)
+1654,canadian (new)
+1655,asian fusion
+1656,mediterranean
+1657,canadian (new)
+1658,american (new)
+1659,asian fusion
+1660,american (new)
+1661,italian
+1662,american (traditional)
+1663,canadian (new)
+1664,asian fusion
+1665,asian fusion
+1666,asian fusion
+1667,asian fusion
+1668,asian fusion
+1669,asian fusion
+1670,asian fusion
+1671,mexican
+1672,asian fusion
+1673,asian fusion
+1674,mexican
+1675,asian fusion
+1676,mexican
+1677,american (traditional)
+1678,american (new)
+1679,american (traditional)
+1680,italian
+1681,american (new)
+1682,canadian (new)
+1683,canadian (new)
+1684,japanese
+1685,canadian (new)
+1686,asian fusion
+1687,mexican
+1688,asian fusion
+1689,american (traditional)
+1690,asian fusion
+1691,asian fusion
+1692,american (new)
+1693,american (new)
+1694,american (new)
+1695,asian fusion
+1696,japanese
+1697,american (new)
+1698,mediterranean
+1699,mexican
+1700,asian fusion
+1701,mexican
+1702,american (traditional)
+1703,mexican
+1704,asian fusion
+1705,mexican
+1706,mediterranean
+1707,asian fusion
+1708,mexican
+1709,asian fusion
+1710,mexican
+1711,asian fusion
+1712,american (traditional)
+1713,american (new)
+1714,chinese
+1715,american (new)
+1716,asian fusion
+1717,asian fusion
+1718,american (new)
+1719,mexican
+1720,chinese
+1721,asian fusion
+1722,mexican
+1723,asian fusion
+1724,asian fusion
+1725,italian
+1726,asian fusion
+1727,italian
+1728,asian fusion
+1729,american (new)
+1730,asian fusion
+1731,asian fusion
+1732,asian fusion
+1733,japanese
+1734,asian fusion
+1735,american (new)
+1736,canadian (new)
+1737,american (new)
+1738,mexican
+1739,asian fusion
+1740,chinese
+1741,canadian (new)
+1742,american (new)
+1743,asian fusion
+1744,american (new)
+1745,mexican
+1746,american (traditional)
+1747,canadian (new)
+1748,asian fusion
+1749,asian fusion
+1750,canadian (new)
+1751,american (traditional)
+1752,mexican
+1753,asian fusion
+1754,american (new)
+1755,mexican
+1756,american (traditional)
+1757,asian fusion
+1758,mexican
+1759,american (traditional)
+1760,canadian (new)
+1761,chinese
+1762,italian
+1763,asian fusion
+1764,american (new)
+1765,canadian (new)
+1766,mexican
+1767,asian fusion
+1768,canadian (new)
+1769,asian fusion
+1770,italian
+1771,mexican
+1772,asian fusion
+1773,canadian (new)
+1774,mexican
+1775,mexican
+1776,american (traditional)
+1777,chinese
+1778,mexican
+1779,american (new)
+1780,mexican
+1781,asian fusion
+1782,asian fusion
+1783,canadian (new)
+1784,asian fusion
+1785,american (new)
+1786,american (traditional)
+1787,mexican
+1788,asian fusion
+1789,asian fusion
+1790,american (new)
+1791,asian fusion
+1792,american (new)
+1793,asian fusion
+1794,canadian (new)
+1795,asian fusion
+1796,asian fusion
+1797,american (new)
+1798,asian fusion
+1799,asian fusion
+1800,american (new)
+1801,american (new)
+1802,american (new)
+1803,american (new)
+1804,american (new)
+1805,italian
+1806,asian fusion
+1807,asian fusion
+1808,asian fusion
+1809,american (new)
+1810,canadian (new)
+1811,american (new)
+1812,mexican
+1813,asian fusion
+1814,asian fusion
+1815,canadian (new)
+1816,american (new)
+1817,asian fusion
+1818,mexican
+1819,asian fusion
+1820,american (new)
+1821,american (new)
+1822,mexican
+1823,asian fusion
+1824,asian fusion
+1825,asian fusion
+1826,american (traditional)
+1827,mexican
+1828,asian fusion
+1829,mexican
+1830,asian fusion
+1831,asian fusion
+1832,asian fusion
+1833,mediterranean
+1834,mexican
+1835,canadian (new)
+1836,chinese
+1837,mexican
+1838,american (new)
+1839,canadian (new)
+1840,asian fusion
+1841,asian fusion
+1842,american (new)
+1843,mediterranean
+1844,american (new)
+1845,canadian (new)
+1846,italian
+1847,asian fusion
+1848,asian fusion
+1849,american (traditional)
+1850,asian fusion
+1851,asian fusion
+1852,american (new)
+1853,japanese
+1854,american (traditional)
+1855,canadian (new)
+1856,asian fusion
+1857,japanese
+1858,asian fusion
+1859,asian fusion
+1860,mediterranean
+1861,asian fusion
+1862,mediterranean
+1863,american (new)
+1864,asian fusion
+1865,american (new)
+1866,american (traditional)
+1867,canadian (new)
+1868,american (new)
+1869,american (new)
+1870,asian fusion
+1871,thai
+1872,mediterranean
+1873,italian
+1874,mexican
+1875,mexican
+1876,mexican
+1877,mexican
+1878,asian fusion
+1879,mexican
+1880,asian fusion
+1881,asian fusion
+1882,italian
+1883,mexican
+1884,mexican
+1885,asian fusion
+1886,american (new)
+1887,american (new)
+1888,asian fusion
+1889,asian fusion
+1890,asian fusion
+1891,american (traditional)
+1892,american (new)
+1893,italian
+1894,mexican
+1895,american (traditional)
+1896,mexican
+1897,mexican
+1898,american (new)
+1899,asian fusion
+1900,asian fusion
+1901,mexican
+1902,american (new)
+1903,canadian (new)
+1904,american (new)
+1905,japanese
+1906,asian fusion
+1907,mexican
+1908,italian
+1909,american (new)
+1910,japanese
+1911,asian fusion
+1912,asian fusion
+1913,mexican
+1914,asian fusion
+1915,italian
+1916,asian fusion
+1917,asian fusion
+1918,mexican
+1919,asian fusion
+1920,mexican
+1921,asian fusion
+1922,american (new)
+1923,american (new)
+1924,mexican
+1925,italian
+1926,mexican
+1927,japanese
+1928,asian fusion
+1929,canadian (new)
+1930,american (new)
+1931,canadian (new)
+1932,asian fusion
+1933,mediterranean
+1934,american (new)
+1935,mexican
+1936,mexican
+1937,asian fusion
+1938,asian fusion
+1939,canadian (new)
+1940,mexican
+1941,american (traditional)
+1942,asian fusion
+1943,american (new)
+1944,mexican
+1945,asian fusion
+1946,asian fusion
+1947,mexican
+1948,american (new)
+1949,asian fusion
+1950,japanese
+1951,japanese
+1952,american (traditional)
+1953,asian fusion
+1954,mexican
+1955,american (new)
+1956,american (traditional)
+1957,mexican
+1958,asian fusion
+1959,american (traditional)
+1960,american (traditional)
+1961,mexican
+1962,asian fusion
+1963,asian fusion
+1964,japanese
+1965,american (traditional)
+1966,canadian (new)
+1967,asian fusion
+1968,asian fusion
+1969,canadian (new)
+1970,american (traditional)
+1971,american (new)
+1972,mexican
+1973,asian fusion
+1974,mexican
+1975,canadian (new)
+1976,chinese
+1977,asian fusion
+1978,mexican
+1979,asian fusion
+1980,canadian (new)
+1981,asian fusion
+1982,asian fusion
+1983,chinese
+1984,mexican
+1985,japanese
+1986,asian fusion
+1987,japanese
+1988,mediterranean
+1989,asian fusion
+1990,american (traditional)
+1991,american (traditional)
+1992,asian fusion
+1993,asian fusion
+1994,american (traditional)
+1995,mexican
+1996,american (traditional)
+1997,asian fusion
+1998,american (new)
+1999,asian fusion
+2000,american (new)
+2001,mexican
+2002,italian
+2003,asian fusion
+2004,asian fusion
+2005,mediterranean
+2006,canadian (new)
+2007,asian fusion
+2008,american (new)
+2009,canadian (new)
+2010,japanese
+2011,asian fusion
+2012,asian fusion
+2013,american (traditional)
+2014,asian fusion
+2015,american (new)
+2016,american (new)
+2017,canadian (new)
+2018,asian fusion
+2019,chinese
+2020,asian fusion
+2021,american (new)
+2022,asian fusion
+2023,asian fusion
+2024,american (traditional)
+2025,asian fusion
+2026,canadian (new)
+2027,american (new)
+2028,mexican
+2029,asian fusion
+2030,japanese
+2031,american (new)
+2032,mexican
+2033,american (traditional)
+2034,asian fusion
+2035,mediterranean
+2036,mexican
+2037,asian fusion
+2038,mexican
+2039,asian fusion
+2040,mediterranean
+2041,canadian (new)
+2042,american (new)
+2043,asian fusion
+2044,canadian (new)
+2045,american (traditional)
+2046,thai
+2047,asian fusion
+2048,canadian (new)
+2049,thai
+2050,american (traditional)
+2051,american (new)
+2052,japanese
+2053,canadian (new)
+2054,asian fusion
+2055,american (new)
+2056,american (new)
+2057,canadian (new)
+2058,asian fusion
+2059,american (new)
+2060,canadian (new)
+2061,american (new)
+2062,asian fusion
+2063,canadian (new)
+2064,canadian (new)
+2065,american (new)
+2066,asian fusion
+2067,asian fusion
+2068,canadian (new)
+2069,asian fusion
+2070,asian fusion
+2071,asian fusion
+2072,asian fusion
+2073,mexican
+2074,asian fusion
+2075,asian fusion
+2076,asian fusion
+2077,mexican
+2078,american (traditional)
+2079,mexican
+2080,italian
+2081,asian fusion
+2082,american (traditional)
+2083,mexican
+2084,asian fusion
+2085,asian fusion
+2086,american (new)
+2087,american (traditional)
+2088,american (new)
+2089,american (new)
+2090,american (traditional)
+2091,asian fusion
+2092,american (new)
+2093,american (new)
+2094,japanese
+2095,canadian (new)
+2096,american (new)
+2097,thai
+2098,asian fusion
+2099,asian fusion
+2100,asian fusion
+2101,mexican
+2102,canadian (new)
+2103,asian fusion
+2104,american (new)
+2105,american (traditional)
+2106,asian fusion
+2107,american (traditional)
+2108,italian
+2109,mexican
+2110,american (new)
+2111,american (new)
+2112,canadian (new)
+2113,asian fusion
+2114,japanese
+2115,asian fusion
+2116,chinese
+2117,asian fusion
+2118,japanese
+2119,mexican
+2120,american (new)
+2121,asian fusion
+2122,canadian (new)
+2123,asian fusion
+2124,american (new)
+2125,asian fusion
+2126,canadian (new)
+2127,asian fusion
+2128,asian fusion
+2129,mexican
+2130,asian fusion
+2131,chinese
+2132,american (new)
+2133,japanese
+2134,asian fusion
+2135,american (new)
+2136,asian fusion
+2137,mexican
+2138,asian fusion
+2139,canadian (new)
+2140,american (new)
+2141,mediterranean
+2142,japanese
+2143,american (new)
+2144,mexican
+2145,canadian (new)
+2146,american (traditional)
+2147,asian fusion
+2148,american (new)
+2149,mediterranean
+2150,chinese
+2151,asian fusion
+2152,american (traditional)
+2153,asian fusion
+2154,american (new)
+2155,asian fusion
+2156,american (new)
+2157,american (traditional)
+2158,mexican
+2159,mexican
+2160,american (new)
+2161,mexican
+2162,italian
+2163,asian fusion
+2164,asian fusion
+2165,american (traditional)
+2166,asian fusion
+2167,japanese
+2168,asian fusion
+2169,canadian (new)
+2170,american (new)
+2171,american (new)
+2172,asian fusion
+2173,mexican
+2174,thai
+2175,canadian (new)
+2176,american (new)
+2177,asian fusion
+2178,american (new)
+2179,american (new)
+2180,mexican
+2181,canadian (new)
+2182,asian fusion
+2183,asian fusion
+2184,american (new)
+2185,chinese
+2186,asian fusion
+2187,american (new)
+2188,american (new)
+2189,american (new)
+2190,asian fusion
+2191,american (new)
+2192,asian fusion
+2193,asian fusion
+2194,asian fusion
+2195,mexican
+2196,american (traditional)
+2197,asian fusion
+2198,mexican
+2199,canadian (new)
+2200,asian fusion
+2201,canadian (new)
+2202,mediterranean
+2203,mexican
+2204,asian fusion
+2205,canadian (new)
+2206,asian fusion
+2207,asian fusion
+2208,american (new)
+2209,asian fusion
+2210,american (new)
+2211,american (new)
+2212,asian fusion
+2213,american (new)
+2214,asian fusion
+2215,american (new)
+2216,american (new)
+2217,japanese
+2218,mexican
+2219,japanese
+2220,asian fusion
+2221,canadian (new)
+2222,asian fusion
+2223,asian fusion
+2224,canadian (new)
+2225,canadian (new)
+2226,mexican
+2227,asian fusion
+2228,asian fusion
+2229,american (new)
+2230,asian fusion
+2231,american (new)
+2232,canadian (new)
+2233,canadian (new)
+2234,canadian (new)
+2235,american (new)
+2236,asian fusion
+2237,asian fusion
+2238,asian fusion
+2239,canadian (new)
+2240,american (new)
+2241,asian fusion
+2242,chinese
+2243,japanese
+2244,american (new)
+2245,asian fusion
+2246,chinese
+2247,asian fusion
+2248,asian fusion
+2249,canadian (new)
+2250,asian fusion
+2251,american (new)
+2252,asian fusion
+2253,mexican
+2254,asian fusion
+2255,american (new)
+2256,american (new)
+2257,asian fusion
+2258,chinese
+2259,asian fusion
+2260,asian fusion
+2261,american (traditional)
+2262,asian fusion
+2263,asian fusion
+2264,italian
+2265,asian fusion
+2266,american (new)
+2267,american (traditional)
+2268,american (traditional)
+2269,asian fusion
+2270,asian fusion
+2271,canadian (new)
+2272,japanese
+2273,american (new)
+2274,mexican
+2275,mediterranean
+2276,asian fusion
+2277,mexican
+2278,chinese
+2279,asian fusion
+2280,american (new)
+2281,american (new)
+2282,canadian (new)
+2283,asian fusion
+2284,asian fusion
+2285,american (new)
+2286,asian fusion
+2287,asian fusion
+2288,canadian (new)
+2289,american (traditional)
+2290,asian fusion
+2291,asian fusion
+2292,american (new)
+2293,chinese
+2294,asian fusion
+2295,american (new)
+2296,canadian (new)
+2297,mexican
+2298,asian fusion
+2299,mexican
+2300,american (traditional)
+2301,american (new)
+2302,mediterranean
+2303,american (new)
+2304,asian fusion
+2305,asian fusion
+2306,italian
+2307,asian fusion
+2308,japanese
+2309,asian fusion
+2310,italian
+2311,asian fusion
+2312,asian fusion
+2313,chinese
+2314,canadian (new)
+2315,american (new)
+2316,asian fusion
+2317,asian fusion
+2318,asian fusion
+2319,chinese
+2320,asian fusion
+2321,asian fusion
+2322,american (new)
+2323,asian fusion
+2324,american (new)
+2325,asian fusion
+2326,asian fusion
+2327,mexican
+2328,asian fusion
+2329,canadian (new)
+2330,italian
+2331,asian fusion
+2332,asian fusion
+2333,mexican
+2334,asian fusion
+2335,asian fusion
+2336,american (traditional)
+2337,asian fusion
+2338,asian fusion
+2339,asian fusion
+2340,american (new)
+2341,mexican
+2342,canadian (new)
+2343,canadian (new)
+2344,mediterranean
+2345,asian fusion
+2346,mexican
+2347,american (new)
+2348,asian fusion
+2349,chinese
+2350,asian fusion
+2351,asian fusion
+2352,asian fusion
+2353,asian fusion
+2354,asian fusion
+2355,american (new)
+2356,canadian (new)
+2357,thai
+2358,mexican
+2359,asian fusion
+2360,japanese
+2361,mexican
+2362,asian fusion
+2363,american (new)
+2364,asian fusion
+2365,asian fusion
+2366,american (new)
+2367,japanese
+2368,asian fusion
+2369,mexican
+2370,asian fusion
+2371,asian fusion
+2372,asian fusion
+2373,american (new)
+2374,chinese
+2375,mexican
+2376,asian fusion
+2377,american (new)
+2378,italian
+2379,american (traditional)
+2380,asian fusion
+2381,japanese
+2382,american (traditional)
+2383,canadian (new)
+2384,mexican
+2385,canadian (new)
+2386,asian fusion
+2387,mediterranean
+2388,asian fusion
+2389,canadian (new)
+2390,asian fusion
+2391,asian fusion
+2392,mexican
+2393,american (new)
+2394,asian fusion
+2395,asian fusion
+2396,chinese
+2397,asian fusion
+2398,american (new)
+2399,american (traditional)
+2400,mexican
+2401,american (new)
+2402,american (new)
+2403,mexican
+2404,asian fusion
+2405,canadian (new)
+2406,american (traditional)
+2407,canadian (new)
+2408,asian fusion
+2409,asian fusion
+2410,asian fusion
+2411,asian fusion
+2412,american (traditional)
+2413,asian fusion
+2414,asian fusion
+2415,mexican
+2416,american (new)
+2417,mexican
+2418,asian fusion
+2419,asian fusion
+2420,american (traditional)
+2421,mexican
+2422,chinese
+2423,asian fusion
+2424,asian fusion
+2425,american (new)
+2426,chinese
+2427,asian fusion
+2428,american (new)
+2429,asian fusion
+2430,american (new)
+2431,mexican
+2432,asian fusion
+2433,canadian (new)
+2434,canadian (new)
+2435,american (traditional)
+2436,asian fusion
+2437,asian fusion
+2438,american (new)
+2439,mexican
+2440,asian fusion
+2441,mexican
+2442,asian fusion
+2443,asian fusion
+2444,american (new)
+2445,american (new)
+2446,asian fusion
+2447,asian fusion
+2448,mediterranean
+2449,asian fusion
+2450,thai
+2451,american (new)
+2452,asian fusion
+2453,american (new)
+2454,mexican
+2455,mexican
+2456,american (new)
+2457,american (new)
+2458,canadian (new)
+2459,american (new)
+2460,asian fusion
+2461,mediterranean
+2462,mexican
+2463,asian fusion
+2464,mexican
+2465,mexican
+2466,american (new)
+2467,italian
+2468,mexican
+2469,asian fusion
+2470,asian fusion
+2471,asian fusion
+2472,american (traditional)
+2473,mexican
+2474,american (new)
+2475,asian fusion
+2476,asian fusion
+2477,american (new)
+2478,american (traditional)
+2479,american (new)
+2480,asian fusion
+2481,mexican
+2482,mexican
+2483,asian fusion
+2484,asian fusion
+2485,asian fusion
+2486,asian fusion
+2487,american (new)
+2488,asian fusion
+2489,american (traditional)
+2490,american (traditional)
+2491,american (new)
+2492,asian fusion
+2493,mexican
+2494,asian fusion
+2495,asian fusion
+2496,asian fusion
+2497,asian fusion
+2498,american (new)
+2499,japanese
+2500,asian fusion
+2501,asian fusion
+2502,asian fusion
+2503,mexican
+2504,american (new)
+2505,asian fusion
+2506,asian fusion
+2507,asian fusion
+2508,mexican
+2509,mexican
+2510,asian fusion
+2511,mexican
+2512,american (new)
+2513,asian fusion
+2514,american (new)
+2515,asian fusion
+2516,asian fusion
+2517,american (traditional)
+2518,asian fusion
+2519,asian fusion
+2520,asian fusion
+2521,american (new)
+2522,mexican
+2523,mexican
+2524,japanese
+2525,american (new)
+2526,american (new)
+2527,asian fusion
+2528,american (new)
+2529,asian fusion
+2530,mediterranean
+2531,american (new)
+2532,canadian (new)
+2533,japanese
+2534,american (new)
+2535,asian fusion
+2536,asian fusion
+2537,asian fusion
+2538,american (new)
+2539,canadian (new)
+2540,american (new)
+2541,asian fusion
+2542,american (new)
+2543,asian fusion
+2544,asian fusion
+2545,asian fusion
+2546,asian fusion
+2547,mediterranean
+2548,canadian (new)
+2549,canadian (new)
+2550,mediterranean
+2551,asian fusion
+2552,american (new)
+2553,american (new)
+2554,mexican
+2555,mexican
+2556,canadian (new)
+2557,canadian (new)
+2558,american (new)
+2559,asian fusion
+2560,asian fusion
+2561,asian fusion
+2562,asian fusion
+2563,asian fusion
+2564,asian fusion
+2565,american (new)
+2566,american (traditional)
+2567,asian fusion
+2568,american (new)
+2569,canadian (new)
+2570,canadian (new)
+2571,american (new)
+2572,mexican
+2573,asian fusion
+2574,american (new)
+2575,mexican
+2576,american (traditional)
+2577,american (new)
+2578,chinese
+2579,canadian (new)
+2580,mexican
+2581,asian fusion
+2582,italian
+2583,american (traditional)
+2584,mexican
+2585,mexican
+2586,mediterranean
+2587,asian fusion
+2588,asian fusion
+2589,american (traditional)
+2590,asian fusion
+2591,asian fusion
+2592,american (traditional)
+2593,asian fusion
+2594,american (new)
+2595,american (new)
+2596,asian fusion
+2597,asian fusion
+2598,mexican
+2599,mexican
+2600,asian fusion
+2601,american (new)
+2602,canadian (new)
+2603,american (traditional)
+2604,asian fusion
+2605,asian fusion
+2606,asian fusion
+2607,mexican
+2608,mexican
+2609,asian fusion
+2610,american (new)
+2611,mexican
+2612,japanese
+2613,american (traditional)
+2614,asian fusion
+2615,mexican
+2616,asian fusion
+2617,asian fusion
+2618,american (traditional)
+2619,asian fusion
+2620,asian fusion
+2621,asian fusion
+2622,mexican
+2623,mediterranean
+2624,mexican
+2625,american (traditional)
+2626,american (new)
+2627,mexican
+2628,american (traditional)
+2629,asian fusion
+2630,japanese
+2631,asian fusion
+2632,mexican
+2633,chinese
+2634,mexican
+2635,asian fusion
+2636,asian fusion
+2637,canadian (new)
+2638,italian
+2639,asian fusion
+2640,mexican
+2641,mexican
+2642,american (new)
+2643,mexican
+2644,mexican
+2645,american (traditional)
+2646,american (new)
+2647,american (new)
+2648,asian fusion
+2649,american (traditional)
+2650,chinese
+2651,asian fusion
+2652,american (new)
+2653,mexican
+2654,mexican
+2655,italian
+2656,asian fusion
+2657,american (traditional)
+2658,asian fusion
+2659,asian fusion
+2660,asian fusion
+2661,american (new)
+2662,american (new)
+2663,american (new)
+2664,mexican
+2665,italian
+2666,asian fusion
+2667,canadian (new)
+2668,asian fusion
+2669,asian fusion
+2670,chinese
+2671,asian fusion
+2672,chinese
+2673,canadian (new)
+2674,american (new)
+2675,american (new)
+2676,american (new)
+2677,chinese
+2678,asian fusion
+2679,canadian (new)
+2680,american (new)
+2681,american (new)
+2682,american (new)
+2683,canadian (new)
+2684,asian fusion
+2685,american (traditional)
+2686,american (traditional)
+2687,american (traditional)
+2688,asian fusion
+2689,american (new)
+2690,italian
+2691,asian fusion
+2692,canadian (new)
+2693,mexican
+2694,american (new)
+2695,mediterranean
+2696,asian fusion
+2697,mexican
+2698,asian fusion
+2699,asian fusion
+2700,asian fusion
+2701,asian fusion
+2702,asian fusion
+2703,japanese
+2704,asian fusion
+2705,american (traditional)
+2706,mexican
+2707,asian fusion
+2708,american (traditional)
+2709,mexican
+2710,mexican
+2711,canadian (new)
+2712,mexican
+2713,asian fusion
+2714,asian fusion
+2715,mediterranean
+2716,american (traditional)
+2717,japanese
+2718,asian fusion
+2719,american (new)
+2720,asian fusion
+2721,asian fusion
+2722,asian fusion
+2723,american (new)
+2724,asian fusion
+2725,american (new)
+2726,asian fusion
+2727,mediterranean
+2728,american (traditional)
+2729,thai
+2730,asian fusion
+2731,asian fusion
+2732,canadian (new)
+2733,american (new)
+2734,chinese
+2735,mexican
+2736,american (new)
+2737,american (new)
+2738,asian fusion
+2739,american (traditional)
+2740,american (traditional)
+2741,italian
+2742,american (new)
+2743,american (new)
+2744,mexican
+2745,asian fusion
+2746,asian fusion
+2747,asian fusion
+2748,asian fusion
+2749,asian fusion
+2750,mexican
+2751,asian fusion
+2752,canadian (new)
+2753,asian fusion
+2754,american (new)
+2755,chinese
+2756,asian fusion
+2757,asian fusion
+2758,asian fusion
+2759,mexican
+2760,asian fusion
+2761,asian fusion
+2762,mexican
+2763,asian fusion
+2764,american (new)
+2765,asian fusion
+2766,japanese
+2767,asian fusion
+2768,mediterranean
+2769,american (new)
+2770,mexican
+2771,asian fusion
+2772,american (traditional)
+2773,mexican
+2774,american (new)
+2775,canadian (new)
+2776,italian
+2777,asian fusion
+2778,asian fusion
+2779,american (traditional)
+2780,asian fusion
+2781,american (traditional)
+2782,asian fusion
+2783,asian fusion
+2784,canadian (new)
+2785,chinese
+2786,canadian (new)
+2787,american (new)
+2788,american (new)
+2789,asian fusion
+2790,mexican
+2791,american (new)
+2792,asian fusion
+2793,american (new)
+2794,asian fusion
+2795,asian fusion
+2796,asian fusion
+2797,mexican
+2798,asian fusion
+2799,asian fusion
+2800,canadian (new)
+2801,japanese
+2802,canadian (new)
+2803,italian
+2804,mexican
+2805,asian fusion
+2806,asian fusion
+2807,mediterranean
+2808,chinese
+2809,mexican
+2810,asian fusion
+2811,mexican
+2812,american (new)
+2813,mexican
+2814,asian fusion
+2815,asian fusion
+2816,chinese
+2817,canadian (new)
+2818,mexican
+2819,american (new)
+2820,american (new)
+2821,japanese
+2822,american (traditional)
+2823,japanese
+2824,italian
+2825,american (traditional)
+2826,mexican
+2827,mexican
+2828,canadian (new)
+2829,mexican
+2830,asian fusion
+2831,asian fusion
+2832,mexican
+2833,american (new)
+2834,american (new)
+2835,asian fusion
+2836,asian fusion
+2837,asian fusion
+2838,american (new)
+2839,asian fusion
+2840,american (new)
+2841,asian fusion
+2842,asian fusion
+2843,asian fusion
+2844,canadian (new)
+2845,mexican
+2846,italian
+2847,american (new)
+2848,american (new)
+2849,asian fusion
+2850,american (new)
+2851,asian fusion
+2852,asian fusion
+2853,mexican
+2854,american (traditional)
+2855,asian fusion
+2856,mexican
+2857,american (traditional)
+2858,mexican
+2859,american (traditional)
+2860,canadian (new)
+2861,american (traditional)
+2862,asian fusion
+2863,mediterranean
+2864,mexican
+2865,american (new)
+2866,asian fusion
+2867,asian fusion
+2868,mexican
+2869,japanese
+2870,chinese
+2871,mexican
+2872,american (new)
+2873,asian fusion
+2874,american (new)
+2875,american (new)
+2876,american (new)
+2877,asian fusion
+2878,asian fusion
+2879,canadian (new)
+2880,american (new)
+2881,asian fusion
+2882,asian fusion
+2883,italian
+2884,american (new)
+2885,asian fusion
+2886,american (traditional)
+2887,asian fusion
+2888,american (new)
+2889,american (new)
+2890,asian fusion
+2891,american (new)
+2892,american (traditional)
+2893,american (new)
+2894,mexican
+2895,asian fusion
+2896,asian fusion
+2897,american (new)
+2898,american (traditional)
+2899,chinese
+2900,canadian (new)
+2901,asian fusion
+2902,mexican
+2903,mexican
+2904,american (traditional)
+2905,mexican
+2906,asian fusion
+2907,canadian (new)
+2908,canadian (new)
+2909,mediterranean
+2910,asian fusion
+2911,asian fusion
+2912,mexican
+2913,american (new)
+2914,mediterranean
+2915,asian fusion
+2916,american (traditional)
+2917,mexican
+2918,mexican
+2919,american (new)
+2920,canadian (new)
+2921,american (new)
+2922,italian
+2923,asian fusion
+2924,canadian (new)
+2925,american (traditional)
+2926,mexican
+2927,mexican
+2928,american (new)
+2929,american (traditional)
+2930,american (new)
+2931,mexican
+2932,asian fusion
+2933,asian fusion
+2934,asian fusion
+2935,mexican
+2936,asian fusion
+2937,asian fusion
+2938,asian fusion
+2939,asian fusion
+2940,asian fusion
+2941,asian fusion
+2942,american (new)
+2943,american (new)
+2944,american (traditional)
+2945,italian
+2946,canadian (new)
+2947,asian fusion
+2948,american (traditional)
+2949,italian
+2950,asian fusion
+2951,american (traditional)
+2952,asian fusion
+2953,japanese
+2954,asian fusion
+2955,american (new)
+2956,asian fusion
+2957,american (new)
+2958,mexican
+2959,american (new)
+2960,american (new)
+2961,mexican
+2962,american (traditional)
+2963,american (new)
+2964,asian fusion
+2965,mediterranean
+2966,asian fusion
+2967,american (new)
+2968,canadian (new)
+2969,asian fusion
+2970,italian
+2971,asian fusion
+2972,american (traditional)
+2973,canadian (new)
+2974,american (new)
+2975,canadian (new)
+2976,american (new)
+2977,mexican
+2978,canadian (new)
+2979,mexican
+2980,american (new)
+2981,canadian (new)
+2982,mediterranean
+2983,asian fusion
+2984,asian fusion
+2985,american (traditional)
+2986,american (new)
+2987,asian fusion
+2988,american (new)
+2989,asian fusion
+2990,canadian (new)
+2991,japanese
+2992,american (traditional)
+2993,mediterranean
+2994,mediterranean
+2995,mexican
+2996,american (new)
+2997,asian fusion
+2998,mexican
+2999,mexican
+3000,asian fusion
+3001,american (new)
+3002,american (new)
+3003,asian fusion
+3004,american (new)
+3005,american (traditional)
+3006,asian fusion
+3007,asian fusion
+3008,american (new)
+3009,mexican
+3010,asian fusion
+3011,chinese
+3012,american (traditional)
+3013,asian fusion
+3014,japanese
+3015,american (traditional)
+3016,american (new)
+3017,american (new)
+3018,japanese
+3019,asian fusion
+3020,italian
+3021,asian fusion
+3022,mexican
+3023,asian fusion
+3024,mexican
+3025,mexican
+3026,american (new)
+3027,canadian (new)
+3028,mexican
+3029,asian fusion
+3030,asian fusion
+3031,asian fusion
+3032,american (new)
+3033,japanese
+3034,chinese
+3035,asian fusion
+3036,american (traditional)
+3037,asian fusion
+3038,canadian (new)
+3039,asian fusion
+3040,mexican
+3041,canadian (new)
+3042,asian fusion
+3043,chinese
+3044,asian fusion
+3045,asian fusion
+3046,mexican
+3047,asian fusion
+3048,mexican
+3049,asian fusion
+3050,asian fusion
+3051,american (new)
+3052,asian fusion
+3053,japanese
+3054,american (new)
+3055,american (new)
+3056,asian fusion
+3057,chinese
+3058,asian fusion
+3059,japanese
+3060,japanese
+3061,italian
+3062,american (new)
+3063,japanese
+3064,american (new)
+3065,asian fusion
+3066,american (new)
+3067,asian fusion
+3068,japanese
+3069,mexican
+3070,american (traditional)
+3071,asian fusion
+3072,asian fusion
+3073,mexican
+3074,american (new)
+3075,asian fusion
+3076,asian fusion
+3077,chinese
+3078,american (new)
+3079,chinese
+3080,asian fusion
+3081,asian fusion
+3082,asian fusion
+3083,american (new)
+3084,mexican
+3085,italian
+3086,american (traditional)
+3087,italian
+3088,american (traditional)
+3089,mexican
+3090,asian fusion
+3091,american (new)
+3092,canadian (new)
+3093,american (new)
+3094,asian fusion
+3095,mediterranean
+3096,asian fusion
+3097,american (new)
+3098,asian fusion
+3099,american (new)
+3100,american (traditional)
+3101,american (traditional)
+3102,japanese
+3103,italian
+3104,american (new)
+3105,asian fusion
+3106,canadian (new)
+3107,american (new)
+3108,american (new)
+3109,asian fusion
+3110,canadian (new)
+3111,asian fusion
+3112,asian fusion
+3113,canadian (new)
+3114,american (traditional)
+3115,italian
+3116,american (new)
+3117,american (new)
+3118,asian fusion
+3119,mexican
+3120,american (traditional)
+3121,japanese
+3122,asian fusion
+3123,mexican
+3124,american (traditional)
+3125,canadian (new)
+3126,mexican
+3127,american (traditional)
+3128,japanese
+3129,canadian (new)
+3130,american (new)
+3131,mexican
+3132,canadian (new)
+3133,asian fusion
+3134,asian fusion
+3135,mexican
+3136,canadian (new)
+3137,mexican
+3138,asian fusion
+3139,asian fusion
+3140,canadian (new)
+3141,chinese
+3142,american (traditional)
+3143,american (new)
+3144,mexican
+3145,american (new)
+3146,asian fusion
+3147,mexican
+3148,mexican
+3149,asian fusion
+3150,american (new)
+3151,asian fusion
+3152,canadian (new)
+3153,asian fusion
+3154,american (traditional)
+3155,asian fusion
+3156,american (new)
+3157,american (new)
+3158,mexican
+3159,mexican
+3160,american (new)
+3161,mediterranean
+3162,american (traditional)
+3163,japanese
+3164,american (traditional)
+3165,mexican
+3166,chinese
+3167,asian fusion
+3168,mexican
+3169,asian fusion
+3170,asian fusion
+3171,american (new)
+3172,chinese
+3173,asian fusion
+3174,asian fusion
+3175,american (traditional)
+3176,mexican
+3177,mexican
+3178,asian fusion
+3179,asian fusion
+3180,mexican
+3181,american (new)
+3182,american (traditional)
+3183,thai
+3184,mediterranean
+3185,asian fusion
+3186,chinese
+3187,american (new)
+3188,asian fusion
+3189,american (traditional)
+3190,asian fusion
+3191,american (traditional)
+3192,mexican
+3193,canadian (new)
+3194,mexican
+3195,american (new)
+3196,mexican
+3197,american (new)
+3198,asian fusion
+3199,mediterranean
+3200,asian fusion
+3201,mediterranean
+3202,mexican
+3203,mexican
+3204,mexican
+3205,canadian (new)
+3206,american (traditional)
+3207,asian fusion
+3208,canadian (new)
+3209,mediterranean
+3210,asian fusion
+3211,american (new)
+3212,mexican
+3213,italian
+3214,mexican
+3215,asian fusion
+3216,mexican
+3217,american (new)
+3218,asian fusion
+3219,asian fusion
+3220,canadian (new)
+3221,asian fusion
+3222,mexican
+3223,asian fusion
+3224,japanese
+3225,asian fusion
+3226,chinese
+3227,canadian (new)
+3228,mexican
+3229,american (new)
+3230,mexican
+3231,american (traditional)
+3232,asian fusion
+3233,american (new)
+3234,mediterranean
+3235,canadian (new)
+3236,american (new)
+3237,asian fusion
+3238,american (new)
+3239,asian fusion
+3240,american (new)
+3241,mexican
+3242,american (traditional)
+3243,asian fusion
+3244,mediterranean
+3245,asian fusion
+3246,asian fusion
+3247,mexican
+3248,chinese
+3249,canadian (new)
+3250,mediterranean
+3251,asian fusion
+3252,american (new)
+3253,mexican
+3254,american (traditional)
+3255,asian fusion
+3256,asian fusion
+3257,american (new)
+3258,asian fusion
+3259,american (new)
+3260,canadian (new)
+3261,mexican
+3262,american (traditional)
+3263,canadian (new)
+3264,asian fusion
+3265,mexican
+3266,american (new)
+3267,mexican
+3268,asian fusion
+3269,american (new)
+3270,canadian (new)
+3271,canadian (new)
+3272,asian fusion
+3273,asian fusion
+3274,american (traditional)
+3275,canadian (new)
+3276,american (new)
+3277,asian fusion
+3278,asian fusion
+3279,american (new)
+3280,american (new)
+3281,canadian (new)
+3282,japanese
+3283,american (traditional)
+3284,asian fusion
+3285,asian fusion
+3286,american (new)
+3287,mexican
+3288,american (traditional)
+3289,italian
+3290,american (new)
+3291,american (new)
+3292,asian fusion
+3293,mexican
+3294,american (new)
+3295,asian fusion
+3296,american (new)
+3297,asian fusion
+3298,asian fusion
+3299,american (new)
+3300,american (new)
+3301,american (new)
+3302,japanese
+3303,chinese
+3304,chinese
+3305,american (new)
+3306,asian fusion
+3307,asian fusion
+3308,asian fusion
+3309,mexican
+3310,asian fusion
+3311,asian fusion
+3312,chinese
+3313,asian fusion
+3314,asian fusion
+3315,asian fusion
+3316,american (new)
+3317,asian fusion
+3318,asian fusion
+3319,asian fusion
+3320,american (new)
+3321,american (traditional)
+3322,american (new)
+3323,american (traditional)
+3324,mexican
+3325,american (new)
+3326,american (new)
+3327,asian fusion
+3328,italian
+3329,asian fusion
+3330,american (new)
+3331,mexican
+3332,asian fusion
+3333,canadian (new)
+3334,asian fusion
+3335,asian fusion
+3336,asian fusion
+3337,asian fusion
+3338,canadian (new)
+3339,asian fusion
+3340,asian fusion
+3341,asian fusion
+3342,asian fusion
+3343,asian fusion
+3344,asian fusion
+3345,asian fusion
+3346,asian fusion
+3347,american (new)
+3348,asian fusion
+3349,asian fusion
+3350,american (traditional)
+3351,american (traditional)
+3352,asian fusion
+3353,mexican
+3354,asian fusion
+3355,mexican
+3356,asian fusion
+3357,mexican
+3358,american (new)
+3359,asian fusion
+3360,asian fusion
+3361,asian fusion
+3362,american (traditional)
+3363,american (traditional)
+3364,asian fusion
+3365,american (new)
+3366,american (new)
+3367,asian fusion
+3368,american (traditional)
+3369,mediterranean
+3370,american (new)
+3371,american (new)
+3372,mexican
+3373,american (traditional)
+3374,asian fusion
+3375,asian fusion
+3376,american (new)
+3377,mexican
+3378,canadian (new)
+3379,asian fusion
+3380,mexican
+3381,canadian (new)
+3382,american (new)
+3383,mexican
+3384,american (traditional)
+3385,mexican
+3386,asian fusion
+3387,mexican
+3388,mexican
+3389,canadian (new)
+3390,american (new)
+3391,mexican
+3392,mexican
+3393,american (new)
+3394,american (new)
+3395,asian fusion
+3396,canadian (new)
+3397,italian
+3398,asian fusion
+3399,american (traditional)
+3400,american (traditional)
+3401,mexican
+3402,asian fusion
+3403,asian fusion
+3404,american (new)
+3405,mexican
+3406,asian fusion
+3407,mexican
+3408,asian fusion
+3409,asian fusion
+3410,american (traditional)
+3411,american (new)
+3412,american (new)
+3413,japanese
+3414,asian fusion
+3415,asian fusion
+3416,mexican
+3417,canadian (new)
+3418,asian fusion
+3419,asian fusion
+3420,american (new)
+3421,asian fusion
+3422,mexican
+3423,asian fusion
+3424,asian fusion
+3425,mexican
+3426,japanese
+3427,asian fusion
+3428,mexican
+3429,chinese
+3430,american (traditional)
+3431,asian fusion
+3432,mexican
+3433,asian fusion
+3434,american (new)
+3435,asian fusion
+3436,american (new)
+3437,canadian (new)
+3438,asian fusion
+3439,asian fusion
+3440,japanese
+3441,american (new)
+3442,asian fusion
+3443,asian fusion
+3444,asian fusion
+3445,japanese
+3446,american (traditional)
+3447,asian fusion
+3448,asian fusion
+3449,asian fusion
+3450,american (new)
+3451,asian fusion
+3452,asian fusion
+3453,mexican
+3454,american (traditional)
+3455,mexican
+3456,asian fusion
+3457,american (new)
+3458,asian fusion
+3459,asian fusion
+3460,american (traditional)
+3461,italian
+3462,american (traditional)
+3463,asian fusion
+3464,japanese
+3465,japanese
+3466,japanese
+3467,asian fusion
+3468,asian fusion
+3469,canadian (new)
+3470,asian fusion
+3471,american (new)
+3472,american (new)
+3473,canadian (new)
+3474,mediterranean
+3475,asian fusion
+3476,mediterranean
+3477,american (new)
+3478,mexican
+3479,asian fusion
+3480,american (new)
+3481,chinese
+3482,canadian (new)
+3483,asian fusion
+3484,american (new)
+3485,canadian (new)
+3486,american (traditional)
+3487,canadian (new)
+3488,italian
+3489,chinese
+3490,asian fusion
+3491,asian fusion
+3492,american (traditional)
+3493,mexican
+3494,asian fusion
+3495,mediterranean
+3496,american (new)
+3497,american (traditional)
+3498,american (traditional)
+3499,japanese
+3500,asian fusion
+3501,american (traditional)
+3502,asian fusion
+3503,canadian (new)
+3504,mexican
+3505,asian fusion
+3506,american (traditional)
+3507,asian fusion
+3508,asian fusion
+3509,mexican
+3510,canadian (new)
+3511,asian fusion
+3512,mexican
+3513,american (new)
+3514,mexican
+3515,asian fusion
+3516,mexican
+3517,canadian (new)
+3518,asian fusion
+3519,asian fusion
+3520,asian fusion
+3521,canadian (new)
+3522,canadian (new)
+3523,asian fusion
+3524,asian fusion
+3525,american (new)
+3526,american (new)
+3527,canadian (new)
+3528,american (new)
+3529,asian fusion
+3530,asian fusion
+3531,mexican
+3532,mexican
+3533,american (new)
+3534,american (new)
+3535,asian fusion
+3536,asian fusion
+3537,mediterranean
+3538,american (new)
+3539,asian fusion
+3540,asian fusion
+3541,mexican
+3542,canadian (new)
+3543,american (traditional)
+3544,mexican
+3545,canadian (new)
+3546,italian
+3547,asian fusion
+3548,american (new)
+3549,italian
+3550,mediterranean
+3551,mexican
+3552,american (new)
+3553,american (new)
+3554,mexican
+3555,chinese
+3556,asian fusion
+3557,asian fusion
+3558,mexican
+3559,asian fusion
+3560,canadian (new)
+3561,asian fusion
+3562,japanese
+3563,asian fusion
+3564,asian fusion
+3565,american (new)
+3566,canadian (new)
+3567,italian
+3568,mexican
+3569,canadian (new)
+3570,mexican
+3571,asian fusion
+3572,japanese
+3573,asian fusion
+3574,asian fusion
+3575,american (new)
+3576,american (new)
+3577,asian fusion
+3578,mexican
+3579,american (new)
+3580,american (traditional)
+3581,asian fusion
+3582,mediterranean
+3583,asian fusion
+3584,american (new)
+3585,canadian (new)
+3586,asian fusion
+3587,mexican
+3588,asian fusion
+3589,asian fusion
+3590,american (traditional)
+3591,asian fusion
+3592,mexican
+3593,canadian (new)
+3594,mexican
+3595,asian fusion
+3596,asian fusion
+3597,asian fusion
+3598,asian fusion
+3599,chinese
+3600,american (traditional)
+3601,asian fusion
+3602,mexican
+3603,japanese
+3604,japanese
+3605,american (new)
+3606,asian fusion
+3607,american (new)
+3608,canadian (new)
+3609,canadian (new)
+3610,american (new)
+3611,mediterranean
+3612,asian fusion
+3613,asian fusion
+3614,asian fusion
+3615,chinese
+3616,asian fusion
+3617,mexican
+3618,asian fusion
+3619,american (new)
+3620,japanese
+3621,mediterranean
+3622,mexican
+3623,asian fusion
+3624,asian fusion
+3625,japanese
+3626,asian fusion
+3627,mexican
+3628,american (new)
+3629,mexican
+3630,asian fusion
+3631,american (new)
+3632,asian fusion
+3633,japanese
+3634,canadian (new)
+3635,american (traditional)
+3636,asian fusion
+3637,american (traditional)
+3638,asian fusion
+3639,mexican
+3640,mexican
+3641,asian fusion
+3642,asian fusion
+3643,asian fusion
+3644,american (traditional)
+3645,canadian (new)
+3646,mediterranean
+3647,asian fusion
+3648,american (new)
+3649,american (new)
+3650,asian fusion
+3651,asian fusion
+3652,asian fusion
+3653,asian fusion
+3654,american (new)
+3655,asian fusion
+3656,asian fusion
+3657,asian fusion
+3658,american (new)
+3659,asian fusion
+3660,asian fusion
+3661,canadian (new)
+3662,asian fusion
+3663,italian
+3664,american (new)
+3665,american (new)
+3666,mexican
+3667,american (traditional)
+3668,asian fusion
+3669,american (new)
+3670,mexican
+3671,asian fusion
+3672,asian fusion
+3673,asian fusion
+3674,american (traditional)
+3675,mexican
+3676,japanese
+3677,american (new)
+3678,asian fusion
+3679,chinese
+3680,italian
+3681,american (traditional)
+3682,asian fusion
+3683,italian
+3684,asian fusion
+3685,asian fusion
+3686,asian fusion
+3687,mexican
+3688,asian fusion
+3689,american (traditional)
+3690,mexican
+3691,american (new)
+3692,canadian (new)
+3693,asian fusion
+3694,american (new)
+3695,asian fusion
+3696,american (traditional)
+3697,asian fusion
+3698,chinese
+3699,mediterranean
+3700,american (new)
+3701,mexican
+3702,american (traditional)
+3703,american (new)
+3704,asian fusion
+3705,american (new)
+3706,canadian (new)
+3707,canadian (new)
+3708,american (traditional)
+3709,japanese
+3710,asian fusion
+3711,asian fusion
+3712,canadian (new)
+3713,american (new)
+3714,asian fusion
+3715,asian fusion
+3716,asian fusion
+3717,asian fusion
+3718,asian fusion
+3719,asian fusion
+3720,asian fusion
+3721,mexican
+3722,canadian (new)
+3723,asian fusion
+3724,american (traditional)
+3725,american (new)
+3726,american (new)
+3727,american (new)
+3728,asian fusion
+3729,asian fusion
+3730,asian fusion
+3731,american (new)
+3732,asian fusion
+3733,mexican
+3734,american (new)
+3735,asian fusion
+3736,american (new)
+3737,american (traditional)
+3738,mexican
+3739,japanese
+3740,american (traditional)
+3741,asian fusion
+3742,asian fusion
+3743,american (traditional)
+3744,american (traditional)
+3745,american (new)
+3746,asian fusion
+3747,asian fusion
+3748,american (new)
+3749,american (traditional)
+3750,mexican
+3751,italian
+3752,american (new)
+3753,canadian (new)
+3754,asian fusion
+3755,asian fusion
+3756,american (new)
+3757,american (new)
+3758,chinese
+3759,asian fusion
+3760,asian fusion
+3761,american (new)
+3762,asian fusion
+3763,mexican
+3764,mediterranean
+3765,asian fusion
+3766,mexican
+3767,asian fusion
+3768,japanese
+3769,american (new)
+3770,asian fusion
+3771,canadian (new)
+3772,asian fusion
+3773,asian fusion
+3774,canadian (new)
+3775,american (traditional)
+3776,asian fusion
+3777,asian fusion
+3778,mexican
+3779,japanese
+3780,asian fusion
+3781,american (new)
+3782,asian fusion
+3783,canadian (new)
+3784,mexican
+3785,asian fusion
+3786,mexican
+3787,american (new)
+3788,mexican
+3789,american (traditional)
+3790,chinese
+3791,asian fusion
+3792,american (traditional)
+3793,italian
+3794,asian fusion
+3795,mediterranean
+3796,thai
+3797,italian
+3798,american (traditional)
+3799,asian fusion
+3800,american (new)
+3801,italian
+3802,asian fusion
+3803,american (new)
+3804,chinese
+3805,asian fusion
+3806,italian
+3807,canadian (new)
+3808,american (new)
+3809,mexican
+3810,asian fusion
+3811,asian fusion
+3812,asian fusion
+3813,mexican
+3814,american (new)
+3815,american (new)
+3816,american (new)
+3817,italian
+3818,asian fusion
+3819,asian fusion
+3820,chinese
+3821,asian fusion
+3822,canadian (new)
+3823,asian fusion
+3824,mexican
+3825,mediterranean
+3826,american (new)
+3827,asian fusion
+3828,mexican
+3829,asian fusion
+3830,mexican
+3831,mediterranean
+3832,japanese
+3833,asian fusion
+3834,american (traditional)
+3835,american (traditional)
+3836,mediterranean
+3837,american (traditional)
+3838,asian fusion
+3839,asian fusion
+3840,japanese
+3841,asian fusion
+3842,asian fusion
+3843,asian fusion
+3844,asian fusion
+3845,canadian (new)
+3846,asian fusion
+3847,american (traditional)
+3848,asian fusion
+3849,asian fusion
+3850,american (traditional)
+3851,mexican
+3852,asian fusion
+3853,canadian (new)
+3854,canadian (new)
+3855,asian fusion
+3856,chinese
+3857,american (new)
+3858,asian fusion
+3859,asian fusion
+3860,canadian (new)
+3861,asian fusion
+3862,italian
+3863,italian
+3864,american (traditional)
+3865,american (new)
+3866,mexican
+3867,mexican
+3868,american (new)
+3869,asian fusion
+3870,asian fusion
+3871,american (traditional)
+3872,mexican
+3873,asian fusion
+3874,asian fusion
+3875,asian fusion
+3876,asian fusion
+3877,asian fusion
+3878,mexican
+3879,american (new)
+3880,asian fusion
+3881,chinese
+3882,american (traditional)
+3883,american (new)
+3884,mexican
+3885,american (new)
+3886,asian fusion
+3887,chinese
+3888,american (traditional)
+3889,asian fusion
+3890,asian fusion
+3891,asian fusion
+3892,american (new)
+3893,american (traditional)
+3894,chinese
+3895,canadian (new)
+3896,italian
+3897,asian fusion
+3898,american (new)
+3899,american (traditional)
+3900,american (new)
+3901,asian fusion
+3902,mexican
+3903,asian fusion
+3904,asian fusion
+3905,asian fusion
+3906,mediterranean
+3907,american (new)
+3908,american (traditional)
+3909,mediterranean
+3910,mexican
+3911,asian fusion
+3912,canadian (new)
+3913,chinese
+3914,asian fusion
+3915,mexican
+3916,asian fusion
+3917,american (new)
+3918,asian fusion
+3919,mediterranean
+3920,asian fusion
+3921,mexican
+3922,asian fusion
+3923,asian fusion
+3924,asian fusion
+3925,asian fusion
+3926,american (new)
+3927,canadian (new)
+3928,asian fusion
+3929,thai
+3930,mexican
+3931,american (traditional)
+3932,american (new)
+3933,asian fusion
+3934,chinese
+3935,american (new)
+3936,asian fusion
+3937,american (new)
+3938,mediterranean
+3939,mexican
+3940,american (new)
+3941,american (new)
+3942,asian fusion
+3943,mexican
+3944,mexican
+3945,american (new)
+3946,asian fusion
+3947,mexican
+3948,american (traditional)
+3949,american (new)
+3950,japanese
+3951,asian fusion
+3952,american (new)
+3953,japanese
+3954,canadian (new)
+3955,american (new)
+3956,american (new)
+3957,asian fusion
+3958,american (new)
+3959,asian fusion
+3960,asian fusion
+3961,canadian (new)
+3962,american (traditional)
+3963,italian
+3964,canadian (new)
+3965,asian fusion
+3966,asian fusion
+3967,canadian (new)
+3968,canadian (new)
+3969,asian fusion
+3970,asian fusion
+3971,american (traditional)
+3972,asian fusion
+3973,mexican
+3974,american (traditional)
+3975,asian fusion
+3976,american (new)
+3977,canadian (new)
+3978,canadian (new)
+3979,mexican
+3980,american (new)
+3981,asian fusion
+3982,canadian (new)
+3983,american (new)
+3984,asian fusion
+3985,american (new)
+3986,american (new)
+3987,mexican
+3988,american (new)
+3989,american (traditional)
+3990,asian fusion
+3991,asian fusion
+3992,mexican
+3993,american (traditional)
+3994,asian fusion
+3995,mexican
+3996,asian fusion
+3997,american (traditional)
+3998,american (traditional)
+3999,asian fusion
+4000,american (traditional)
+4001,american (traditional)
+4002,american (new)
+4003,canadian (new)
+4004,asian fusion
+4005,canadian (new)
+4006,mediterranean
+4007,american (traditional)
+4008,american (traditional)
+4009,canadian (new)
+4010,american (new)
+4011,american (new)
+4012,asian fusion
+4013,american (new)
+4014,american (new)
+4015,canadian (new)
+4016,asian fusion
+4017,canadian (new)
+4018,japanese
+4019,asian fusion
+4020,asian fusion
+4021,american (new)
+4022,mexican
+4023,asian fusion
+4024,asian fusion
+4025,asian fusion
+4026,asian fusion
+4027,asian fusion
+4028,asian fusion
+4029,asian fusion
+4030,american (new)
+4031,canadian (new)
+4032,asian fusion
+4033,mexican
+4034,asian fusion
+4035,canadian (new)
+4036,mexican
+4037,mediterranean
+4038,asian fusion
+4039,canadian (new)
+4040,mexican
+4041,mediterranean
+4042,american (traditional)
+4043,mediterranean
+4044,asian fusion
+4045,chinese
+4046,mexican
+4047,asian fusion
+4048,canadian (new)
+4049,asian fusion
+4050,canadian (new)
+4051,canadian (new)
+4052,canadian (new)
+4053,american (traditional)
+4054,asian fusion
+4055,asian fusion
+4056,mediterranean
+4057,mexican
+4058,asian fusion
+4059,italian
+4060,asian fusion
+4061,american (new)
+4062,asian fusion
+4063,american (traditional)
+4064,asian fusion
+4065,asian fusion
+4066,asian fusion
+4067,asian fusion
+4068,asian fusion
+4069,american (new)
+4070,asian fusion
+4071,mexican
+4072,asian fusion
+4073,italian
+4074,canadian (new)
+4075,italian
+4076,italian
+4077,canadian (new)
+4078,asian fusion
+4079,mexican
+4080,asian fusion
+4081,asian fusion
+4082,american (new)
+4083,asian fusion
+4084,canadian (new)
+4085,asian fusion
+4086,american (traditional)
+4087,american (traditional)
+4088,asian fusion
+4089,american (new)
+4090,american (new)
+4091,american (new)
+4092,american (new)
+4093,american (new)
+4094,chinese
+4095,canadian (new)
+4096,american (traditional)
+4097,asian fusion
+4098,american (new)
+4099,american (new)
+4100,asian fusion
+4101,asian fusion
+4102,mexican
+4103,american (new)
+4104,american (new)
+4105,asian fusion
+4106,mexican
+4107,american (new)
+4108,italian
+4109,american (traditional)
+4110,mexican
+4111,japanese
+4112,asian fusion
+4113,american (new)
+4114,american (new)
+4115,asian fusion
+4116,asian fusion
+4117,american (traditional)
+4118,mexican
+4119,asian fusion
+4120,canadian (new)
+4121,asian fusion
+4122,asian fusion
+4123,american (new)
+4124,american (new)
+4125,american (new)
+4126,canadian (new)
+4127,american (new)
+4128,asian fusion
+4129,chinese
+4130,american (traditional)
+4131,american (traditional)
+4132,canadian (new)
+4133,mediterranean
+4134,mexican
+4135,mexican
+4136,american (new)
+4137,asian fusion
+4138,asian fusion
+4139,american (new)
+4140,asian fusion
+4141,asian fusion
+4142,asian fusion
+4143,mexican
+4144,asian fusion
+4145,canadian (new)
+4146,asian fusion
+4147,american (new)
+4148,american (traditional)
+4149,american (traditional)
+4150,mexican
+4151,american (new)
+4152,american (traditional)
+4153,asian fusion
+4154,mediterranean
+4155,mexican
+4156,asian fusion
+4157,japanese
+4158,asian fusion
+4159,american (new)
+4160,asian fusion
+4161,canadian (new)
+4162,asian fusion
+4163,american (new)
+4164,american (traditional)
+4165,asian fusion
+4166,american (traditional)
+4167,american (new)
+4168,asian fusion
+4169,asian fusion
+4170,asian fusion
+4171,canadian (new)
+4172,mexican
+4173,asian fusion
+4174,american (new)
+4175,canadian (new)
+4176,american (new)
+4177,american (new)
+4178,mexican
+4179,mediterranean
+4180,mediterranean
+4181,american (traditional)
+4182,american (new)
+4183,american (new)
+4184,american (traditional)
+4185,asian fusion
+4186,canadian (new)
+4187,american (new)
+4188,american (new)
+4189,asian fusion
+4190,asian fusion
+4191,american (traditional)
+4192,mexican
+4193,american (new)
+4194,asian fusion
+4195,asian fusion
+4196,japanese
+4197,mediterranean
+4198,american (new)
+4199,asian fusion
+4200,asian fusion
+4201,american (new)
+4202,american (new)
+4203,asian fusion
+4204,mexican
+4205,mexican
+4206,asian fusion
+4207,asian fusion
+4208,mediterranean
+4209,asian fusion
+4210,american (traditional)
+4211,asian fusion
+4212,asian fusion
+4213,asian fusion
+4214,asian fusion
+4215,canadian (new)
+4216,asian fusion
+4217,american (new)
+4218,asian fusion
+4219,asian fusion
+4220,japanese
+4221,mexican
+4222,american (new)
+4223,mexican
+4224,asian fusion
+4225,asian fusion
+4226,asian fusion
+4227,canadian (new)
+4228,asian fusion
+4229,american (new)
+4230,asian fusion
+4231,chinese
+4232,asian fusion
+4233,mexican
+4234,italian
+4235,canadian (new)
+4236,japanese
+4237,american (new)
+4238,chinese
+4239,asian fusion
+4240,american (new)
+4241,asian fusion
+4242,american (new)
+4243,asian fusion
+4244,asian fusion
+4245,canadian (new)
+4246,asian fusion
+4247,mediterranean
+4248,american (traditional)
+4249,mexican
+4250,asian fusion
+4251,asian fusion
+4252,american (new)
+4253,italian
+4254,mexican
+4255,mexican
+4256,asian fusion
+4257,asian fusion
+4258,american (new)
+4259,mediterranean
+4260,american (traditional)
+4261,japanese
+4262,japanese
+4263,canadian (new)
+4264,asian fusion
+4265,asian fusion
+4266,asian fusion
+4267,thai
+4268,asian fusion
+4269,american (new)
+4270,american (new)
+4271,american (new)
+4272,asian fusion
+4273,japanese
+4274,american (new)
+4275,american (new)
+4276,chinese
+4277,american (new)
+4278,american (traditional)
+4279,asian fusion
+4280,asian fusion
+4281,asian fusion
+4282,asian fusion
+4283,american (new)
+4284,american (new)
+4285,japanese
+4286,asian fusion
+4287,asian fusion
+4288,asian fusion
+4289,american (new)
+4290,japanese
+4291,asian fusion
+4292,asian fusion
+4293,chinese
+4294,asian fusion
+4295,canadian (new)
+4296,canadian (new)
+4297,mexican
+4298,mexican
+4299,asian fusion
+4300,asian fusion
+4301,mexican
+4302,american (new)
+4303,american (new)
+4304,american (traditional)
+4305,asian fusion
+4306,asian fusion
+4307,american (traditional)
+4308,asian fusion
+4309,chinese
+4310,asian fusion
+4311,american (new)
+4312,asian fusion
+4313,asian fusion
+4314,american (new)
+4315,american (new)
+4316,asian fusion
+4317,mexican
+4318,asian fusion
+4319,american (traditional)
+4320,mexican
+4321,asian fusion
+4322,american (new)
+4323,chinese
+4324,asian fusion
+4325,american (new)
+4326,american (new)
+4327,canadian (new)
+4328,asian fusion
+4329,asian fusion
+4330,canadian (new)
+4331,asian fusion
+4332,asian fusion
+4333,mexican
+4334,asian fusion
+4335,chinese
+4336,canadian (new)
+4337,asian fusion
+4338,american (new)
+4339,mexican
+4340,canadian (new)
+4341,canadian (new)
+4342,mediterranean
+4343,japanese
+4344,asian fusion
+4345,asian fusion
+4346,asian fusion
+4347,italian
+4348,mexican
+4349,mediterranean
+4350,canadian (new)
+4351,american (new)
+4352,american (new)
+4353,asian fusion
+4354,japanese
+4355,mexican
+4356,canadian (new)
+4357,asian fusion
+4358,american (new)
+4359,asian fusion
+4360,asian fusion
+4361,asian fusion
+4362,asian fusion
+4363,american (new)
+4364,asian fusion
+4365,mexican
+4366,asian fusion
+4367,american (traditional)
+4368,japanese
+4369,american (new)
+4370,american (traditional)
+4371,mexican
+4372,mexican
+4373,mexican
+4374,chinese
+4375,mediterranean
+4376,asian fusion
+4377,mexican
+4378,asian fusion
+4379,american (new)
+4380,american (new)
+4381,asian fusion
+4382,italian
+4383,mexican
+4384,asian fusion
+4385,mexican
+4386,mediterranean
+4387,canadian (new)
+4388,italian
+4389,american (new)
+4390,american (new)
+4391,canadian (new)
+4392,asian fusion
+4393,asian fusion
+4394,canadian (new)
+4395,canadian (new)
+4396,canadian (new)
+4397,mediterranean
+4398,asian fusion
+4399,asian fusion
+4400,american (new)
+4401,asian fusion
+4402,american (new)
+4403,asian fusion
+4404,american (new)
+4405,american (new)
+4406,chinese
+4407,mexican
+4408,american (traditional)
+4409,asian fusion
+4410,american (new)
+4411,asian fusion
+4412,asian fusion
+4413,american (new)
+4414,american (new)
+4415,mexican
+4416,asian fusion
+4417,thai
+4418,american (new)
+4419,american (new)
+4420,asian fusion
+4421,asian fusion
+4422,chinese
+4423,american (new)
+4424,canadian (new)
+4425,american (new)
+4426,asian fusion
+4427,canadian (new)
+4428,canadian (new)
+4429,mexican
+4430,american (new)
+4431,asian fusion
+4432,canadian (new)
+4433,asian fusion
+4434,american (new)
+4435,asian fusion
+4436,chinese
+4437,american (new)
+4438,asian fusion
+4439,italian
+4440,mexican
+4441,american (traditional)
+4442,american (new)
+4443,chinese
+4444,asian fusion
+4445,asian fusion
+4446,canadian (new)
+4447,asian fusion
+4448,asian fusion
+4449,asian fusion
+4450,american (new)
+4451,italian
+4452,asian fusion
+4453,american (traditional)
+4454,mexican
+4455,asian fusion
+4456,canadian (new)
+4457,mexican
+4458,asian fusion
+4459,american (new)
+4460,italian
+4461,asian fusion
+4462,chinese
+4463,asian fusion
+4464,mexican
+4465,canadian (new)
+4466,mexican
+4467,canadian (new)
+4468,asian fusion
+4469,mexican
+4470,american (new)
+4471,mexican
+4472,asian fusion
+4473,american (new)
+4474,asian fusion
+4475,american (traditional)
+4476,mexican
+4477,japanese
+4478,asian fusion
+4479,asian fusion
+4480,american (new)
+4481,mexican
+4482,american (new)
+4483,asian fusion
+4484,asian fusion
+4485,mexican
+4486,asian fusion
+4487,mexican
+4488,canadian (new)
+4489,japanese
+4490,asian fusion
+4491,asian fusion
+4492,japanese
+4493,asian fusion
+4494,canadian (new)
+4495,asian fusion
+4496,asian fusion
+4497,italian
+4498,mexican
+4499,canadian (new)
+4500,american (new)
+4501,asian fusion
+4502,canadian (new)
+4503,mediterranean
+4504,chinese
+4505,asian fusion
+4506,american (traditional)
+4507,mexican
+4508,american (new)
+4509,asian fusion
+4510,american (traditional)
+4511,american (traditional)
+4512,mexican
+4513,mediterranean
+4514,asian fusion
+4515,asian fusion
+4516,japanese
+4517,american (new)
+4518,asian fusion
+4519,mexican
+4520,asian fusion
+4521,asian fusion
+4522,mexican
+4523,mexican
+4524,american (traditional)
+4525,american (traditional)
+4526,mexican
+4527,american (traditional)
+4528,american (new)
+4529,asian fusion
+4530,mexican
+4531,american (new)
+4532,american (new)
+4533,asian fusion
+4534,american (new)
+4535,asian fusion
+4536,mexican
+4537,asian fusion
+4538,asian fusion
+4539,asian fusion
+4540,asian fusion
+4541,canadian (new)
+4542,american (new)
+4543,american (new)
+4544,american (new)
+4545,mediterranean
+4546,mexican
+4547,asian fusion
+4548,american (new)
+4549,mediterranean
+4550,mexican
+4551,asian fusion
+4552,asian fusion
+4553,asian fusion
+4554,japanese
+4555,asian fusion
+4556,american (new)
+4557,mexican
+4558,american (new)
+4559,american (new)
+4560,american (new)
+4561,mexican
+4562,american (new)
+4563,asian fusion
+4564,japanese
+4565,mexican
+4566,asian fusion
+4567,mexican
+4568,mexican
+4569,asian fusion
+4570,mexican
+4571,mediterranean
+4572,chinese
+4573,american (traditional)
+4574,mediterranean
+4575,asian fusion
+4576,chinese
+4577,mexican
+4578,american (new)
+4579,mexican
+4580,canadian (new)
+4581,canadian (new)
+4582,asian fusion
+4583,asian fusion
+4584,chinese
+4585,asian fusion
+4586,mexican
+4587,american (traditional)
+4588,mexican
+4589,mexican
+4590,mexican
+4591,american (new)
+4592,mexican
+4593,asian fusion
+4594,american (new)
+4595,american (new)
+4596,mexican
+4597,asian fusion
+4598,american (traditional)
+4599,mexican
+4600,american (new)
+4601,mexican
+4602,asian fusion
+4603,american (new)
+4604,asian fusion
+4605,canadian (new)
+4606,asian fusion
+4607,mexican
+4608,american (new)
+4609,american (traditional)
+4610,mexican
+4611,asian fusion
+4612,canadian (new)
+4613,american (traditional)
+4614,asian fusion
+4615,mexican
+4616,italian
+4617,asian fusion
+4618,canadian (new)
+4619,american (traditional)
+4620,asian fusion
+4621,asian fusion
+4622,canadian (new)
+4623,canadian (new)
+4624,japanese
+4625,asian fusion
+4626,asian fusion
+4627,canadian (new)
+4628,asian fusion
+4629,american (new)
+4630,mexican
+4631,thai
+4632,mexican
+4633,asian fusion
+4634,american (new)
+4635,mexican
+4636,asian fusion
+4637,asian fusion
+4638,asian fusion
+4639,italian
+4640,chinese
+4641,canadian (new)
+4642,american (new)
+4643,mexican
+4644,american (traditional)
+4645,mediterranean
+4646,american (traditional)
+4647,mexican
+4648,mexican
+4649,mediterranean
+4650,mexican
+4651,asian fusion
+4652,asian fusion
+4653,american (new)
+4654,canadian (new)
+4655,american (new)
+4656,american (traditional)
+4657,mexican
+4658,canadian (new)
+4659,chinese
+4660,mexican
+4661,asian fusion
+4662,american (new)
+4663,american (new)
+4664,asian fusion
+4665,asian fusion
+4666,american (traditional)
+4667,asian fusion
+4668,asian fusion
+4669,asian fusion
+4670,american (new)
+4671,canadian (new)
+4672,italian
+4673,american (traditional)
+4674,mexican
+4675,american (traditional)
+4676,american (traditional)
+4677,american (new)
+4678,american (new)
+4679,american (new)
+4680,japanese
+4681,asian fusion
+4682,asian fusion
+4683,asian fusion
+4684,asian fusion
+4685,asian fusion
+4686,asian fusion
+4687,asian fusion
+4688,mexican
+4689,mediterranean
+4690,mediterranean
+4691,asian fusion
+4692,mexican
+4693,american (new)
+4694,asian fusion
+4695,asian fusion
+4696,american (new)
+4697,asian fusion
+4698,mexican
+4699,canadian (new)
+4700,asian fusion
+4701,american (new)
+4702,mexican
+4703,american (traditional)
+4704,asian fusion
+4705,asian fusion
+4706,asian fusion
+4707,asian fusion
+4708,asian fusion
+4709,asian fusion
+4710,asian fusion
+4711,mexican
+4712,mediterranean
+4713,american (traditional)
+4714,chinese
+4715,asian fusion
+4716,american (new)
+4717,asian fusion
+4718,asian fusion
+4719,mexican
+4720,american (new)
+4721,japanese
+4722,american (traditional)
+4723,american (new)
+4724,american (new)
+4725,american (new)
+4726,american (new)
+4727,asian fusion
+4728,italian
+4729,asian fusion
+4730,american (new)
+4731,american (new)
+4732,american (new)
+4733,asian fusion
+4734,japanese
+4735,american (new)
+4736,canadian (new)
+4737,american (new)
+4738,asian fusion
+4739,japanese
+4740,chinese
+4741,thai
+4742,american (new)
+4743,asian fusion
+4744,canadian (new)
+4745,asian fusion
+4746,chinese
+4747,american (new)
+4748,american (new)
+4749,american (new)
+4750,american (traditional)
+4751,american (new)
+4752,american (new)
+4753,asian fusion
+4754,asian fusion
+4755,asian fusion
+4756,asian fusion
+4757,mexican
+4758,mexican
+4759,japanese
+4760,mexican
+4761,chinese
+4762,american (traditional)
+4763,canadian (new)
+4764,asian fusion
+4765,japanese
+4766,mexican
+4767,asian fusion
+4768,asian fusion
+4769,american (new)
+4770,asian fusion
+4771,american (new)
+4772,asian fusion
+4773,american (traditional)
+4774,italian
+4775,american (traditional)
+4776,american (new)
+4777,american (new)
+4778,asian fusion
+4779,asian fusion
+4780,american (traditional)
+4781,mexican
+4782,asian fusion
+4783,asian fusion
+4784,asian fusion
+4785,chinese
+4786,american (new)
+4787,american (new)
+4788,asian fusion
+4789,asian fusion
+4790,mexican
+4791,asian fusion
+4792,asian fusion
+4793,japanese
+4794,american (new)
+4795,american (new)
+4796,american (traditional)
+4797,mexican
+4798,american (traditional)
+4799,asian fusion
+4800,american (traditional)
+4801,chinese
+4802,asian fusion
+4803,asian fusion
+4804,asian fusion
+4805,asian fusion
+4806,asian fusion
+4807,asian fusion
+4808,american (new)
+4809,asian fusion
+4810,asian fusion
+4811,asian fusion
+4812,american (new)
+4813,american (new)
+4814,asian fusion
+4815,mexican
+4816,american (new)
+4817,asian fusion
+4818,italian
+4819,asian fusion
+4820,italian
+4821,american (new)
+4822,italian
+4823,american (new)
+4824,asian fusion
+4825,canadian (new)
+4826,asian fusion
+4827,canadian (new)
+4828,asian fusion
+4829,asian fusion
+4830,asian fusion
+4831,asian fusion
+4832,mexican
+4833,american (traditional)
+4834,asian fusion
+4835,mexican
+4836,american (new)
+4837,asian fusion
+4838,mexican
+4839,mexican
+4840,asian fusion
+4841,mediterranean
+4842,american (new)
+4843,asian fusion
+4844,mexican
+4845,asian fusion
+4846,american (new)
+4847,american (new)
+4848,asian fusion
+4849,mediterranean
+4850,mexican
+4851,american (new)
+4852,asian fusion
+4853,asian fusion
+4854,asian fusion
+4855,american (new)
+4856,asian fusion
+4857,mexican
+4858,american (traditional)
+4859,asian fusion
+4860,mexican
+4861,canadian (new)
+4862,american (new)
+4863,mexican
+4864,american (new)
+4865,asian fusion
+4866,canadian (new)
+4867,asian fusion
+4868,chinese
+4869,asian fusion
+4870,asian fusion
+4871,asian fusion
+4872,american (traditional)
+4873,japanese
+4874,asian fusion
+4875,american (new)
+4876,american (new)
+4877,american (traditional)
+4878,american (traditional)
+4879,american (new)
+4880,mexican
+4881,mexican
+4882,asian fusion
+4883,asian fusion
+4884,japanese
+4885,asian fusion
+4886,mexican
+4887,canadian (new)
+4888,asian fusion
+4889,mexican
+4890,american (new)
+4891,mexican
+4892,asian fusion
+4893,asian fusion
+4894,american (new)
+4895,asian fusion
+4896,asian fusion
+4897,american (traditional)
+4898,mexican
+4899,mediterranean
+4900,asian fusion
+4901,asian fusion
+4902,canadian (new)
+4903,american (traditional)
+4904,mexican
+4905,american (new)
+4906,thai
+4907,asian fusion
+4908,mediterranean
+4909,thai
+4910,canadian (new)
+4911,japanese
+4912,mexican
+4913,american (new)
+4914,asian fusion
+4915,asian fusion
+4916,asian fusion
+4917,american (new)
+4918,canadian (new)
+4919,american (new)
+4920,american (new)
+4921,mexican
+4922,american (new)
+4923,asian fusion
+4924,mexican
+4925,american (new)
+4926,american (traditional)
+4927,asian fusion
+4928,asian fusion
+4929,mexican
+4930,mexican
+4931,mexican
+4932,mexican
+4933,american (new)
+4934,american (traditional)
+4935,american (new)
+4936,asian fusion
+4937,mexican
+4938,mexican
+4939,canadian (new)
+4940,american (new)
+4941,american (new)
+4942,american (new)
+4943,asian fusion
+4944,canadian (new)
+4945,mexican
+4946,american (traditional)
+4947,mexican
+4948,asian fusion
+4949,mediterranean
+4950,american (new)
+4951,chinese
+4952,mexican
+4953,american (traditional)
+4954,canadian (new)
+4955,american (traditional)
+4956,mexican
+4957,american (traditional)
+4958,american (new)
+4959,asian fusion
+4960,american (new)
+4961,mexican
+4962,american (new)
+4963,american (new)
+4964,american (traditional)
+4965,american (new)
+4966,american (traditional)
+4967,american (new)
+4968,asian fusion
+4969,american (new)
+4970,asian fusion
+4971,asian fusion
+4972,mexican
+4973,canadian (new)
+4974,mexican
+4975,chinese
+4976,american (new)
+4977,american (new)
+4978,american (new)
+4979,asian fusion
+4980,american (new)
+4981,american (new)
+4982,canadian (new)
+4983,mexican
+4984,asian fusion
+4985,american (new)
+4986,mediterranean
+4987,asian fusion
+4988,mexican
+4989,mexican
+4990,italian
+4991,asian fusion
+4992,canadian (new)
+4993,american (new)
+4994,american (traditional)
+4995,japanese
+4996,asian fusion
+4997,american (new)
+4998,american (new)
+4999,chinese
+5000,chinese
+5001,italian
+5002,canadian (new)
+5003,canadian (new)
+5004,asian fusion
+5005,asian fusion
+5006,american (new)
+5007,asian fusion
+5008,asian fusion
+5009,american (traditional)
+5010,american (new)
+5011,mexican
+5012,american (traditional)
+5013,mexican
+5014,asian fusion
+5015,american (new)
+5016,thai
+5017,chinese
+5018,asian fusion
+5019,asian fusion
+5020,asian fusion
+5021,asian fusion
+5022,asian fusion
+5023,italian
+5024,asian fusion
+5025,american (new)
+5026,asian fusion
+5027,italian
+5028,asian fusion
+5029,american (traditional)
+5030,american (traditional)
+5031,asian fusion
+5032,mexican
+5033,asian fusion
+5034,american (new)
+5035,mexican
+5036,japanese
+5037,asian fusion
+5038,mexican
+5039,asian fusion
+5040,asian fusion
+5041,american (new)
+5042,asian fusion
+5043,japanese
+5044,mexican
+5045,american (new)
+5046,american (new)
+5047,american (new)
+5048,american (new)
+5049,asian fusion
+5050,american (new)
+5051,american (new)
+5052,asian fusion
+5053,asian fusion
+5054,japanese
+5055,mexican
+5056,american (new)
+5057,american (traditional)
+5058,american (traditional)
+5059,mexican
+5060,chinese
+5061,american (traditional)
+5062,asian fusion
+5063,asian fusion
+5064,chinese
+5065,american (new)
+5066,asian fusion
+5067,mexican
+5068,canadian (new)
+5069,mexican
+5070,mediterranean
+5071,mexican
+5072,american (traditional)
+5073,american (new)
+5074,american (new)
+5075,american (new)
+5076,asian fusion
+5077,asian fusion
+5078,mexican
+5079,japanese
+5080,american (new)
+5081,american (new)
+5082,asian fusion
+5083,american (new)
+5084,american (new)
+5085,mexican
+5086,mediterranean
+5087,mexican
+5088,asian fusion
+5089,mexican
+5090,canadian (new)
+5091,mediterranean
+5092,asian fusion
+5093,asian fusion
+5094,asian fusion
+5095,mexican
+5096,japanese
+5097,american (new)
+5098,american (new)
+5099,american (new)
+5100,canadian (new)
+5101,asian fusion
+5102,asian fusion
+5103,mexican
+5104,mediterranean
+5105,asian fusion
+5106,mexican
+5107,american (traditional)
+5108,mexican
+5109,mexican
+5110,asian fusion
+5111,american (new)
+5112,chinese
+5113,canadian (new)
+5114,american (new)
+5115,asian fusion
+5116,asian fusion
+5117,american (new)
+5118,asian fusion
+5119,italian
+5120,asian fusion
+5121,mexican
+5122,asian fusion
+5123,mexican
+5124,asian fusion
+5125,mexican
+5126,canadian (new)
+5127,japanese
+5128,mexican
+5129,american (traditional)
+5130,asian fusion
+5131,asian fusion
+5132,mexican
+5133,american (new)
+5134,japanese
+5135,canadian (new)
+5136,asian fusion
+5137,asian fusion
+5138,american (traditional)
+5139,asian fusion
+5140,canadian (new)
+5141,asian fusion
+5142,mexican
+5143,american (new)
+5144,asian fusion
+5145,japanese
+5146,mexican
+5147,asian fusion
+5148,asian fusion
+5149,american (traditional)
+5150,american (new)
+5151,american (new)
+5152,japanese
+5153,mediterranean
+5154,asian fusion
+5155,asian fusion
+5156,american (traditional)
+5157,american (new)
+5158,american (new)
+5159,american (new)
+5160,american (new)
+5161,american (new)
+5162,american (new)
+5163,asian fusion
+5164,mexican
+5165,asian fusion
+5166,mexican
+5167,mexican
+5168,canadian (new)
+5169,canadian (new)
+5170,asian fusion
+5171,asian fusion
+5172,mexican
+5173,asian fusion
+5174,american (new)
+5175,canadian (new)
+5176,american (new)
+5177,asian fusion
+5178,mediterranean
+5179,asian fusion
+5180,american (new)
+5181,asian fusion
+5182,asian fusion
+5183,canadian (new)
+5184,american (new)
+5185,mexican
+5186,asian fusion
+5187,mediterranean
+5188,asian fusion
+5189,asian fusion
+5190,mexican
+5191,asian fusion
+5192,american (new)
+5193,mexican
+5194,american (traditional)
+5195,american (new)
+5196,asian fusion
+5197,asian fusion
+5198,asian fusion
+5199,american (traditional)
+5200,american (traditional)
+5201,mexican
+5202,asian fusion
+5203,mediterranean
+5204,asian fusion
+5205,american (new)
+5206,mexican
+5207,mexican
+5208,american (new)
+5209,asian fusion
+5210,asian fusion
+5211,american (new)
+5212,asian fusion
+5213,asian fusion
+5214,canadian (new)
+5215,american (traditional)
+5216,asian fusion
+5217,american (new)
+5218,mexican
+5219,asian fusion
+5220,asian fusion
+5221,canadian (new)
+5222,asian fusion
+5223,asian fusion
+5224,asian fusion
+5225,mexican
+5226,american (new)
+5227,mexican
+5228,mexican
+5229,canadian (new)
+5230,asian fusion
+5231,asian fusion
+5232,chinese
+5233,american (new)
+5234,asian fusion
+5235,canadian (new)
+5236,asian fusion
+5237,american (traditional)
+5238,asian fusion
+5239,asian fusion
+5240,mediterranean
+5241,canadian (new)
+5242,american (new)
+5243,canadian (new)
+5244,mediterranean
+5245,asian fusion
+5246,asian fusion
+5247,japanese
+5248,american (new)
+5249,chinese
+5250,mediterranean
+5251,mexican
+5252,canadian (new)
+5253,mediterranean
+5254,american (traditional)
+5255,american (new)
+5256,mexican
+5257,asian fusion
+5258,canadian (new)
+5259,canadian (new)
+5260,mediterranean
+5261,american (traditional)
+5262,asian fusion
+5263,chinese
+5264,american (new)
+5265,mexican
+5266,asian fusion
+5267,asian fusion
+5268,american (traditional)
+5269,asian fusion
+5270,asian fusion
+5271,asian fusion
+5272,japanese
+5273,mediterranean
+5274,asian fusion
+5275,american (new)
+5276,asian fusion
+5277,canadian (new)
+5278,american (traditional)
+5279,asian fusion
+5280,american (traditional)
+5281,asian fusion
+5282,canadian (new)
+5283,american (new)
+5284,italian
+5285,asian fusion
+5286,canadian (new)
+5287,canadian (new)
+5288,asian fusion
+5289,asian fusion
+5290,mexican
+5291,american (traditional)
+5292,asian fusion
+5293,mexican
+5294,american (new)
+5295,mexican
+5296,japanese
+5297,american (traditional)
+5298,asian fusion
+5299,japanese
+5300,asian fusion
+5301,mediterranean
+5302,american (new)
+5303,asian fusion
+5304,mexican
+5305,chinese
+5306,asian fusion
+5307,asian fusion
+5308,american (traditional)
+5309,asian fusion
+5310,thai
+5311,chinese
+5312,american (new)
+5313,american (new)
+5314,american (new)
+5315,asian fusion
+5316,american (traditional)
+5317,mexican
+5318,american (traditional)
+5319,italian
+5320,american (traditional)
+5321,asian fusion
+5322,asian fusion
+5323,asian fusion
+5324,canadian (new)
+5325,canadian (new)
+5326,japanese
+5327,mexican
+5328,asian fusion
+5329,japanese
+5330,italian
+5331,canadian (new)
+5332,mexican
+5333,canadian (new)
+5334,asian fusion
+5335,american (new)
+5336,canadian (new)
+5337,mexican
+5338,mediterranean
+5339,american (new)
+5340,asian fusion
+5341,mexican
+5342,american (new)
+5343,canadian (new)
+5344,asian fusion
+5345,asian fusion
+5346,asian fusion
+5347,american (traditional)
+5348,asian fusion
+5349,asian fusion
+5350,canadian (new)
+5351,canadian (new)
+5352,asian fusion
+5353,american (traditional)
+5354,mexican
+5355,asian fusion
+5356,mexican
+5357,mediterranean
+5358,canadian (new)
+5359,canadian (new)
+5360,asian fusion
+5361,american (new)
+5362,italian
+5363,american (new)
+5364,asian fusion
+5365,asian fusion
+5366,asian fusion
+5367,italian
+5368,american (new)
+5369,american (new)
+5370,mexican
+5371,american (new)
+5372,asian fusion
+5373,asian fusion
+5374,american (new)
+5375,japanese
+5376,asian fusion
+5377,mediterranean
+5378,american (new)
+5379,asian fusion
+5380,american (new)
+5381,japanese
+5382,american (traditional)
+5383,asian fusion
+5384,canadian (new)
+5385,american (new)
+5386,canadian (new)
+5387,american (new)
+5388,asian fusion
+5389,american (new)
+5390,american (new)
+5391,american (new)
+5392,asian fusion
+5393,asian fusion
+5394,american (new)
+5395,asian fusion
+5396,american (traditional)
+5397,asian fusion
+5398,asian fusion
+5399,canadian (new)
+5400,canadian (new)
+5401,asian fusion
+5402,canadian (new)
+5403,canadian (new)
+5404,canadian (new)
+5405,american (traditional)
+5406,asian fusion
+5407,asian fusion
+5408,american (new)
+5409,asian fusion
+5410,mexican
+5411,mexican
+5412,canadian (new)
+5413,american (traditional)
+5414,american (new)
+5415,asian fusion
+5416,asian fusion
+5417,american (traditional)
+5418,american (new)
+5419,canadian (new)
+5420,asian fusion
+5421,american (traditional)
+5422,asian fusion
+5423,american (new)
+5424,asian fusion
+5425,thai
+5426,american (traditional)
+5427,american (traditional)
+5428,asian fusion
+5429,asian fusion
+5430,asian fusion
+5431,american (new)
+5432,asian fusion
+5433,american (new)
+5434,asian fusion
+5435,asian fusion
+5436,asian fusion
+5437,japanese
+5438,american (new)
+5439,asian fusion
+5440,mexican
+5441,american (traditional)
+5442,italian
+5443,asian fusion
+5444,asian fusion
+5445,asian fusion
+5446,italian
+5447,canadian (new)
+5448,chinese
+5449,italian
+5450,american (new)
+5451,asian fusion
+5452,mexican
+5453,american (traditional)
+5454,asian fusion
+5455,asian fusion
+5456,canadian (new)
+5457,asian fusion
+5458,asian fusion
+5459,mexican
+5460,asian fusion
+5461,mexican
+5462,asian fusion
+5463,american (traditional)
+5464,canadian (new)
+5465,mexican
+5466,asian fusion
+5467,mexican
+5468,american (new)
+5469,american (new)
+5470,american (new)
+5471,american (new)
+5472,american (new)
+5473,asian fusion
+5474,asian fusion
+5475,american (new)
+5476,chinese
+5477,canadian (new)
+5478,mexican
+5479,asian fusion
+5480,mexican
+5481,chinese
+5482,japanese
+5483,mexican
+5484,asian fusion
+5485,american (traditional)
+5486,american (traditional)
+5487,asian fusion
+5488,chinese
+5489,mexican
+5490,asian fusion
+5491,mexican
+5492,american (new)
+5493,asian fusion
+5494,american (new)
+5495,mexican
+5496,asian fusion
+5497,italian
+5498,italian
+5499,japanese
+5500,american (traditional)
+5501,american (traditional)
+5502,chinese
+5503,american (new)
+5504,american (traditional)
+5505,american (new)
+5506,asian fusion
+5507,american (traditional)
+5508,asian fusion
+5509,mexican
+5510,asian fusion
+5511,american (traditional)
+5512,mexican
+5513,asian fusion
+5514,mexican
+5515,american (new)
+5516,american (traditional)
+5517,asian fusion
+5518,asian fusion
+5519,asian fusion
+5520,mexican
+5521,american (new)
+5522,american (traditional)
+5523,asian fusion
+5524,asian fusion
+5525,canadian (new)
+5526,japanese
+5527,asian fusion
+5528,mediterranean
+5529,american (new)
+5530,canadian (new)
+5531,asian fusion
+5532,canadian (new)
+5533,asian fusion
+5534,chinese
+5535,american (new)
+5536,asian fusion
+5537,american (new)
+5538,asian fusion
+5539,american (traditional)
+5540,american (traditional)
+5541,asian fusion
+5542,asian fusion
+5543,asian fusion
+5544,american (new)
+5545,mexican
+5546,italian
+5547,american (new)
+5548,asian fusion
+5549,japanese
+5550,asian fusion
+5551,canadian (new)
+5552,american (traditional)
+5553,japanese
+5554,mexican
+5555,canadian (new)
+5556,asian fusion
+5557,mexican
+5558,american (traditional)
+5559,asian fusion
+5560,chinese
+5561,asian fusion
+5562,american (traditional)
+5563,asian fusion
+5564,mexican
+5565,american (new)
+5566,asian fusion
+5567,american (new)
+5568,asian fusion
+5569,thai
+5570,asian fusion
+5571,american (traditional)
+5572,mexican
+5573,american (traditional)
+5574,mexican
+5575,mexican
+5576,italian
+5577,asian fusion
+5578,mexican
+5579,japanese
+5580,asian fusion
+5581,mexican
+5582,asian fusion
+5583,mexican
+5584,mexican
+5585,american (new)
+5586,canadian (new)
+5587,asian fusion
+5588,asian fusion
+5589,american (new)
+5590,american (traditional)
+5591,american (traditional)
+5592,canadian (new)
+5593,asian fusion
+5594,american (traditional)
+5595,thai
+5596,american (new)
+5597,mexican
+5598,asian fusion
+5599,american (new)
+5600,italian
+5601,asian fusion
+5602,american (new)
+5603,asian fusion
+5604,asian fusion
+5605,american (new)
+5606,asian fusion
+5607,american (new)
+5608,american (new)
+5609,asian fusion
+5610,american (new)
+5611,asian fusion
+5612,thai
+5613,asian fusion
+5614,asian fusion
+5615,asian fusion
+5616,american (new)
+5617,american (new)
+5618,asian fusion
+5619,mexican
+5620,asian fusion
+5621,japanese
+5622,asian fusion
+5623,asian fusion
+5624,american (new)
+5625,japanese
+5626,american (new)
+5627,american (traditional)
+5628,asian fusion
+5629,american (traditional)
+5630,asian fusion
+5631,mexican
+5632,chinese
+5633,japanese
+5634,american (new)
+5635,asian fusion
+5636,canadian (new)
+5637,asian fusion
+5638,asian fusion
+5639,mexican
+5640,asian fusion
+5641,american (traditional)
+5642,american (new)
+5643,asian fusion
+5644,asian fusion
+5645,american (new)
+5646,american (new)
+5647,asian fusion
+5648,japanese
+5649,asian fusion
+5650,asian fusion
+5651,asian fusion
+5652,mexican
+5653,asian fusion
+5654,asian fusion
+5655,chinese
+5656,mexican
+5657,canadian (new)
+5658,asian fusion
+5659,mexican
+5660,asian fusion
+5661,american (new)
+5662,american (new)
+5663,canadian (new)
+5664,american (traditional)
+5665,asian fusion
+5666,asian fusion
+5667,asian fusion
+5668,asian fusion
+5669,asian fusion
+5670,american (new)
+5671,asian fusion
+5672,asian fusion
+5673,asian fusion
+5674,asian fusion
+5675,japanese
+5676,asian fusion
+5677,asian fusion
+5678,chinese
+5679,mexican
+5680,american (traditional)
+5681,canadian (new)
+5682,canadian (new)
+5683,canadian (new)
+5684,asian fusion
+5685,canadian (new)
+5686,asian fusion
+5687,asian fusion
+5688,american (new)
+5689,american (new)
+5690,asian fusion
+5691,canadian (new)
+5692,american (new)
+5693,asian fusion
+5694,asian fusion
+5695,asian fusion
+5696,american (new)
+5697,asian fusion
+5698,mediterranean
+5699,canadian (new)
+5700,asian fusion
+5701,american (traditional)
+5702,american (traditional)
+5703,american (new)
+5704,asian fusion
+5705,mediterranean
+5706,asian fusion
+5707,mexican
+5708,asian fusion
+5709,asian fusion
+5710,asian fusion
+5711,american (traditional)
+5712,asian fusion
+5713,american (traditional)
+5714,asian fusion
+5715,asian fusion
+5716,asian fusion
+5717,asian fusion
+5718,asian fusion
+5719,canadian (new)
+5720,mexican
+5721,canadian (new)
+5722,american (new)
+5723,american (new)
+5724,american (new)
+5725,mexican
+5726,italian
+5727,asian fusion
+5728,asian fusion
+5729,american (new)
+5730,asian fusion
+5731,canadian (new)
+5732,asian fusion
+5733,asian fusion
+5734,canadian (new)
+5735,mexican
+5736,asian fusion
+5737,asian fusion
+5738,canadian (new)
+5739,asian fusion
+5740,asian fusion
+5741,canadian (new)
+5742,canadian (new)
+5743,canadian (new)
+5744,japanese
+5745,canadian (new)
+5746,american (traditional)
+5747,thai
+5748,asian fusion
+5749,mexican
+5750,asian fusion
+5751,asian fusion
+5752,asian fusion
+5753,japanese
+5754,asian fusion
+5755,asian fusion
+5756,american (new)
+5757,canadian (new)
+5758,american (new)
+5759,american (traditional)
+5760,canadian (new)
+5761,american (new)
+5762,mexican
+5763,american (traditional)
+5764,canadian (new)
+5765,american (new)
+5766,mexican
+5767,american (new)
+5768,american (new)
+5769,asian fusion
+5770,canadian (new)
+5771,mexican
+5772,american (traditional)
+5773,american (new)
+5774,asian fusion
+5775,american (traditional)
+5776,american (new)
+5777,american (traditional)
+5778,asian fusion
+5779,asian fusion
+5780,canadian (new)
+5781,american (new)
+5782,mexican
+5783,american (new)
+5784,mexican
+5785,american (traditional)
+5786,canadian (new)
+5787,mexican
+5788,mediterranean
+5789,asian fusion
+5790,american (new)
+5791,asian fusion
+5792,asian fusion
+5793,japanese
+5794,asian fusion
+5795,american (new)
+5796,american (new)
+5797,american (new)
+5798,asian fusion
+5799,asian fusion
+5800,japanese
+5801,american (new)
+5802,asian fusion
+5803,american (traditional)
+5804,japanese
+5805,american (new)
+5806,mexican
+5807,canadian (new)
+5808,italian
+5809,japanese
+5810,asian fusion
+5811,asian fusion
+5812,mexican
+5813,canadian (new)
+5814,asian fusion
+5815,asian fusion
+5816,asian fusion
+5817,american (new)
+5818,american (new)
+5819,asian fusion
+5820,mexican
+5821,asian fusion
+5822,asian fusion
+5823,canadian (new)
+5824,mexican
+5825,american (new)
+5826,canadian (new)
+5827,american (new)
+5828,asian fusion
+5829,mediterranean
+5830,japanese
+5831,asian fusion
+5832,asian fusion
+5833,asian fusion
+5834,american (new)
+5835,mexican
+5836,american (traditional)
+5837,american (new)
+5838,asian fusion
+5839,asian fusion
+5840,american (traditional)
+5841,american (traditional)
+5842,american (traditional)
+5843,chinese
+5844,asian fusion
+5845,italian
+5846,american (new)
+5847,japanese
+5848,american (traditional)
+5849,chinese
+5850,american (new)
+5851,asian fusion
+5852,mexican
+5853,mexican
+5854,mexican
+5855,american (traditional)
+5856,canadian (new)
+5857,asian fusion
+5858,american (new)
+5859,asian fusion
+5860,american (new)
+5861,canadian (new)
+5862,thai
+5863,american (new)
+5864,american (new)
+5865,asian fusion
+5866,canadian (new)
+5867,asian fusion
+5868,american (new)
+5869,canadian (new)
+5870,american (new)
+5871,asian fusion
+5872,american (new)
+5873,american (new)
+5874,mediterranean
+5875,canadian (new)
+5876,american (traditional)
+5877,asian fusion
+5878,japanese
+5879,asian fusion
+5880,american (traditional)
+5881,american (new)
+5882,asian fusion
+5883,asian fusion
+5884,mexican
+5885,mexican
+5886,asian fusion
+5887,asian fusion
+5888,mexican
+5889,asian fusion
+5890,american (traditional)
+5891,asian fusion
+5892,canadian (new)
+5893,american (new)
+5894,asian fusion
+5895,mexican
+5896,italian
+5897,japanese
+5898,american (traditional)
+5899,mexican
+5900,chinese
+5901,american (new)
+5902,canadian (new)
+5903,american (new)
+5904,american (traditional)
+5905,american (new)
+5906,chinese
+5907,canadian (new)
+5908,american (new)
+5909,american (traditional)
+5910,asian fusion
+5911,mexican
+5912,asian fusion
+5913,asian fusion
+5914,mexican
+5915,american (new)
+5916,mexican
+5917,asian fusion
+5918,asian fusion
+5919,canadian (new)
+5920,american (new)
+5921,asian fusion
+5922,asian fusion
+5923,chinese
+5924,asian fusion
+5925,asian fusion
+5926,american (new)
+5927,canadian (new)
+5928,asian fusion
+5929,american (new)
+5930,asian fusion
+5931,american (new)
+5932,asian fusion
+5933,canadian (new)
+5934,mexican
+5935,asian fusion
+5936,asian fusion
+5937,chinese
+5938,chinese
+5939,mexican
+5940,canadian (new)
+5941,american (new)
+5942,mediterranean
+5943,mexican
+5944,asian fusion
+5945,asian fusion
+5946,asian fusion
+5947,mexican
+5948,asian fusion
+5949,asian fusion
+5950,asian fusion
+5951,mexican
+5952,american (new)
+5953,american (traditional)
+5954,mexican
+5955,american (new)
+5956,canadian (new)
+5957,asian fusion
+5958,asian fusion
+5959,american (new)
+5960,asian fusion
+5961,american (new)
+5962,asian fusion
+5963,canadian (new)
+5964,american (new)
+5965,mexican
+5966,asian fusion
+5967,asian fusion
+5968,canadian (new)
+5969,american (new)
+5970,chinese
+5971,american (new)
+5972,asian fusion
+5973,japanese
+5974,asian fusion
+5975,mediterranean
+5976,asian fusion
+5977,asian fusion
+5978,chinese
+5979,asian fusion
+5980,asian fusion
+5981,american (new)
+5982,asian fusion
+5983,american (new)
+5984,canadian (new)
+5985,japanese
+5986,american (new)
+5987,asian fusion
+5988,asian fusion
+5989,asian fusion
+5990,american (new)
+5991,asian fusion
+5992,mediterranean
+5993,canadian (new)
+5994,american (new)
+5995,asian fusion
+5996,american (new)
+5997,asian fusion
+5998,asian fusion
+5999,american (new)
+6000,american (traditional)
+6001,american (new)
+6002,japanese
+6003,mexican
+6004,american (traditional)
+6005,mexican
+6006,mexican
+6007,american (new)
+6008,american (traditional)
+6009,canadian (new)
+6010,canadian (new)
+6011,mexican
+6012,american (traditional)
+6013,asian fusion
+6014,asian fusion
+6015,american (new)
+6016,mexican
+6017,mediterranean
+6018,japanese
+6019,american (new)
+6020,american (new)
+6021,asian fusion
+6022,american (new)
+6023,asian fusion
+6024,american (traditional)
+6025,mexican
+6026,canadian (new)
+6027,mexican
+6028,asian fusion
+6029,mexican
+6030,american (new)
+6031,japanese
+6032,american (traditional)
+6033,american (new)
+6034,asian fusion
+6035,asian fusion
+6036,american (new)
+6037,american (traditional)
+6038,american (traditional)
+6039,american (traditional)
+6040,mexican
+6041,mexican
+6042,american (traditional)
+6043,asian fusion
+6044,mexican
+6045,american (new)
+6046,asian fusion
+6047,chinese
+6048,asian fusion
+6049,american (traditional)
+6050,american (traditional)
+6051,asian fusion
+6052,canadian (new)
+6053,american (traditional)
+6054,american (traditional)
+6055,asian fusion
+6056,asian fusion
+6057,mexican
+6058,american (traditional)
+6059,mexican
+6060,asian fusion
+6061,japanese
+6062,asian fusion
+6063,asian fusion
+6064,american (new)
+6065,mexican
+6066,asian fusion
+6067,asian fusion
+6068,american (traditional)
+6069,canadian (new)
+6070,mexican
+6071,american (new)
+6072,asian fusion
+6073,american (new)
+6074,canadian (new)
+6075,canadian (new)
+6076,american (new)
+6077,canadian (new)
+6078,american (traditional)
+6079,japanese
+6080,mexican
+6081,asian fusion
+6082,italian
+6083,american (traditional)
+6084,mexican
+6085,asian fusion
+6086,mexican
+6087,american (new)
+6088,american (traditional)
+6089,asian fusion
+6090,american (new)
+6091,chinese
+6092,american (new)
+6093,american (traditional)
+6094,american (new)
+6095,asian fusion
+6096,american (new)
+6097,asian fusion
+6098,american (new)
+6099,american (new)
+6100,american (new)
+6101,mexican
+6102,american (new)
+6103,american (new)
+6104,asian fusion
+6105,asian fusion
+6106,asian fusion
+6107,chinese
+6108,mexican
+6109,asian fusion
+6110,american (new)
+6111,asian fusion
+6112,canadian (new)
+6113,canadian (new)
+6114,mexican
+6115,american (new)
+6116,american (traditional)
+6117,american (traditional)
+6118,asian fusion
+6119,canadian (new)
+6120,american (new)
+6121,mexican
+6122,american (traditional)
+6123,asian fusion
+6124,mexican
+6125,american (traditional)
+6126,american (traditional)
+6127,italian
+6128,chinese
+6129,asian fusion
+6130,canadian (new)
+6131,mexican
+6132,asian fusion
+6133,american (new)
+6134,canadian (new)
+6135,american (new)
+6136,canadian (new)
+6137,asian fusion
+6138,asian fusion
+6139,american (new)
+6140,canadian (new)
+6141,asian fusion
+6142,canadian (new)
+6143,asian fusion
+6144,asian fusion
+6145,asian fusion
+6146,mexican
+6147,american (new)
+6148,mexican
+6149,american (traditional)
+6150,american (traditional)
+6151,asian fusion
+6152,american (new)
+6153,asian fusion
+6154,asian fusion
+6155,american (traditional)
+6156,asian fusion
+6157,american (new)
+6158,asian fusion
+6159,chinese
+6160,asian fusion
+6161,american (new)
+6162,canadian (new)
+6163,american (new)
+6164,japanese
+6165,mexican
+6166,canadian (new)
+6167,asian fusion
+6168,mediterranean
+6169,mediterranean
+6170,canadian (new)
+6171,asian fusion
+6172,mexican
+6173,mexican
+6174,american (new)
+6175,american (new)
+6176,japanese
+6177,asian fusion
+6178,canadian (new)
+6179,asian fusion
+6180,american (new)
+6181,mexican
+6182,american (traditional)
+6183,american (new)
+6184,mexican
+6185,italian
+6186,canadian (new)
+6187,chinese
+6188,mexican
+6189,canadian (new)
+6190,thai
+6191,mexican
+6192,mexican
+6193,american (new)
+6194,american (traditional)
+6195,asian fusion
+6196,canadian (new)
+6197,mexican
+6198,asian fusion
+6199,thai
+6200,asian fusion
+6201,mexican
+6202,mexican
+6203,chinese
+6204,asian fusion
+6205,american (new)
+6206,asian fusion
+6207,asian fusion
+6208,american (new)
+6209,american (new)
+6210,asian fusion
+6211,american (traditional)
+6212,asian fusion
+6213,american (traditional)
+6214,american (new)
+6215,american (new)
+6216,mexican
+6217,asian fusion
+6218,mediterranean
+6219,canadian (new)
+6220,asian fusion
+6221,asian fusion
+6222,chinese
+6223,asian fusion
+6224,american (new)
+6225,american (new)
+6226,mexican
+6227,italian
+6228,asian fusion
+6229,mediterranean
+6230,asian fusion
+6231,american (traditional)
+6232,asian fusion
+6233,mediterranean
+6234,mexican
+6235,asian fusion
+6236,mexican
+6237,mexican
+6238,asian fusion
+6239,asian fusion
+6240,american (traditional)
+6241,canadian (new)
+6242,canadian (new)
+6243,asian fusion
+6244,asian fusion
+6245,american (new)
+6246,asian fusion
+6247,asian fusion
+6248,canadian (new)
+6249,canadian (new)
+6250,mexican
+6251,american (new)
+6252,mexican
+6253,asian fusion
+6254,american (new)
+6255,american (new)
+6256,asian fusion
+6257,chinese
+6258,asian fusion
+6259,asian fusion
+6260,asian fusion
+6261,chinese
+6262,american (new)
+6263,japanese
+6264,canadian (new)
+6265,asian fusion
+6266,american (new)
+6267,asian fusion
+6268,asian fusion
+6269,mediterranean
+6270,asian fusion
+6271,asian fusion
+6272,asian fusion
+6273,asian fusion
+6274,american (new)
+6275,mexican
+6276,asian fusion
+6277,mediterranean
+6278,asian fusion
+6279,asian fusion
+6280,american (traditional)
+6281,asian fusion
+6282,italian
+6283,italian
+6284,american (new)
+6285,canadian (new)
+6286,american (new)
+6287,american (traditional)
+6288,mexican
+6289,asian fusion
+6290,american (traditional)
+6291,american (traditional)
+6292,asian fusion
+6293,asian fusion
+6294,asian fusion
+6295,asian fusion
+6296,canadian (new)
+6297,asian fusion
+6298,asian fusion
+6299,asian fusion
+6300,american (traditional)
+6301,asian fusion
+6302,mexican
+6303,chinese
+6304,american (traditional)
+6305,american (traditional)
+6306,mexican
+6307,american (new)
+6308,asian fusion
+6309,asian fusion
+6310,mexican
+6311,mexican
+6312,american (new)
+6313,mexican
+6314,american (new)
+6315,american (traditional)
+6316,asian fusion
+6317,american (new)
+6318,canadian (new)
+6319,asian fusion
+6320,american (traditional)
+6321,american (new)
+6322,chinese
+6323,american (new)
+6324,american (new)
+6325,mexican
+6326,canadian (new)
+6327,asian fusion
+6328,asian fusion
+6329,canadian (new)
+6330,american (traditional)
+6331,mediterranean
+6332,american (new)
+6333,asian fusion
+6334,asian fusion
+6335,italian
+6336,asian fusion
+6337,american (traditional)
+6338,asian fusion
+6339,asian fusion
+6340,asian fusion
+6341,american (new)
+6342,canadian (new)
+6343,american (traditional)
+6344,canadian (new)
+6345,american (traditional)
+6346,chinese
+6347,asian fusion
+6348,asian fusion
+6349,mexican
+6350,mexican
+6351,asian fusion
+6352,asian fusion
+6353,asian fusion
+6354,mexican
+6355,asian fusion
+6356,american (new)
+6357,mexican
+6358,mexican
+6359,asian fusion
+6360,mexican
+6361,american (traditional)
+6362,canadian (new)
+6363,american (new)
+6364,asian fusion
+6365,american (new)
+6366,asian fusion
+6367,asian fusion
+6368,mexican
+6369,american (traditional)
+6370,asian fusion
+6371,american (new)
+6372,asian fusion
+6373,asian fusion
+6374,american (new)
+6375,american (new)
+6376,mexican
+6377,italian
+6378,asian fusion
+6379,mexican
+6380,asian fusion
+6381,american (traditional)
+6382,american (new)
+6383,asian fusion
+6384,american (new)
+6385,asian fusion
+6386,asian fusion
+6387,asian fusion
+6388,asian fusion
+6389,mexican
+6390,american (new)
+6391,canadian (new)
+6392,asian fusion
+6393,american (new)
+6394,canadian (new)
+6395,asian fusion
+6396,asian fusion
+6397,american (new)
+6398,mexican
+6399,american (new)
+6400,mexican
+6401,mediterranean
+6402,asian fusion
+6403,mexican
+6404,american (new)
+6405,american (traditional)
+6406,mexican
+6407,canadian (new)
+6408,canadian (new)
+6409,asian fusion
+6410,mexican
+6411,american (new)
+6412,canadian (new)
+6413,mexican
+6414,japanese
+6415,asian fusion
+6416,asian fusion
+6417,japanese
+6418,canadian (new)
+6419,american (new)
+6420,asian fusion
+6421,asian fusion
+6422,american (new)
+6423,asian fusion
+6424,asian fusion
+6425,american (new)
+6426,canadian (new)
+6427,canadian (new)
+6428,american (new)
+6429,mexican
+6430,asian fusion
+6431,canadian (new)
+6432,american (new)
+6433,asian fusion
+6434,japanese
+6435,american (new)
+6436,american (traditional)
+6437,mexican
+6438,mexican
+6439,american (new)
+6440,canadian (new)
+6441,asian fusion
+6442,asian fusion
+6443,mexican
+6444,canadian (new)
+6445,american (traditional)
+6446,asian fusion
+6447,american (new)
+6448,asian fusion
+6449,american (traditional)
+6450,japanese
+6451,asian fusion
+6452,mexican
+6453,mexican
+6454,american (new)
+6455,asian fusion
+6456,asian fusion
+6457,mexican
+6458,japanese
+6459,asian fusion
+6460,asian fusion
+6461,mexican
+6462,asian fusion
+6463,asian fusion
+6464,american (new)
+6465,japanese
+6466,canadian (new)
+6467,asian fusion
+6468,american (new)
+6469,asian fusion
+6470,japanese
+6471,asian fusion
+6472,canadian (new)
+6473,american (new)
+6474,asian fusion
+6475,italian
+6476,asian fusion
+6477,asian fusion
+6478,mexican
+6479,japanese
+6480,asian fusion
+6481,mexican
+6482,canadian (new)
+6483,asian fusion
+6484,asian fusion
+6485,asian fusion
+6486,canadian (new)
+6487,american (new)
+6488,american (new)
+6489,asian fusion
+6490,asian fusion
+6491,mexican
+6492,american (new)
+6493,asian fusion
+6494,chinese
+6495,american (new)
+6496,asian fusion
+6497,american (new)
+6498,asian fusion
+6499,mexican
+6500,american (traditional)
+6501,mexican
+6502,american (traditional)
+6503,asian fusion
+6504,japanese
+6505,canadian (new)
+6506,american (new)
+6507,italian
+6508,american (new)
+6509,japanese
+6510,asian fusion
+6511,american (new)
+6512,asian fusion
+6513,american (new)
+6514,asian fusion
+6515,asian fusion
+6516,american (traditional)
+6517,american (new)
+6518,asian fusion
+6519,asian fusion
+6520,american (traditional)
+6521,asian fusion
+6522,asian fusion
+6523,american (new)
+6524,mediterranean
+6525,american (new)
+6526,asian fusion
+6527,mediterranean
+6528,asian fusion
+6529,asian fusion
+6530,asian fusion
+6531,canadian (new)
+6532,american (new)
+6533,chinese
+6534,asian fusion
+6535,chinese
+6536,canadian (new)
+6537,canadian (new)
+6538,asian fusion
+6539,japanese
+6540,american (new)
+6541,american (traditional)
+6542,mexican
+6543,canadian (new)
+6544,italian
+6545,canadian (new)
+6546,asian fusion
+6547,asian fusion
+6548,mexican
+6549,american (new)
+6550,mexican
+6551,canadian (new)
+6552,american (new)
+6553,mexican
+6554,italian
+6555,asian fusion
+6556,american (traditional)
+6557,chinese
+6558,american (traditional)
+6559,mediterranean
+6560,asian fusion
+6561,american (new)
+6562,american (traditional)
+6563,asian fusion
+6564,american (new)
+6565,canadian (new)
+6566,american (new)
+6567,asian fusion
+6568,asian fusion
+6569,mexican
+6570,asian fusion
+6571,american (new)
+6572,mediterranean
+6573,asian fusion
+6574,asian fusion
+6575,american (new)
+6576,asian fusion
+6577,mexican
+6578,mexican
+6579,asian fusion
+6580,asian fusion
+6581,thai
+6582,asian fusion
+6583,asian fusion
+6584,mexican
+6585,mexican
+6586,american (traditional)
+6587,american (new)
+6588,canadian (new)
+6589,mexican
+6590,american (traditional)
+6591,asian fusion
+6592,american (new)
+6593,american (new)
+6594,american (new)
+6595,asian fusion
+6596,asian fusion
+6597,american (new)
+6598,canadian (new)
+6599,american (traditional)
+6600,italian
+6601,mexican
+6602,asian fusion
+6603,chinese
+6604,canadian (new)
+6605,american (traditional)
+6606,canadian (new)
+6607,mediterranean
+6608,asian fusion
+6609,asian fusion
+6610,asian fusion
+6611,asian fusion
+6612,asian fusion
+6613,american (new)
+6614,american (new)
+6615,mexican
+6616,american (new)
+6617,mexican
+6618,american (new)
+6619,canadian (new)
+6620,asian fusion
+6621,american (traditional)
+6622,asian fusion
+6623,mediterranean
+6624,american (new)
+6625,canadian (new)
+6626,asian fusion
+6627,mexican
+6628,american (new)
+6629,asian fusion
+6630,american (new)
+6631,american (new)
+6632,mexican
+6633,american (new)
+6634,canadian (new)
+6635,asian fusion
+6636,american (traditional)
+6637,asian fusion
+6638,chinese
+6639,canadian (new)
+6640,asian fusion
+6641,american (new)
+6642,american (new)
+6643,american (new)
+6644,american (traditional)
+6645,asian fusion
+6646,mexican
+6647,japanese
+6648,asian fusion
+6649,canadian (new)
+6650,mexican
+6651,japanese
+6652,canadian (new)
+6653,asian fusion
+6654,asian fusion
+6655,chinese
+6656,asian fusion
+6657,canadian (new)
+6658,american (traditional)
+6659,american (new)
+6660,asian fusion
+6661,mexican
+6662,asian fusion
+6663,asian fusion
+6664,american (new)
+6665,asian fusion
+6666,american (new)
+6667,asian fusion
+6668,american (traditional)
+6669,mexican
+6670,mexican
+6671,american (traditional)
+6672,mediterranean
+6673,asian fusion
+6674,asian fusion
+6675,asian fusion
+6676,american (traditional)
+6677,american (traditional)
+6678,asian fusion
+6679,mediterranean
+6680,asian fusion
+6681,asian fusion
+6682,american (traditional)
+6683,thai
+6684,american (new)
+6685,asian fusion
+6686,american (new)
+6687,canadian (new)
+6688,asian fusion
+6689,asian fusion
+6690,mexican
+6691,american (new)
+6692,asian fusion
+6693,canadian (new)
+6694,asian fusion
+6695,asian fusion
+6696,american (traditional)
+6697,italian
+6698,asian fusion
+6699,canadian (new)
+6700,japanese
+6701,american (traditional)
+6702,american (new)
+6703,american (new)
+6704,asian fusion
+6705,canadian (new)
+6706,italian
+6707,american (new)
+6708,asian fusion
+6709,canadian (new)
+6710,asian fusion
+6711,asian fusion
+6712,american (traditional)
+6713,american (new)
+6714,asian fusion
+6715,asian fusion
+6716,asian fusion
+6717,italian
+6718,american (traditional)
+6719,asian fusion
+6720,american (new)
+6721,mexican
+6722,american (new)
+6723,japanese
+6724,american (traditional)
+6725,asian fusion
+6726,canadian (new)
+6727,asian fusion
+6728,mediterranean
+6729,asian fusion
+6730,mexican
+6731,thai
+6732,asian fusion
+6733,thai
+6734,canadian (new)
+6735,american (new)
+6736,american (new)
+6737,canadian (new)
+6738,american (new)
+6739,mexican
+6740,japanese
+6741,canadian (new)
+6742,italian
+6743,mexican
+6744,american (new)
+6745,asian fusion
+6746,american (traditional)
+6747,american (new)
+6748,american (new)
+6749,canadian (new)
+6750,italian
+6751,american (traditional)
+6752,canadian (new)
+6753,american (new)
+6754,american (traditional)
+6755,asian fusion
+6756,american (new)
+6757,japanese
+6758,asian fusion
+6759,mexican
+6760,asian fusion
+6761,american (new)
+6762,chinese
+6763,american (new)
+6764,asian fusion
+6765,mediterranean
+6766,mexican
+6767,mexican
+6768,mexican
+6769,asian fusion
+6770,american (new)
+6771,american (traditional)
+6772,canadian (new)
+6773,asian fusion
+6774,mexican
+6775,asian fusion
+6776,mexican
+6777,asian fusion
+6778,american (new)
+6779,american (new)
+6780,american (traditional)
+6781,american (new)
+6782,japanese
+6783,mexican
+6784,mexican
+6785,mexican
+6786,asian fusion
+6787,mexican
+6788,american (traditional)
+6789,american (traditional)
+6790,asian fusion
+6791,american (traditional)
+6792,american (traditional)
+6793,asian fusion
+6794,asian fusion
+6795,american (new)
+6796,japanese
+6797,mexican
+6798,asian fusion
+6799,american (new)
+6800,japanese
+6801,american (new)
+6802,japanese
+6803,asian fusion
+6804,american (traditional)
+6805,asian fusion
+6806,asian fusion
+6807,mexican
+6808,asian fusion
+6809,american (traditional)
+6810,asian fusion
+6811,american (new)
+6812,asian fusion
+6813,american (new)
+6814,american (new)
+6815,mexican
+6816,asian fusion
+6817,asian fusion
+6818,american (new)
+6819,american (new)
+6820,canadian (new)
+6821,asian fusion
+6822,asian fusion
+6823,american (new)
+6824,american (traditional)
+6825,japanese
+6826,asian fusion
+6827,canadian (new)
+6828,asian fusion
+6829,canadian (new)
+6830,american (traditional)
+6831,canadian (new)
+6832,american (traditional)
+6833,japanese
+6834,mexican
+6835,american (new)
+6836,american (new)
+6837,american (traditional)
+6838,asian fusion
+6839,american (new)
+6840,mexican
+6841,japanese
+6842,asian fusion
+6843,american (new)
+6844,mexican
+6845,asian fusion
+6846,american (new)
+6847,mexican
+6848,american (new)
+6849,asian fusion
+6850,italian
+6851,american (new)
+6852,canadian (new)
+6853,mexican
+6854,asian fusion
+6855,american (new)
+6856,mexican
+6857,mexican
+6858,mexican
+6859,asian fusion
+6860,american (new)
+6861,asian fusion
+6862,mexican
+6863,italian
+6864,asian fusion
+6865,asian fusion
+6866,asian fusion
+6867,asian fusion
+6868,canadian (new)
+6869,american (traditional)
+6870,mexican
+6871,american (traditional)
+6872,asian fusion
+6873,asian fusion
+6874,asian fusion
+6875,asian fusion
+6876,asian fusion
+6877,asian fusion
+6878,american (new)
+6879,american (new)
+6880,asian fusion
+6881,asian fusion
+6882,american (new)
+6883,american (new)
+6884,american (new)
+6885,american (new)
+6886,american (traditional)
+6887,american (new)
+6888,mexican
+6889,american (new)
+6890,american (new)
+6891,american (new)
+6892,mexican
+6893,japanese
+6894,mexican
+6895,asian fusion
+6896,chinese
+6897,american (new)
+6898,asian fusion
+6899,asian fusion
+6900,canadian (new)
+6901,asian fusion
+6902,canadian (new)
+6903,american (new)
+6904,asian fusion
+6905,asian fusion
+6906,asian fusion
+6907,mexican
+6908,american (new)
+6909,american (traditional)
+6910,american (new)
+6911,asian fusion
+6912,american (traditional)
+6913,mediterranean
+6914,asian fusion
+6915,chinese
+6916,asian fusion
+6917,asian fusion
+6918,asian fusion
+6919,asian fusion
+6920,asian fusion
+6921,mexican
+6922,thai
+6923,asian fusion
+6924,asian fusion
+6925,american (new)
+6926,american (new)
+6927,american (new)
+6928,asian fusion
+6929,mexican
+6930,mexican
+6931,american (new)
+6932,asian fusion
+6933,american (traditional)
+6934,japanese
+6935,asian fusion
+6936,mexican
+6937,american (traditional)
+6938,american (new)
+6939,asian fusion
+6940,japanese
+6941,asian fusion
+6942,asian fusion
+6943,american (new)
+6944,asian fusion
+6945,american (traditional)
+6946,asian fusion
+6947,canadian (new)
+6948,american (new)
+6949,asian fusion
+6950,asian fusion
+6951,mexican
+6952,american (new)
+6953,asian fusion
+6954,asian fusion
+6955,asian fusion
+6956,asian fusion
+6957,american (new)
+6958,italian
+6959,american (new)
+6960,asian fusion
+6961,asian fusion
+6962,american (new)
+6963,american (new)
+6964,asian fusion
+6965,canadian (new)
+6966,asian fusion
+6967,asian fusion
+6968,american (new)
+6969,mexican
+6970,mexican
+6971,asian fusion
+6972,american (traditional)
+6973,american (new)
+6974,asian fusion
+6975,italian
+6976,canadian (new)
+6977,asian fusion
+6978,asian fusion
+6979,asian fusion
+6980,mexican
+6981,asian fusion
+6982,mexican
+6983,asian fusion
+6984,asian fusion
+6985,asian fusion
+6986,asian fusion
+6987,mexican
+6988,asian fusion
+6989,american (traditional)
+6990,asian fusion
+6991,american (traditional)
+6992,asian fusion
+6993,asian fusion
+6994,asian fusion
+6995,mexican
+6996,mexican
+6997,american (new)
+6998,asian fusion
+6999,american (new)
+7000,asian fusion
+7001,mexican
+7002,canadian (new)
+7003,american (new)
+7004,italian
+7005,mexican
+7006,mexican
+7007,american (new)
+7008,mexican
+7009,asian fusion
+7010,american (new)
+7011,asian fusion
+7012,japanese
+7013,american (new)
+7014,american (new)
+7015,american (new)
+7016,asian fusion
+7017,canadian (new)
+7018,american (traditional)
+7019,mexican
+7020,asian fusion
+7021,asian fusion
+7022,asian fusion
+7023,asian fusion
+7024,american (new)
+7025,american (traditional)
+7026,mexican
+7027,chinese
+7028,canadian (new)
+7029,asian fusion
+7030,chinese
+7031,american (new)
+7032,mexican
+7033,asian fusion
+7034,canadian (new)
+7035,asian fusion
+7036,american (traditional)
+7037,italian
+7038,canadian (new)
+7039,american (new)
+7040,mexican
+7041,american (new)
+7042,mexican
+7043,mediterranean
+7044,asian fusion
+7045,mexican
+7046,american (new)
+7047,asian fusion
+7048,asian fusion
+7049,italian
+7050,mexican
+7051,asian fusion
+7052,mexican
+7053,asian fusion
+7054,japanese
+7055,american (new)
+7056,american (traditional)
+7057,japanese
+7058,american (new)
+7059,american (traditional)
+7060,mexican
+7061,canadian (new)
+7062,asian fusion
+7063,mexican
+7064,asian fusion
+7065,canadian (new)
+7066,american (traditional)
+7067,american (new)
+7068,asian fusion
+7069,asian fusion
+7070,asian fusion
+7071,american (traditional)
+7072,asian fusion
+7073,canadian (new)
+7074,asian fusion
+7075,asian fusion
+7076,american (new)
+7077,mexican
+7078,asian fusion
+7079,american (new)
+7080,canadian (new)
+7081,italian
+7082,american (new)
+7083,asian fusion
+7084,chinese
+7085,asian fusion
+7086,italian
+7087,mexican
+7088,american (new)
+7089,american (traditional)
+7090,mexican
+7091,asian fusion
+7092,american (new)
+7093,american (new)
+7094,asian fusion
+7095,japanese
+7096,canadian (new)
+7097,asian fusion
+7098,mexican
+7099,asian fusion
+7100,canadian (new)
+7101,asian fusion
+7102,american (new)
+7103,american (new)
+7104,american (new)
+7105,asian fusion
+7106,asian fusion
+7107,asian fusion
+7108,asian fusion
+7109,american (new)
+7110,american (traditional)
+7111,american (traditional)
+7112,american (new)
+7113,asian fusion
+7114,american (new)
+7115,asian fusion
+7116,mexican
+7117,asian fusion
+7118,american (new)
+7119,american (new)
+7120,asian fusion
+7121,mexican
+7122,italian
+7123,mexican
+7124,asian fusion
+7125,canadian (new)
+7126,american (new)
+7127,asian fusion
+7128,american (traditional)
+7129,asian fusion
+7130,asian fusion
+7131,chinese
+7132,asian fusion
+7133,mediterranean
+7134,asian fusion
+7135,asian fusion
+7136,american (new)
+7137,asian fusion
+7138,italian
+7139,canadian (new)
+7140,american (new)
+7141,asian fusion
+7142,japanese
+7143,american (new)
+7144,canadian (new)
+7145,canadian (new)
+7146,american (new)
+7147,canadian (new)
+7148,asian fusion
+7149,american (new)
+7150,mexican
+7151,american (new)
+7152,japanese
+7153,mexican
+7154,asian fusion
+7155,mediterranean
+7156,american (new)
+7157,mexican
+7158,asian fusion
+7159,asian fusion
+7160,asian fusion
+7161,american (new)
+7162,american (new)
+7163,canadian (new)
+7164,american (new)
+7165,canadian (new)
+7166,italian
+7167,asian fusion
+7168,american (traditional)
+7169,canadian (new)
+7170,canadian (new)
+7171,american (traditional)
+7172,asian fusion
+7173,american (new)
+7174,asian fusion
+7175,thai
+7176,american (new)
+7177,japanese
+7178,canadian (new)
+7179,japanese
+7180,asian fusion
+7181,mexican
+7182,mexican
+7183,asian fusion
+7184,american (traditional)
+7185,asian fusion
+7186,american (new)
+7187,chinese
+7188,american (new)
+7189,american (traditional)
+7190,japanese
+7191,american (traditional)
+7192,mexican
+7193,american (new)
+7194,mexican
+7195,chinese
+7196,american (new)
+7197,mexican
+7198,asian fusion
+7199,american (new)
+7200,american (traditional)
+7201,asian fusion
+7202,asian fusion
+7203,asian fusion
+7204,american (new)
+7205,asian fusion
+7206,asian fusion
+7207,asian fusion
+7208,mexican
+7209,asian fusion
+7210,american (new)
+7211,asian fusion
+7212,mexican
+7213,mexican
+7214,asian fusion
+7215,mexican
+7216,asian fusion
+7217,asian fusion
+7218,chinese
+7219,mexican
+7220,asian fusion
+7221,american (new)
+7222,canadian (new)
+7223,canadian (new)
+7224,asian fusion
+7225,asian fusion
+7226,mexican
+7227,mexican
+7228,mexican
+7229,asian fusion
+7230,canadian (new)
+7231,canadian (new)
+7232,mexican
+7233,japanese
+7234,asian fusion
+7235,asian fusion
+7236,american (new)
+7237,american (traditional)
+7238,asian fusion
+7239,chinese
+7240,asian fusion
+7241,american (traditional)
+7242,american (new)
+7243,american (new)
+7244,asian fusion
+7245,asian fusion
+7246,canadian (new)
+7247,american (traditional)
+7248,american (traditional)
+7249,mexican
+7250,american (new)
+7251,japanese
+7252,asian fusion
+7253,asian fusion
+7254,japanese
+7255,chinese
+7256,mexican
+7257,asian fusion
+7258,american (traditional)
+7259,mexican
+7260,asian fusion
+7261,asian fusion
+7262,asian fusion
+7263,asian fusion
+7264,asian fusion
+7265,chinese
+7266,mexican
+7267,american (new)
+7268,american (new)
+7269,american (new)
+7270,american (new)
+7271,american (new)
+7272,asian fusion
+7273,canadian (new)
+7274,asian fusion
+7275,asian fusion
+7276,asian fusion
+7277,mexican
+7278,mediterranean
+7279,american (new)
+7280,asian fusion
+7281,american (new)
+7282,canadian (new)
+7283,chinese
+7284,asian fusion
+7285,american (new)
+7286,american (new)
+7287,mexican
+7288,asian fusion
+7289,american (traditional)
+7290,american (traditional)
+7291,mexican
+7292,american (traditional)
+7293,asian fusion
+7294,asian fusion
+7295,asian fusion
+7296,american (new)
+7297,american (new)
+7298,mexican
+7299,canadian (new)
+7300,american (new)
+7301,mexican
+7302,asian fusion
+7303,american (new)
+7304,american (new)
+7305,asian fusion
+7306,american (new)
+7307,mexican
+7308,mexican
+7309,canadian (new)
+7310,canadian (new)
+7311,canadian (new)
+7312,asian fusion
+7313,american (new)
+7314,american (new)
+7315,mexican
+7316,italian
+7317,canadian (new)
+7318,canadian (new)
+7319,asian fusion
+7320,japanese
+7321,italian
+7322,asian fusion
+7323,mexican
+7324,canadian (new)
+7325,american (new)
+7326,mexican
+7327,asian fusion
+7328,chinese
+7329,asian fusion
+7330,asian fusion
+7331,american (new)
+7332,mexican
+7333,mexican
+7334,american (traditional)
+7335,american (new)
+7336,asian fusion
+7337,american (new)
+7338,mediterranean
+7339,american (new)
+7340,american (new)
+7341,american (new)
+7342,canadian (new)
+7343,canadian (new)
+7344,canadian (new)
+7345,canadian (new)
+7346,chinese
+7347,mexican
+7348,american (traditional)
+7349,american (traditional)
+7350,american (new)
+7351,mexican
+7352,american (new)
+7353,canadian (new)
+7354,mexican
+7355,mexican
+7356,american (traditional)
+7357,canadian (new)
+7358,asian fusion
+7359,mexican
+7360,asian fusion
+7361,american (traditional)
+7362,asian fusion
+7363,american (new)
+7364,italian
+7365,american (new)
+7366,asian fusion
+7367,asian fusion
+7368,mediterranean
+7369,american (new)
+7370,mexican
+7371,mexican
+7372,american (traditional)
+7373,asian fusion
+7374,asian fusion
+7375,italian
+7376,american (traditional)
+7377,mexican
+7378,mexican
+7379,american (new)
+7380,mexican
+7381,japanese
+7382,asian fusion
+7383,american (traditional)
+7384,mexican
+7385,asian fusion
+7386,american (new)
+7387,mexican
+7388,american (new)
+7389,american (new)
+7390,american (new)
+7391,italian
+7392,american (traditional)
+7393,mexican
+7394,chinese
+7395,asian fusion
+7396,mexican
+7397,asian fusion
+7398,asian fusion
+7399,american (traditional)
+7400,asian fusion
+7401,mexican
+7402,mediterranean
+7403,asian fusion
+7404,japanese
+7405,asian fusion
+7406,american (new)
+7407,japanese
+7408,american (new)
+7409,asian fusion
+7410,asian fusion
+7411,american (new)
+7412,mexican
+7413,mexican
+7414,american (traditional)
+7415,asian fusion
+7416,american (traditional)
+7417,canadian (new)
+7418,mexican
+7419,asian fusion
+7420,canadian (new)
+7421,mediterranean
+7422,american (traditional)
+7423,chinese
+7424,canadian (new)
+7425,mexican
+7426,american (traditional)
+7427,asian fusion
+7428,asian fusion
+7429,american (new)
+7430,asian fusion
+7431,mediterranean
+7432,mexican
+7433,american (traditional)
+7434,mediterranean
+7435,asian fusion
+7436,american (new)
+7437,mexican
+7438,asian fusion
+7439,mexican
+7440,american (new)
+7441,mediterranean
+7442,american (new)
+7443,asian fusion
+7444,mexican
+7445,american (new)
+7446,asian fusion
+7447,italian
+7448,italian
+7449,american (new)
+7450,american (traditional)
+7451,american (new)
+7452,asian fusion
+7453,asian fusion
+7454,asian fusion
+7455,mexican
+7456,asian fusion
+7457,asian fusion
+7458,american (traditional)
+7459,asian fusion
+7460,asian fusion
+7461,asian fusion
+7462,mexican
+7463,asian fusion
+7464,american (traditional)
+7465,mexican
+7466,asian fusion
+7467,american (new)
+7468,asian fusion
+7469,mediterranean
+7470,american (traditional)
+7471,canadian (new)
+7472,mexican
+7473,mexican
+7474,canadian (new)
+7475,canadian (new)
+7476,asian fusion
+7477,japanese
+7478,asian fusion
+7479,asian fusion
+7480,thai
+7481,american (new)
+7482,asian fusion
+7483,american (new)
+7484,american (new)
+7485,canadian (new)
+7486,mediterranean
+7487,canadian (new)
+7488,canadian (new)
+7489,canadian (new)
+7490,asian fusion
+7491,asian fusion
+7492,american (new)
+7493,asian fusion
+7494,mexican
+7495,american (traditional)
+7496,american (traditional)
+7497,american (new)
+7498,asian fusion
+7499,asian fusion
+7500,american (new)
+7501,mexican
+7502,japanese
+7503,asian fusion
+7504,asian fusion
+7505,chinese
+7506,asian fusion
+7507,asian fusion
+7508,american (new)
+7509,asian fusion
+7510,asian fusion
+7511,asian fusion
+7512,asian fusion
+7513,asian fusion
+7514,asian fusion
+7515,american (new)
+7516,american (traditional)
+7517,asian fusion
+7518,american (new)
+7519,asian fusion
+7520,italian
+7521,mexican
+7522,asian fusion
+7523,mexican
+7524,japanese
+7525,american (traditional)
+7526,mexican
+7527,asian fusion
+7528,american (new)
+7529,asian fusion
+7530,american (new)
+7531,american (new)
+7532,mexican
+7533,mediterranean
+7534,mediterranean
+7535,mexican
+7536,asian fusion
+7537,mexican
+7538,asian fusion
+7539,american (new)
+7540,mediterranean
+7541,mexican
+7542,american (new)
+7543,mexican
+7544,asian fusion
+7545,mexican
+7546,american (new)
+7547,mexican
+7548,canadian (new)
+7549,canadian (new)
+7550,mexican
+7551,american (new)
+7552,american (traditional)
+7553,asian fusion
+7554,asian fusion
+7555,american (new)
+7556,asian fusion
+7557,asian fusion
+7558,american (new)
+7559,mexican
+7560,canadian (new)
+7561,mexican
+7562,american (new)
+7563,asian fusion
+7564,asian fusion
+7565,asian fusion
+7566,american (new)
+7567,american (traditional)
+7568,american (new)
+7569,asian fusion
+7570,american (traditional)
+7571,asian fusion
+7572,thai
+7573,asian fusion
+7574,italian
+7575,mediterranean
+7576,asian fusion
+7577,american (new)
+7578,american (traditional)
+7579,asian fusion
+7580,asian fusion
+7581,italian
+7582,american (new)
+7583,mexican
+7584,american (traditional)
+7585,american (traditional)
+7586,asian fusion
+7587,american (new)
+7588,asian fusion
+7589,american (new)
+7590,american (new)
+7591,asian fusion
+7592,canadian (new)
+7593,canadian (new)
+7594,american (new)
+7595,asian fusion
+7596,american (traditional)
+7597,asian fusion
+7598,italian
+7599,american (new)
+7600,american (new)
+7601,mexican
+7602,mexican
+7603,american (new)
+7604,american (new)
+7605,american (new)
+7606,american (new)
+7607,asian fusion
+7608,mexican
+7609,american (new)
+7610,asian fusion
+7611,american (new)
+7612,mexican
+7613,asian fusion
+7614,mexican
+7615,mediterranean
+7616,american (new)
+7617,american (traditional)
+7618,american (new)
+7619,asian fusion
+7620,asian fusion
+7621,american (new)
+7622,asian fusion
+7623,american (new)
+7624,american (new)
+7625,mexican
+7626,asian fusion
+7627,asian fusion
+7628,american (traditional)
+7629,american (new)
+7630,asian fusion
+7631,asian fusion
+7632,asian fusion
+7633,asian fusion
+7634,asian fusion
+7635,american (traditional)
+7636,american (new)
+7637,american (traditional)
+7638,canadian (new)
+7639,american (new)
+7640,asian fusion
+7641,mexican
+7642,japanese
+7643,japanese
+7644,american (new)
+7645,canadian (new)
+7646,mexican
+7647,american (new)
+7648,asian fusion
+7649,asian fusion
+7650,canadian (new)
+7651,asian fusion
+7652,asian fusion
+7653,asian fusion
+7654,american (new)
+7655,american (new)
+7656,american (new)
+7657,japanese
+7658,asian fusion
+7659,asian fusion
+7660,asian fusion
+7661,asian fusion
+7662,canadian (new)
+7663,asian fusion
+7664,american (new)
+7665,mediterranean
+7666,american (traditional)
+7667,american (traditional)
+7668,asian fusion
+7669,asian fusion
+7670,american (new)
+7671,american (new)
+7672,asian fusion
+7673,mexican
+7674,asian fusion
+7675,japanese
+7676,asian fusion
+7677,mexican
+7678,asian fusion
+7679,mexican
+7680,asian fusion
+7681,asian fusion
+7682,american (new)
+7683,american (new)
+7684,american (traditional)
+7685,asian fusion
+7686,canadian (new)
+7687,asian fusion
+7688,asian fusion
+7689,asian fusion
+7690,asian fusion
+7691,canadian (new)
+7692,asian fusion
+7693,asian fusion
+7694,american (new)
+7695,american (new)
+7696,american (new)
+7697,asian fusion
+7698,american (new)
+7699,mexican
+7700,asian fusion
+7701,american (new)
+7702,american (new)
+7703,asian fusion
+7704,canadian (new)
+7705,mexican
+7706,canadian (new)
+7707,canadian (new)
+7708,american (traditional)
+7709,asian fusion
+7710,mexican
+7711,mexican
+7712,american (new)
+7713,mexican
+7714,mexican
+7715,canadian (new)
+7716,american (traditional)
+7717,asian fusion
+7718,asian fusion
+7719,american (traditional)
+7720,chinese
+7721,american (traditional)
+7722,asian fusion
+7723,mexican
+7724,mexican
+7725,asian fusion
+7726,canadian (new)
+7727,mexican
+7728,asian fusion
+7729,japanese
+7730,american (new)
+7731,american (new)
+7732,asian fusion
+7733,asian fusion
+7734,mediterranean
+7735,canadian (new)
+7736,japanese
+7737,italian
+7738,mexican
+7739,mexican
+7740,asian fusion
+7741,chinese
+7742,canadian (new)
+7743,american (new)
+7744,asian fusion
+7745,chinese
+7746,mexican
+7747,asian fusion
+7748,american (new)
+7749,american (new)
+7750,american (new)
+7751,asian fusion
+7752,asian fusion
+7753,mexican
+7754,american (traditional)
+7755,canadian (new)
+7756,mexican
+7757,asian fusion
+7758,mediterranean
+7759,asian fusion
+7760,mexican
+7761,mexican
+7762,american (new)
+7763,mexican
+7764,asian fusion
+7765,american (new)
+7766,canadian (new)
+7767,thai
+7768,asian fusion
+7769,american (traditional)
+7770,american (traditional)
+7771,american (new)
+7772,asian fusion
+7773,asian fusion
+7774,asian fusion
+7775,chinese
+7776,asian fusion
+7777,asian fusion
+7778,canadian (new)
+7779,asian fusion
+7780,asian fusion
+7781,asian fusion
+7782,mexican
+7783,american (traditional)
+7784,asian fusion
+7785,asian fusion
+7786,canadian (new)
+7787,mexican
+7788,american (new)
+7789,american (new)
+7790,asian fusion
+7791,american (new)
+7792,canadian (new)
+7793,canadian (new)
+7794,thai
+7795,american (traditional)
+7796,mexican
+7797,canadian (new)
+7798,asian fusion
+7799,asian fusion
+7800,mexican
+7801,american (traditional)
+7802,mexican
+7803,asian fusion
+7804,asian fusion
+7805,asian fusion
+7806,mexican
+7807,mexican
+7808,mexican
+7809,mexican
+7810,asian fusion
+7811,mexican
+7812,asian fusion
+7813,american (new)
+7814,chinese
+7815,american (new)
+7816,american (new)
+7817,american (new)
+7818,american (new)
+7819,asian fusion
+7820,american (new)
+7821,asian fusion
+7822,american (traditional)
+7823,canadian (new)
+7824,american (new)
+7825,american (traditional)
+7826,canadian (new)
+7827,asian fusion
+7828,chinese
+7829,mexican
+7830,italian
+7831,japanese
+7832,canadian (new)
+7833,asian fusion
+7834,american (traditional)
+7835,american (traditional)
+7836,chinese
+7837,asian fusion
+7838,chinese
+7839,asian fusion
+7840,american (new)
+7841,canadian (new)
+7842,asian fusion
+7843,asian fusion
+7844,mexican
+7845,american (new)
+7846,american (new)
+7847,american (traditional)
+7848,canadian (new)
+7849,mexican
+7850,american (new)
+7851,american (new)
+7852,mexican
+7853,asian fusion
+7854,asian fusion
+7855,asian fusion
+7856,american (new)
+7857,asian fusion
+7858,canadian (new)
+7859,thai
+7860,canadian (new)
+7861,canadian (new)
+7862,canadian (new)
+7863,asian fusion
+7864,mexican
+7865,asian fusion
+7866,mexican
+7867,asian fusion
+7868,asian fusion
+7869,mediterranean
+7870,american (traditional)
+7871,asian fusion
+7872,japanese
+7873,american (traditional)
+7874,asian fusion
+7875,mexican
+7876,american (new)
+7877,american (new)
+7878,american (new)
+7879,asian fusion
+7880,asian fusion
+7881,asian fusion
+7882,american (new)
+7883,american (traditional)
+7884,american (new)
+7885,asian fusion
+7886,asian fusion
+7887,mexican
+7888,asian fusion
+7889,asian fusion
+7890,italian
+7891,asian fusion
+7892,mexican
+7893,canadian (new)
+7894,american (new)
+7895,asian fusion
+7896,american (new)
+7897,mexican
+7898,mediterranean
+7899,american (traditional)
+7900,asian fusion
+7901,american (traditional)
+7902,japanese
+7903,asian fusion
+7904,asian fusion
+7905,asian fusion
+7906,american (new)
+7907,mexican
+7908,mediterranean
+7909,asian fusion
+7910,asian fusion
+7911,mexican
+7912,asian fusion
+7913,mexican
+7914,asian fusion
+7915,american (new)
+7916,mexican
+7917,asian fusion
+7918,american (traditional)
+7919,asian fusion
+7920,american (traditional)
+7921,mexican
+7922,american (new)
+7923,american (new)
+7924,canadian (new)
+7925,japanese
+7926,japanese
+7927,mexican
+7928,american (new)
+7929,canadian (new)
+7930,american (new)
+7931,american (new)
+7932,asian fusion
+7933,asian fusion
+7934,asian fusion
+7935,asian fusion
+7936,canadian (new)
+7937,american (traditional)
+7938,asian fusion
+7939,american (traditional)
+7940,asian fusion
+7941,asian fusion
+7942,asian fusion
+7943,chinese
+7944,asian fusion
+7945,asian fusion
+7946,canadian (new)
+7947,american (traditional)
+7948,italian
+7949,asian fusion
+7950,asian fusion
+7951,asian fusion
+7952,american (new)
+7953,canadian (new)
+7954,american (new)
+7955,mediterranean
+7956,asian fusion
+7957,american (traditional)
+7958,american (new)
+7959,american (new)
+7960,mexican
+7961,mexican
+7962,american (new)
+7963,american (new)
+7964,american (new)
+7965,american (traditional)
+7966,chinese
+7967,american (traditional)
+7968,asian fusion
+7969,mexican
+7970,italian
+7971,asian fusion
+7972,asian fusion
+7973,american (new)
+7974,american (new)
+7975,asian fusion
+7976,american (new)
+7977,asian fusion
+7978,mexican
+7979,asian fusion
+7980,asian fusion
+7981,american (new)
+7982,asian fusion
+7983,mediterranean
+7984,asian fusion
+7985,american (new)
+7986,american (new)
+7987,asian fusion
+7988,american (traditional)
+7989,mexican
+7990,asian fusion
+7991,japanese
+7992,canadian (new)
+7993,american (new)
+7994,asian fusion
+7995,canadian (new)
+7996,american (traditional)
+7997,japanese
+7998,asian fusion
+7999,american (new)
+8000,mexican
+8001,asian fusion
+8002,mediterranean
+8003,american (traditional)
+8004,asian fusion
+8005,asian fusion
+8006,mediterranean
+8007,american (traditional)
+8008,american (new)
+8009,asian fusion
+8010,asian fusion
+8011,asian fusion
+8012,asian fusion
+8013,asian fusion
+8014,chinese
+8015,mexican
+8016,japanese
+8017,american (new)
+8018,italian
+8019,american (new)
+8020,asian fusion
+8021,mexican
+8022,asian fusion
+8023,asian fusion
+8024,asian fusion
+8025,asian fusion
+8026,asian fusion
+8027,mediterranean
+8028,american (new)
+8029,canadian (new)
+8030,asian fusion
+8031,american (new)
+8032,american (new)
+8033,asian fusion
+8034,asian fusion
+8035,mexican
+8036,mexican
+8037,asian fusion
+8038,asian fusion
+8039,american (new)
+8040,mexican
+8041,mexican
+8042,mexican
+8043,mexican
+8044,mexican
+8045,asian fusion
+8046,chinese
+8047,canadian (new)
+8048,asian fusion
+8049,asian fusion
+8050,american (new)
+8051,mexican
+8052,asian fusion
+8053,american (new)
+8054,asian fusion
+8055,american (new)
+8056,asian fusion
+8057,japanese
+8058,canadian (new)
+8059,asian fusion
+8060,american (new)
+8061,canadian (new)
+8062,asian fusion
+8063,american (new)
+8064,american (new)
+8065,american (new)
+8066,japanese
+8067,italian
+8068,asian fusion
+8069,chinese
+8070,mexican
+8071,american (new)
+8072,asian fusion
+8073,american (new)
+8074,asian fusion
+8075,asian fusion
+8076,asian fusion
+8077,japanese
+8078,american (new)
+8079,chinese
+8080,american (traditional)
+8081,canadian (new)
+8082,american (traditional)
+8083,asian fusion
+8084,asian fusion
+8085,american (new)
+8086,canadian (new)
+8087,american (traditional)
+8088,american (new)
+8089,american (new)
+8090,asian fusion
+8091,asian fusion
+8092,mexican
+8093,american (new)
+8094,mexican
+8095,italian
+8096,canadian (new)
+8097,mexican
+8098,asian fusion
+8099,american (traditional)
+8100,mexican
+8101,american (new)
+8102,american (new)
+8103,american (traditional)
+8104,mexican
+8105,american (traditional)
+8106,asian fusion
+8107,chinese
+8108,american (new)
+8109,asian fusion
+8110,asian fusion
+8111,mexican
+8112,italian
+8113,asian fusion
+8114,japanese
+8115,american (new)
+8116,italian
+8117,asian fusion
+8118,asian fusion
+8119,mediterranean
+8120,american (new)
+8121,mexican
+8122,thai
+8123,asian fusion
+8124,asian fusion
+8125,american (new)
+8126,asian fusion
+8127,asian fusion
+8128,asian fusion
+8129,canadian (new)
+8130,american (new)
+8131,mexican
+8132,american (new)
+8133,american (new)
+8134,mexican
+8135,asian fusion
+8136,mexican
+8137,mediterranean
+8138,asian fusion
+8139,mexican
+8140,asian fusion
+8141,canadian (new)
+8142,asian fusion
+8143,american (traditional)
+8144,thai
+8145,american (new)
+8146,asian fusion
+8147,japanese
+8148,asian fusion
+8149,japanese
+8150,american (new)
+8151,american (new)
+8152,american (traditional)
+8153,canadian (new)
+8154,asian fusion
+8155,american (new)
+8156,mexican
+8157,american (new)
+8158,mexican
+8159,american (traditional)
+8160,mediterranean
+8161,asian fusion
+8162,italian
+8163,mexican
+8164,mediterranean
+8165,canadian (new)
+8166,asian fusion
+8167,canadian (new)
+8168,asian fusion
+8169,asian fusion
+8170,chinese
+8171,american (new)
+8172,asian fusion
+8173,asian fusion
+8174,asian fusion
+8175,mexican
+8176,asian fusion
+8177,canadian (new)
+8178,asian fusion
+8179,asian fusion
+8180,american (new)
+8181,mexican
+8182,chinese
+8183,canadian (new)
+8184,asian fusion
+8185,asian fusion
+8186,asian fusion
+8187,canadian (new)
+8188,mexican
+8189,asian fusion
+8190,asian fusion
+8191,american (traditional)
+8192,mexican
+8193,american (new)
+8194,american (new)
+8195,chinese
+8196,japanese
+8197,american (traditional)
+8198,japanese
+8199,asian fusion
+8200,mexican
+8201,mediterranean
+8202,american (traditional)
+8203,american (new)
+8204,asian fusion
+8205,mexican
+8206,american (new)
+8207,asian fusion
+8208,american (new)
+8209,asian fusion
+8210,american (traditional)
+8211,asian fusion
+8212,american (new)
+8213,american (new)
+8214,asian fusion
+8215,american (new)
+8216,mediterranean
+8217,american (new)
+8218,italian
+8219,canadian (new)
+8220,mediterranean
+8221,mexican
+8222,mexican
+8223,american (new)
+8224,asian fusion
+8225,asian fusion
+8226,japanese
+8227,mexican
+8228,american (traditional)
+8229,asian fusion
+8230,asian fusion
+8231,mexican
+8232,asian fusion
+8233,mexican
+8234,canadian (new)
+8235,thai
+8236,american (traditional)
+8237,asian fusion
+8238,american (new)
+8239,asian fusion
+8240,asian fusion
+8241,american (new)
+8242,american (new)
+8243,mexican
+8244,american (traditional)
+8245,american (new)
+8246,asian fusion
+8247,american (traditional)
+8248,japanese
+8249,asian fusion
+8250,american (new)
+8251,japanese
+8252,american (traditional)
+8253,american (new)
+8254,american (new)
+8255,asian fusion
+8256,asian fusion
+8257,american (new)
+8258,american (new)
+8259,american (new)
+8260,asian fusion
+8261,mexican
+8262,asian fusion
+8263,asian fusion
+8264,asian fusion
+8265,american (traditional)
+8266,asian fusion
+8267,canadian (new)
+8268,canadian (new)
+8269,chinese
+8270,mexican
+8271,mexican
+8272,asian fusion
+8273,asian fusion
+8274,italian
+8275,asian fusion
+8276,mexican
+8277,canadian (new)
+8278,asian fusion
+8279,canadian (new)
+8280,japanese
+8281,american (new)
+8282,american (new)
+8283,american (new)
+8284,chinese
+8285,mexican
+8286,asian fusion
+8287,american (new)
+8288,american (new)
+8289,asian fusion
+8290,mexican
+8291,asian fusion
+8292,japanese
+8293,asian fusion
+8294,asian fusion
+8295,american (new)
+8296,japanese
+8297,mexican
+8298,asian fusion
+8299,asian fusion
+8300,american (new)
+8301,japanese
+8302,japanese
+8303,american (traditional)
+8304,asian fusion
+8305,american (new)
+8306,asian fusion
+8307,canadian (new)
+8308,asian fusion
+8309,american (traditional)
+8310,asian fusion
+8311,asian fusion
+8312,asian fusion
+8313,canadian (new)
+8314,american (new)
+8315,asian fusion
+8316,mexican
+8317,japanese
+8318,american (traditional)
+8319,mexican
+8320,mexican
+8321,mediterranean
+8322,asian fusion
+8323,american (traditional)
+8324,italian
+8325,asian fusion
+8326,mediterranean
+8327,american (traditional)
+8328,american (new)
+8329,american (new)
+8330,japanese
+8331,italian
+8332,american (new)
+8333,asian fusion
+8334,asian fusion
+8335,mexican
+8336,american (new)
+8337,asian fusion
+8338,mediterranean
+8339,canadian (new)
+8340,mediterranean
+8341,canadian (new)
+8342,asian fusion
+8343,asian fusion
+8344,asian fusion
+8345,american (new)
+8346,canadian (new)
+8347,asian fusion
+8348,asian fusion
+8349,american (new)
+8350,american (new)
+8351,american (traditional)
+8352,asian fusion
+8353,canadian (new)
+8354,american (new)
+8355,chinese
+8356,italian
+8357,canadian (new)
+8358,mexican
+8359,american (new)
+8360,asian fusion
+8361,canadian (new)
+8362,asian fusion
+8363,american (new)
+8364,american (traditional)
+8365,american (new)
+8366,american (new)
+8367,american (new)
+8368,canadian (new)
+8369,american (new)
+8370,asian fusion
+8371,canadian (new)
+8372,asian fusion
+8373,asian fusion
+8374,american (new)
+8375,asian fusion
+8376,italian
+8377,asian fusion
+8378,american (new)
+8379,chinese
+8380,asian fusion
+8381,asian fusion
+8382,asian fusion
+8383,asian fusion
+8384,american (new)
+8385,asian fusion
+8386,asian fusion
+8387,american (new)
+8388,mexican
+8389,canadian (new)
+8390,asian fusion
+8391,american (new)
+8392,japanese
+8393,asian fusion
+8394,canadian (new)
+8395,asian fusion
+8396,canadian (new)
+8397,asian fusion
+8398,american (new)
+8399,chinese
+8400,asian fusion
+8401,asian fusion
+8402,american (new)
+8403,american (new)
+8404,chinese
+8405,american (new)
+8406,american (new)
+8407,asian fusion
+8408,asian fusion
+8409,asian fusion
+8410,thai
+8411,asian fusion
+8412,canadian (new)
+8413,mexican
+8414,american (traditional)
+8415,asian fusion
+8416,mexican
+8417,asian fusion
+8418,japanese
+8419,asian fusion
+8420,american (new)
+8421,mediterranean
+8422,asian fusion
+8423,american (traditional)
+8424,asian fusion
+8425,mexican
+8426,mexican
+8427,asian fusion
+8428,american (new)
+8429,american (new)
+8430,japanese
+8431,chinese
+8432,asian fusion
+8433,asian fusion
+8434,asian fusion
+8435,mexican
+8436,mediterranean
+8437,mexican
+8438,american (new)
+8439,american (new)
+8440,asian fusion
+8441,asian fusion
+8442,asian fusion
+8443,american (traditional)
+8444,asian fusion
+8445,american (new)
+8446,american (traditional)
+8447,mexican
+8448,asian fusion
+8449,american (traditional)
+8450,american (traditional)
+8451,mexican
+8452,american (new)
+8453,asian fusion
+8454,mexican
+8455,american (new)
+8456,american (new)
+8457,mexican
+8458,american (new)
+8459,asian fusion
+8460,mexican
+8461,mediterranean
+8462,asian fusion
+8463,asian fusion
+8464,asian fusion
+8465,canadian (new)
+8466,asian fusion
+8467,canadian (new)
+8468,mexican
+8469,american (traditional)
+8470,japanese
+8471,american (new)
+8472,american (new)
+8473,asian fusion
+8474,american (new)
+8475,mexican
+8476,american (traditional)
+8477,american (traditional)
+8478,asian fusion
+8479,american (traditional)
+8480,american (new)
+8481,asian fusion
+8482,asian fusion
+8483,asian fusion
+8484,canadian (new)
+8485,mexican
+8486,american (new)
+8487,italian
+8488,american (new)
+8489,mexican
+8490,mexican
+8491,american (traditional)
+8492,asian fusion
+8493,mexican
+8494,american (new)
+8495,asian fusion
+8496,american (new)
+8497,american (traditional)
+8498,mexican
+8499,american (traditional)
+8500,chinese
+8501,american (traditional)
+8502,american (new)
+8503,american (traditional)
+8504,american (new)
+8505,american (new)
+8506,asian fusion
+8507,mexican
+8508,asian fusion
+8509,american (traditional)
+8510,american (new)
+8511,mexican
+8512,asian fusion
+8513,american (new)
+8514,american (traditional)
+8515,italian
+8516,mexican
+8517,asian fusion
+8518,mexican
+8519,american (traditional)
+8520,mediterranean
+8521,mexican
+8522,asian fusion
+8523,chinese
+8524,american (new)
+8525,mexican
+8526,american (traditional)
+8527,asian fusion
+8528,american (new)
+8529,italian
+8530,asian fusion
+8531,asian fusion
+8532,asian fusion
+8533,asian fusion
+8534,thai
+8535,canadian (new)
+8536,canadian (new)
+8537,asian fusion
+8538,canadian (new)
+8539,asian fusion
+8540,mexican
+8541,asian fusion
+8542,japanese
+8543,asian fusion
+8544,asian fusion
+8545,asian fusion
+8546,asian fusion
+8547,asian fusion
+8548,chinese
+8549,mexican
+8550,italian
+8551,american (traditional)
+8552,asian fusion
+8553,american (new)
+8554,mexican
+8555,asian fusion
+8556,thai
+8557,chinese
+8558,american (new)
+8559,american (new)
+8560,chinese
+8561,thai
+8562,asian fusion
+8563,american (new)
+8564,american (new)
+8565,american (new)
+8566,asian fusion
+8567,american (new)
+8568,asian fusion
+8569,mexican
+8570,asian fusion
+8571,asian fusion
+8572,asian fusion
+8573,american (traditional)
+8574,mexican
+8575,asian fusion
+8576,mediterranean
+8577,asian fusion
+8578,american (new)
+8579,american (new)
+8580,japanese
+8581,american (new)
+8582,american (new)
+8583,canadian (new)
+8584,american (new)
+8585,american (new)
+8586,american (traditional)
+8587,asian fusion
+8588,asian fusion
+8589,american (new)
+8590,american (new)
+8591,mexican
+8592,japanese
+8593,asian fusion
+8594,american (new)
+8595,american (new)
+8596,italian
+8597,canadian (new)
+8598,american (new)
+8599,asian fusion
+8600,american (new)
+8601,asian fusion
+8602,american (new)
+8603,asian fusion
+8604,asian fusion
+8605,asian fusion
+8606,american (traditional)
+8607,italian
+8608,american (new)
+8609,asian fusion
+8610,italian
+8611,american (new)
+8612,asian fusion
+8613,mexican
+8614,japanese
+8615,chinese
+8616,canadian (new)
+8617,american (new)
+8618,mexican
+8619,asian fusion
+8620,canadian (new)
+8621,canadian (new)
+8622,asian fusion
+8623,mexican
+8624,mexican
+8625,mexican
+8626,mexican
+8627,asian fusion
+8628,american (new)
+8629,asian fusion
+8630,american (new)
+8631,canadian (new)
+8632,mexican
+8633,asian fusion
+8634,asian fusion
+8635,asian fusion
+8636,american (traditional)
+8637,american (new)
+8638,chinese
+8639,american (new)
+8640,asian fusion
+8641,american (new)
+8642,asian fusion
+8643,japanese
+8644,american (new)
+8645,japanese
+8646,asian fusion
+8647,american (traditional)
+8648,mexican
+8649,asian fusion
+8650,mexican
+8651,canadian (new)
+8652,asian fusion
+8653,mexican
+8654,canadian (new)
+8655,mexican
+8656,mexican
+8657,american (new)
+8658,asian fusion
+8659,italian
+8660,japanese
+8661,mediterranean
+8662,american (new)
+8663,asian fusion
+8664,asian fusion
+8665,american (new)
+8666,american (new)
+8667,asian fusion
+8668,canadian (new)
+8669,asian fusion
+8670,asian fusion
+8671,american (new)
+8672,american (new)
+8673,canadian (new)
+8674,asian fusion
+8675,canadian (new)
+8676,canadian (new)
+8677,american (traditional)
+8678,japanese
+8679,asian fusion
+8680,american (new)
+8681,asian fusion
+8682,asian fusion
+8683,mediterranean
+8684,american (new)
+8685,american (traditional)
+8686,american (traditional)
+8687,mexican
+8688,mexican
+8689,mediterranean
+8690,asian fusion
+8691,american (traditional)
+8692,canadian (new)
+8693,american (new)
+8694,asian fusion
+8695,asian fusion
+8696,american (new)
+8697,asian fusion
+8698,canadian (new)
+8699,asian fusion
+8700,canadian (new)
+8701,mexican
+8702,asian fusion
+8703,italian
+8704,asian fusion
+8705,american (new)
+8706,asian fusion
+8707,asian fusion
+8708,american (new)
+8709,asian fusion
+8710,asian fusion
+8711,asian fusion
+8712,american (new)
+8713,american (new)
+8714,asian fusion
+8715,american (traditional)
+8716,american (traditional)
+8717,asian fusion
+8718,american (new)
+8719,american (new)
+8720,asian fusion
+8721,asian fusion
+8722,asian fusion
+8723,mexican
+8724,american (new)
+8725,asian fusion
+8726,mexican
+8727,asian fusion
+8728,mexican
+8729,asian fusion
+8730,asian fusion
+8731,italian
+8732,asian fusion
+8733,canadian (new)
+8734,chinese
+8735,asian fusion
+8736,american (traditional)
+8737,asian fusion
+8738,asian fusion
+8739,japanese
+8740,american (new)
+8741,canadian (new)
+8742,mexican
+8743,mexican
+8744,american (traditional)
+8745,asian fusion
+8746,mexican
+8747,asian fusion
+8748,mexican
+8749,asian fusion
+8750,american (new)
+8751,asian fusion
+8752,asian fusion
+8753,asian fusion
+8754,american (new)
+8755,mexican
+8756,mexican
+8757,asian fusion
+8758,mexican
+8759,american (new)
+8760,thai
+8761,mediterranean
+8762,mexican
+8763,asian fusion
+8764,canadian (new)
+8765,asian fusion
+8766,asian fusion
+8767,asian fusion
+8768,canadian (new)
+8769,canadian (new)
+8770,mediterranean
+8771,american (new)
+8772,american (new)
+8773,mexican
+8774,mexican
+8775,asian fusion
+8776,american (new)
+8777,american (new)
+8778,american (new)
+8779,japanese
+8780,american (new)
+8781,mexican
+8782,mexican
+8783,asian fusion
+8784,canadian (new)
+8785,asian fusion
+8786,asian fusion
+8787,italian
+8788,mexican
+8789,american (traditional)
+8790,mexican
+8791,mexican
+8792,mexican
+8793,mediterranean
+8794,japanese
+8795,american (traditional)
+8796,canadian (new)
+8797,american (new)
+8798,mexican
+8799,japanese
+8800,asian fusion
+8801,asian fusion
+8802,american (new)
+8803,mexican
+8804,asian fusion
+8805,asian fusion
+8806,chinese
+8807,asian fusion
+8808,asian fusion
+8809,american (new)
+8810,american (new)
+8811,italian
+8812,asian fusion
+8813,mexican
+8814,american (new)
+8815,mexican
+8816,american (traditional)
+8817,american (new)
+8818,american (traditional)
+8819,american (new)
+8820,american (traditional)
+8821,asian fusion
+8822,american (new)
+8823,japanese
+8824,asian fusion
+8825,mediterranean
+8826,japanese
+8827,chinese
+8828,asian fusion
+8829,american (traditional)
+8830,mediterranean
+8831,italian
+8832,chinese
+8833,american (new)
+8834,asian fusion
+8835,american (new)
+8836,canadian (new)
+8837,canadian (new)
+8838,american (new)
+8839,asian fusion
+8840,asian fusion
+8841,asian fusion
+8842,american (traditional)
+8843,asian fusion
+8844,mexican
+8845,asian fusion
+8846,asian fusion
+8847,asian fusion
+8848,japanese
+8849,asian fusion
+8850,american (new)
+8851,asian fusion
+8852,canadian (new)
+8853,mexican
+8854,american (new)
+8855,american (traditional)
+8856,mexican
+8857,asian fusion
+8858,asian fusion
+8859,asian fusion
+8860,american (new)
+8861,american (new)
+8862,mexican
+8863,asian fusion
+8864,canadian (new)
+8865,asian fusion
+8866,asian fusion
+8867,chinese
+8868,mediterranean
+8869,american (new)
+8870,asian fusion
+8871,mexican
+8872,american (traditional)
+8873,asian fusion
+8874,canadian (new)
+8875,american (new)
+8876,american (new)
+8877,american (new)
+8878,american (new)
+8879,mexican
+8880,asian fusion
+8881,asian fusion
+8882,american (traditional)
+8883,american (traditional)
+8884,american (traditional)
+8885,american (new)
+8886,asian fusion
+8887,canadian (new)
+8888,mexican
+8889,asian fusion
+8890,asian fusion
+8891,canadian (new)
+8892,asian fusion
+8893,american (new)
+8894,canadian (new)
+8895,american (new)
+8896,italian
+8897,canadian (new)
+8898,canadian (new)
+8899,chinese
+8900,asian fusion
+8901,chinese
+8902,american (new)
+8903,american (new)
+8904,mediterranean
+8905,asian fusion
+8906,american (traditional)
+8907,american (new)
+8908,american (new)
+8909,thai
+8910,japanese
+8911,asian fusion
+8912,asian fusion
+8913,american (new)
+8914,mediterranean
+8915,american (new)
+8916,canadian (new)
+8917,asian fusion
+8918,american (new)
+8919,canadian (new)
+8920,mexican
+8921,canadian (new)
+8922,asian fusion
+8923,thai
+8924,canadian (new)
+8925,mexican
+8926,mexican
+8927,asian fusion
+8928,japanese
+8929,asian fusion
+8930,chinese
+8931,asian fusion
+8932,mexican
+8933,american (traditional)
+8934,mexican
+8935,american (traditional)
+8936,american (new)
+8937,asian fusion
+8938,american (traditional)
+8939,canadian (new)
+8940,mexican
+8941,mediterranean
+8942,american (new)
+8943,asian fusion
+8944,canadian (new)
+8945,american (new)
+8946,italian
+8947,mediterranean
+8948,asian fusion
+8949,mexican
+8950,asian fusion
+8951,asian fusion
+8952,asian fusion
+8953,asian fusion
+8954,asian fusion
+8955,asian fusion
+8956,canadian (new)
+8957,asian fusion
+8958,asian fusion
+8959,asian fusion
+8960,canadian (new)
+8961,canadian (new)
+8962,asian fusion
+8963,american (new)
+8964,italian
+8965,asian fusion
+8966,asian fusion
+8967,american (new)
+8968,american (new)
+8969,mexican
+8970,canadian (new)
+8971,asian fusion
+8972,thai
+8973,mexican
+8974,chinese
+8975,asian fusion
+8976,american (new)
+8977,asian fusion
+8978,american (new)
+8979,italian
+8980,asian fusion
+8981,american (traditional)
+8982,american (traditional)
+8983,american (new)
+8984,asian fusion
+8985,american (new)
+8986,asian fusion
+8987,mexican
+8988,american (new)
+8989,asian fusion
+8990,american (new)
+8991,mexican
+8992,american (new)
+8993,canadian (new)
+8994,mexican
+8995,mexican
+8996,asian fusion
+8997,japanese
+8998,japanese
+8999,asian fusion
+9000,american (traditional)
+9001,american (traditional)
+9002,american (traditional)
+9003,asian fusion
+9004,asian fusion
+9005,canadian (new)
+9006,asian fusion
+9007,asian fusion
+9008,american (new)
+9009,canadian (new)
+9010,asian fusion
+9011,asian fusion
+9012,mexican
+9013,asian fusion
+9014,american (traditional)
+9015,mexican
+9016,asian fusion
+9017,mexican
+9018,asian fusion
+9019,american (new)
+9020,asian fusion
+9021,asian fusion
+9022,mexican
+9023,japanese
+9024,asian fusion
+9025,american (traditional)
+9026,canadian (new)
+9027,asian fusion
+9028,mexican
+9029,asian fusion
+9030,american (new)
+9031,japanese
+9032,american (new)
+9033,japanese
+9034,italian
+9035,american (traditional)
+9036,italian
+9037,american (traditional)
+9038,mexican
+9039,japanese
+9040,american (new)
+9041,american (traditional)
+9042,mexican
+9043,chinese
+9044,canadian (new)
+9045,chinese
+9046,asian fusion
+9047,mexican
+9048,american (new)
+9049,asian fusion
+9050,american (new)
+9051,asian fusion
+9052,asian fusion
+9053,asian fusion
+9054,asian fusion
+9055,asian fusion
+9056,canadian (new)
+9057,asian fusion
+9058,american (new)
+9059,american (traditional)
+9060,asian fusion
+9061,mexican
+9062,american (new)
+9063,canadian (new)
+9064,american (new)
+9065,italian
+9066,canadian (new)
+9067,asian fusion
+9068,mexican
+9069,american (new)
+9070,american (new)
+9071,asian fusion
+9072,american (new)
+9073,asian fusion
+9074,mexican
+9075,mexican
+9076,mexican
+9077,asian fusion
+9078,american (traditional)
+9079,mexican
+9080,canadian (new)
+9081,american (new)
+9082,american (traditional)
+9083,canadian (new)
+9084,mexican
+9085,mexican
+9086,asian fusion
+9087,american (new)
+9088,asian fusion
+9089,asian fusion
+9090,chinese
+9091,american (traditional)
+9092,mexican
+9093,mexican
+9094,asian fusion
+9095,italian
+9096,asian fusion
+9097,canadian (new)
+9098,american (traditional)
+9099,japanese
+9100,mexican
+9101,mexican
+9102,mexican
+9103,american (traditional)
+9104,asian fusion
+9105,mexican
+9106,asian fusion
+9107,mediterranean
+9108,asian fusion
+9109,mexican
+9110,asian fusion
+9111,asian fusion
+9112,canadian (new)
+9113,american (new)
+9114,asian fusion
+9115,asian fusion
+9116,american (new)
+9117,asian fusion
+9118,american (new)
+9119,asian fusion
+9120,asian fusion
+9121,mexican
+9122,asian fusion
+9123,american (new)
+9124,asian fusion
+9125,mexican
+9126,asian fusion
+9127,mexican
+9128,canadian (new)
+9129,asian fusion
+9130,mexican
+9131,mexican
+9132,asian fusion
+9133,japanese
+9134,american (new)
+9135,mediterranean
+9136,american (new)
+9137,asian fusion
+9138,asian fusion
+9139,mexican
+9140,american (traditional)
+9141,canadian (new)
+9142,asian fusion
+9143,asian fusion
+9144,american (new)
+9145,asian fusion
+9146,american (new)
+9147,american (traditional)
+9148,japanese
+9149,canadian (new)
+9150,american (traditional)
+9151,american (new)
+9152,asian fusion
+9153,chinese
+9154,asian fusion
+9155,mexican
+9156,asian fusion
+9157,asian fusion
+9158,asian fusion
+9159,mexican
+9160,asian fusion
+9161,asian fusion
+9162,asian fusion
+9163,mexican
+9164,asian fusion
+9165,american (traditional)
+9166,asian fusion
+9167,american (new)
+9168,canadian (new)
+9169,asian fusion
+9170,american (new)
+9171,american (traditional)
+9172,italian
+9173,asian fusion
+9174,mexican
+9175,mexican
+9176,asian fusion
+9177,asian fusion
+9178,japanese
+9179,asian fusion
+9180,american (traditional)
+9181,mexican
+9182,asian fusion
+9183,american (traditional)
+9184,asian fusion
+9185,canadian (new)
+9186,asian fusion
+9187,american (new)
+9188,american (new)
+9189,american (traditional)
+9190,american (new)
+9191,asian fusion
+9192,american (new)
+9193,asian fusion
+9194,asian fusion
+9195,asian fusion
+9196,american (new)
+9197,mexican
+9198,american (new)
+9199,asian fusion
+9200,asian fusion
+9201,american (new)
+9202,american (traditional)
+9203,american (traditional)
+9204,american (new)
+9205,mexican
+9206,american (new)
+9207,asian fusion
+9208,american (new)
+9209,mexican
+9210,mexican
+9211,american (new)
+9212,asian fusion
+9213,italian
+9214,american (new)
+9215,american (new)
+9216,canadian (new)
+9217,american (traditional)
+9218,american (new)
+9219,american (new)
+9220,american (new)
+9221,mexican
+9222,japanese
+9223,asian fusion
+9224,mexican
+9225,italian
+9226,american (traditional)
+9227,mexican
+9228,american (traditional)
+9229,canadian (new)
+9230,mexican
+9231,canadian (new)
+9232,american (new)
+9233,asian fusion
+9234,american (traditional)
+9235,asian fusion
+9236,asian fusion
+9237,thai
+9238,asian fusion
+9239,canadian (new)
+9240,thai
+9241,asian fusion
+9242,asian fusion
+9243,american (new)
+9244,american (new)
+9245,asian fusion
+9246,asian fusion
+9247,asian fusion
+9248,japanese
+9249,asian fusion
+9250,chinese
+9251,asian fusion
+9252,american (new)
+9253,american (new)
+9254,asian fusion
+9255,american (new)
+9256,asian fusion
+9257,american (new)
+9258,american (new)
+9259,mexican
+9260,asian fusion
+9261,american (new)
+9262,american (new)
+9263,american (traditional)
+9264,mexican
+9265,asian fusion
+9266,american (new)
+9267,asian fusion
+9268,asian fusion
+9269,american (traditional)
+9270,american (traditional)
+9271,mexican
+9272,american (new)
+9273,mexican
+9274,asian fusion
+9275,asian fusion
+9276,american (traditional)
+9277,american (new)
+9278,mexican
+9279,mexican
+9280,american (new)
+9281,italian
+9282,asian fusion
+9283,american (new)
+9284,american (traditional)
+9285,mexican
+9286,asian fusion
+9287,mexican
+9288,mexican
+9289,american (traditional)
+9290,american (traditional)
+9291,mexican
+9292,chinese
+9293,asian fusion
+9294,asian fusion
+9295,mexican
+9296,canadian (new)
+9297,asian fusion
+9298,mexican
+9299,asian fusion
+9300,asian fusion
+9301,american (new)
+9302,american (new)
+9303,asian fusion
+9304,asian fusion
+9305,american (new)
+9306,asian fusion
+9307,american (traditional)
+9308,asian fusion
+9309,mexican
+9310,american (new)
+9311,american (new)
+9312,mexican
+9313,american (new)
+9314,asian fusion
+9315,american (new)
+9316,american (new)
+9317,canadian (new)
+9318,american (new)
+9319,asian fusion
+9320,american (traditional)
+9321,asian fusion
+9322,italian
+9323,asian fusion
+9324,american (new)
+9325,american (traditional)
+9326,american (traditional)
+9327,asian fusion
+9328,asian fusion
+9329,american (traditional)
+9330,american (new)
+9331,japanese
+9332,american (new)
+9333,asian fusion
+9334,asian fusion
+9335,asian fusion
+9336,asian fusion
+9337,american (new)
+9338,asian fusion
+9339,american (new)
+9340,asian fusion
+9341,american (new)
+9342,asian fusion
+9343,japanese
+9344,american (new)
+9345,mexican
+9346,asian fusion
+9347,asian fusion
+9348,american (traditional)
+9349,asian fusion
+9350,japanese
+9351,japanese
+9352,american (new)
+9353,asian fusion
+9354,japanese
+9355,asian fusion
+9356,american (new)
+9357,asian fusion
+9358,asian fusion
+9359,mediterranean
+9360,mexican
+9361,mexican
+9362,japanese
+9363,american (new)
+9364,asian fusion
+9365,chinese
+9366,american (new)
+9367,american (new)
+9368,mexican
+9369,mexican
+9370,asian fusion
+9371,asian fusion
+9372,american (new)
+9373,canadian (new)
+9374,american (new)
+9375,mediterranean
+9376,canadian (new)
+9377,asian fusion
+9378,canadian (new)
+9379,asian fusion
+9380,asian fusion
+9381,asian fusion
+9382,canadian (new)
+9383,japanese
+9384,asian fusion
+9385,asian fusion
+9386,japanese
+9387,asian fusion
+9388,asian fusion
+9389,italian
+9390,american (traditional)
+9391,asian fusion
+9392,asian fusion
+9393,mexican
+9394,american (new)
+9395,american (traditional)
+9396,asian fusion
+9397,asian fusion
+9398,asian fusion
+9399,american (traditional)
+9400,asian fusion
+9401,italian
+9402,asian fusion
+9403,mediterranean
+9404,mexican
+9405,asian fusion
+9406,american (new)
+9407,asian fusion
+9408,asian fusion
+9409,canadian (new)
+9410,asian fusion
+9411,american (new)
+9412,chinese
+9413,asian fusion
+9414,asian fusion
+9415,italian
+9416,american (new)
+9417,american (new)
+9418,mexican
+9419,asian fusion
+9420,asian fusion
+9421,chinese
+9422,american (traditional)
+9423,american (new)
+9424,mediterranean
+9425,asian fusion
+9426,mexican
+9427,american (new)
+9428,american (traditional)
+9429,asian fusion
+9430,asian fusion
+9431,japanese
+9432,asian fusion
+9433,canadian (new)
+9434,mexican
+9435,mexican
+9436,canadian (new)
+9437,asian fusion
+9438,mexican
+9439,asian fusion
+9440,asian fusion
+9441,mexican
+9442,american (traditional)
+9443,american (new)
+9444,mexican
+9445,asian fusion
+9446,mexican
+9447,american (new)
+9448,asian fusion
+9449,canadian (new)
+9450,canadian (new)
+9451,asian fusion
+9452,american (traditional)
+9453,asian fusion
+9454,asian fusion
+9455,asian fusion
+9456,american (new)
+9457,asian fusion
+9458,mexican
+9459,american (new)
+9460,asian fusion
+9461,american (new)
+9462,mexican
+9463,chinese
+9464,mexican
+9465,american (new)
+9466,asian fusion
+9467,asian fusion
+9468,asian fusion
+9469,asian fusion
+9470,american (new)
+9471,asian fusion
+9472,american (new)
+9473,asian fusion
+9474,canadian (new)
+9475,mediterranean
+9476,american (new)
+9477,asian fusion
+9478,canadian (new)
+9479,mexican
+9480,american (new)
+9481,american (new)
+9482,asian fusion
+9483,mexican
+9484,asian fusion
+9485,canadian (new)
+9486,asian fusion
+9487,canadian (new)
+9488,american (traditional)
+9489,american (traditional)
+9490,asian fusion
+9491,american (new)
+9492,american (traditional)
+9493,mexican
+9494,american (new)
+9495,american (new)
+9496,asian fusion
+9497,american (traditional)
+9498,asian fusion
+9499,canadian (new)
+9500,asian fusion
+9501,mexican
+9502,asian fusion
+9503,asian fusion
+9504,american (new)
+9505,asian fusion
+9506,japanese
+9507,american (new)
+9508,asian fusion
+9509,thai
+9510,american (new)
+9511,american (new)
+9512,asian fusion
+9513,asian fusion
+9514,american (new)
+9515,mexican
+9516,asian fusion
+9517,mexican
+9518,american (new)
+9519,italian
+9520,mexican
+9521,asian fusion
+9522,american (new)
+9523,asian fusion
+9524,mexican
+9525,american (new)
+9526,mexican
+9527,american (new)
+9528,asian fusion
+9529,american (traditional)
+9530,american (new)
+9531,american (new)
+9532,mexican
+9533,asian fusion
+9534,japanese
+9535,canadian (new)
+9536,asian fusion
+9537,canadian (new)
+9538,asian fusion
+9539,asian fusion
+9540,japanese
+9541,american (traditional)
+9542,mexican
+9543,thai
+9544,asian fusion
+9545,asian fusion
+9546,american (new)
+9547,canadian (new)
+9548,american (new)
+9549,italian
+9550,american (traditional)
+9551,chinese
+9552,canadian (new)
+9553,asian fusion
+9554,asian fusion
+9555,mexican
+9556,mexican
+9557,canadian (new)
+9558,american (traditional)
+9559,asian fusion
+9560,asian fusion
+9561,japanese
+9562,mediterranean
+9563,asian fusion
+9564,american (traditional)
+9565,asian fusion
+9566,american (new)
+9567,mexican
+9568,american (new)
+9569,asian fusion
+9570,american (new)
+9571,american (new)
+9572,asian fusion
+9573,american (traditional)
+9574,canadian (new)
+9575,asian fusion
+9576,italian
+9577,japanese
+9578,asian fusion
+9579,american (traditional)
+9580,canadian (new)
+9581,asian fusion
+9582,american (new)
+9583,american (traditional)
+9584,canadian (new)
+9585,japanese
+9586,asian fusion
+9587,mediterranean
+9588,american (new)
+9589,asian fusion
+9590,asian fusion
+9591,canadian (new)
+9592,mexican
+9593,mediterranean
+9594,american (traditional)
+9595,canadian (new)
+9596,american (traditional)
+9597,mexican
+9598,chinese
+9599,asian fusion
+9600,american (new)
+9601,mexican
+9602,american (new)
+9603,american (new)
+9604,american (traditional)
+9605,canadian (new)
+9606,american (new)
+9607,asian fusion
+9608,canadian (new)
+9609,mexican
+9610,mexican
+9611,asian fusion
+9612,canadian (new)
+9613,american (new)
+9614,canadian (new)
+9615,asian fusion
+9616,japanese
+9617,asian fusion
+9618,american (new)
+9619,italian
+9620,asian fusion
+9621,canadian (new)
+9622,american (new)
+9623,asian fusion
+9624,canadian (new)
+9625,chinese
+9626,mexican
+9627,asian fusion
+9628,mexican
+9629,american (new)
+9630,american (traditional)
+9631,asian fusion
+9632,mexican
+9633,canadian (new)
+9634,asian fusion
+9635,mexican
+9636,asian fusion
+9637,asian fusion
+9638,canadian (new)
+9639,american (new)
+9640,asian fusion
+9641,asian fusion
+9642,asian fusion
+9643,canadian (new)
+9644,mexican
+9645,canadian (new)
+9646,asian fusion
+9647,american (new)
+9648,american (traditional)
+9649,asian fusion
+9650,thai
+9651,mexican
+9652,canadian (new)
+9653,asian fusion
+9654,american (new)
+9655,asian fusion
+9656,japanese
+9657,asian fusion
+9658,american (new)
+9659,mexican
+9660,asian fusion
+9661,asian fusion
+9662,american (traditional)
+9663,thai
+9664,canadian (new)
+9665,american (traditional)
+9666,american (new)
+9667,canadian (new)
+9668,asian fusion
+9669,american (traditional)
+9670,mexican
+9671,asian fusion
+9672,asian fusion
+9673,american (new)
+9674,asian fusion
+9675,asian fusion
+9676,chinese
+9677,asian fusion
+9678,canadian (new)
+9679,american (traditional)
+9680,asian fusion
+9681,american (new)
+9682,mexican
+9683,asian fusion
+9684,mexican
+9685,japanese
+9686,asian fusion
+9687,asian fusion
+9688,mexican
+9689,american (new)
+9690,american (traditional)
+9691,asian fusion
+9692,asian fusion
+9693,canadian (new)
+9694,mexican
+9695,japanese
+9696,american (new)
+9697,mediterranean
+9698,canadian (new)
+9699,american (new)
+9700,asian fusion
+9701,american (traditional)
+9702,asian fusion
+9703,japanese
+9704,canadian (new)
+9705,mexican
+9706,asian fusion
+9707,asian fusion
+9708,japanese
+9709,american (new)
+9710,asian fusion
+9711,asian fusion
+9712,canadian (new)
+9713,american (new)
+9714,mediterranean
+9715,canadian (new)
+9716,asian fusion
+9717,mexican
+9718,american (new)
+9719,american (new)
+9720,japanese
+9721,canadian (new)
+9722,asian fusion
+9723,chinese
+9724,italian
+9725,asian fusion
+9726,american (traditional)
+9727,asian fusion
+9728,asian fusion
+9729,japanese
+9730,mexican
+9731,canadian (new)
+9732,american (new)
+9733,japanese
+9734,american (new)
+9735,mexican
+9736,american (traditional)
+9737,canadian (new)
+9738,canadian (new)
+9739,asian fusion
+9740,asian fusion
+9741,american (new)
+9742,canadian (new)
+9743,japanese
+9744,asian fusion
+9745,asian fusion
+9746,american (new)
+9747,asian fusion
+9748,asian fusion
+9749,american (new)
+9750,mediterranean
+9751,asian fusion
+9752,american (new)
+9753,mexican
+9754,asian fusion
+9755,american (new)
+9756,asian fusion
+9757,asian fusion
+9758,chinese
+9759,american (new)
+9760,american (new)
+9761,asian fusion
+9762,american (new)
+9763,american (new)
+9764,asian fusion
+9765,american (traditional)
+9766,italian
+9767,asian fusion
+9768,asian fusion
+9769,japanese
+9770,mexican
+9771,asian fusion
+9772,asian fusion
+9773,asian fusion
+9774,asian fusion
+9775,mexican
+9776,canadian (new)
+9777,american (traditional)
+9778,asian fusion
+9779,mediterranean
+9780,asian fusion
+9781,italian
+9782,mexican
+9783,american (traditional)
+9784,asian fusion
+9785,canadian (new)
+9786,american (new)
+9787,japanese
+9788,mediterranean
+9789,mexican
+9790,mexican
+9791,american (new)
+9792,asian fusion
+9793,asian fusion
+9794,mexican
+9795,mexican
+9796,american (new)
+9797,mexican
+9798,japanese
+9799,american (new)
+9800,asian fusion
+9801,canadian (new)
+9802,asian fusion
+9803,japanese
+9804,italian
+9805,asian fusion
+9806,asian fusion
+9807,asian fusion
+9808,american (new)
+9809,american (new)
+9810,canadian (new)
+9811,american (new)
+9812,asian fusion
+9813,mexican
+9814,canadian (new)
+9815,italian
+9816,american (new)
+9817,asian fusion
+9818,mexican
+9819,asian fusion
+9820,american (new)
+9821,mexican
+9822,asian fusion
+9823,mexican
+9824,canadian (new)
+9825,asian fusion
+9826,asian fusion
+9827,asian fusion
+9828,american (new)
+9829,asian fusion
+9830,american (traditional)
+9831,canadian (new)
+9832,american (traditional)
+9833,american (new)
+9834,american (traditional)
+9835,asian fusion
+9836,asian fusion
+9837,mediterranean
+9838,asian fusion
+9839,asian fusion
+9840,asian fusion
+9841,canadian (new)
+9842,canadian (new)
+9843,american (traditional)
+9844,american (new)
+9845,asian fusion
+9846,mexican
+9847,american (traditional)
+9848,asian fusion
+9849,american (traditional)
+9850,japanese
+9851,chinese
+9852,asian fusion
+9853,american (traditional)
+9854,asian fusion
+9855,asian fusion
+9856,american (traditional)
+9857,asian fusion
+9858,japanese
+9859,asian fusion
+9860,asian fusion
+9861,asian fusion
+9862,asian fusion
+9863,japanese
+9864,asian fusion
+9865,asian fusion
+9866,asian fusion
+9867,asian fusion
+9868,asian fusion
+9869,mexican
+9870,american (new)
+9871,mexican
+9872,asian fusion
+9873,mexican
+9874,mexican
+9875,chinese
+9876,asian fusion
+9877,mexican
+9878,american (traditional)
+9879,canadian (new)
+9880,american (new)
+9881,american (new)
+9882,italian
+9883,american (new)
+9884,mexican
+9885,american (new)
+9886,canadian (new)
+9887,thai
+9888,american (new)
+9889,asian fusion
+9890,asian fusion
+9891,asian fusion
+9892,american (new)
+9893,american (new)
+9894,asian fusion
+9895,asian fusion
+9896,mexican
+9897,japanese
+9898,american (new)
+9899,american (new)
+9900,asian fusion
+9901,asian fusion
+9902,japanese
+9903,asian fusion
+9904,japanese
+9905,american (traditional)
+9906,asian fusion
+9907,american (traditional)
+9908,asian fusion
+9909,mexican
+9910,asian fusion
+9911,asian fusion
+9912,asian fusion
+9913,asian fusion
+9914,american (new)
+9915,american (new)
+9916,mexican
+9917,japanese
+9918,asian fusion
+9919,american (new)
+9920,mexican
+9921,american (new)
+9922,american (new)
+9923,asian fusion
+9924,mediterranean
+9925,japanese
+9926,asian fusion
+9927,asian fusion
+9928,mexican
+9929,japanese
+9930,asian fusion
+9931,american (new)
+9932,asian fusion
+9933,asian fusion
+9934,asian fusion
+9935,american (new)
+9936,asian fusion
+9937,american (new)
+9938,canadian (new)
+9939,american (new)
+9940,asian fusion
+9941,asian fusion
+9942,chinese
+9943,american (new)
+9944,asian fusion
+9945,japanese
+9946,asian fusion
+9947,asian fusion
+9948,mexican
+9949,asian fusion
+9950,american (new)
+9951,mexican
+9952,asian fusion
+9953,american (new)
+9954,mexican
+9955,canadian (new)
+9956,asian fusion
+9957,asian fusion
+9958,american (new)
+9959,asian fusion
+9960,mexican
+9961,asian fusion
+9962,asian fusion
+9963,american (new)
+9964,canadian (new)
+9965,asian fusion
+9966,asian fusion
+9967,mexican
+9968,chinese
+9969,asian fusion
+9970,asian fusion
+9971,asian fusion
+9972,asian fusion
+9973,asian fusion
+9974,american (traditional)
+9975,american (new)
+9976,asian fusion
+9977,american (new)
+9978,asian fusion
+9979,mexican
+9980,asian fusion
+9981,asian fusion
+9982,asian fusion
+9983,chinese
+9984,american (new)
+9985,asian fusion
+9986,american (traditional)
+9987,chinese
+9988,italian
+9989,asian fusion
+9990,asian fusion
+9991,mexican
+9992,mexican
+9993,asian fusion
+9994,asian fusion
+9995,mediterranean
+9996,american (new)
+9997,asian fusion
+9998,american (traditional)
+9999,american (traditional)
