@@ -21,7 +21,7 @@ Our best model achieves **81% validation accuracy**, significantly outperforming
  
 #### Label Distribution in Training Set
 
-![Label Distribution](assets/label_distribution.png)
+![Label Distribution](visualizations/label_distribution.png)
 
 ### `test.csv`
 - Same structure, but without the label column
@@ -43,7 +43,7 @@ Additional experiments incorporated structured features into ensemble models usi
 
 #### Model Test Accuracy Comparison
 
-![Model Accuracy](assets/model_accuracy_comparison.png)
+![Model Accuracy](visualizations/model_accuracy_comparison.png)
 
 ## Conclusion
 
